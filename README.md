@@ -3,6 +3,20 @@
 ![Picture of AOA simulated via Silicon Lab's software](imgs/image-2.png)
 Exploring Bluetooth 5.1 direction finding using Silicon Labs hardware and the RTL (Real-Time Locating) library.
 
+## Current Project Status
+
+- [x] Hardware is fully functional (BRD4191A locator + BG22 tag).
+- [x] AoA Analyzer successfully detects azimuth/elevation from the tag.
+- [x] Python visualizer (`app.py`) runs and connects to MQTT.
+- [ ] (bt_aoa_host_locator, bt_host_positioning) work/available
+- [x] Temporary config files were created manually to test the visualizer.
+- [ ] Angle/position data appears
+
+## Mosquitto + Reminder
+
+Use: `mosquitto -c /opt/homebrew/etc/mosquitto/mosquitto.conf`
+in terminal to run mosquitto service (via brew install) before running python file!
+
 ## **Motivation**
 
 Indoor positioning remains an open challenge for navigation, asset tracking, and smart environments. While GPS has transformed outdoor localization, it does not work indoors due to multipath and signal attenuation. Bluetooth 5.1 introduced **Direction Finding**, enabling receivers with antenna arrays to estimate **Angle of Arrival (AoA)** and thus localize BLE tags. In this project, we move beyond simulations to **build a real Bluetooth indoor localization platform** using commercial development boards, antenna arrays, and Silicon Labs’ RTL library. This hands-on system will let us stream real-time angle and position estimates, evaluate localization accuracy, and gain experience with both wireless signal processing and end-to-end IoT system design.
@@ -46,7 +60,7 @@ Pipeline (end-to-end):
 ## **Bill of Materials (minimum viable)**
 
 - 1× **Tag**: EFR32xG22/G24 dev board (e.g., Thunderboard BG22), **BRD4184A with CR2032 battery**
-- **Locators**: at least **2** antenna array boards (recommended **4** for robust 2D/3D), each on a WSTK + EFR32xG22 running NCP locator FW.
+- **Locators**: ~~at least **2** antenna array boards (recommended **4** for robust 2D/3D), each on a WSTK + EFR32xG22 running NCP locator FW.~~ We sticking with 1 :D
 - **Antenna array**: Silicon Labs **BRD4191A 4×4 dual-polarized** URA (per locator).
 - **PC/Host**: Windows (MSYS2/MinGW-64) or Linux (Ubuntu) box to run host apps, MQTT broker, and optional Python viz.
 - Stands/ceiling mounts, tape measure, power, USB cables.

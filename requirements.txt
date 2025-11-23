@@ -1,0 +1,6 @@
+PyQt6
+pyqtgraph
+PyOpenGL
+numpy
+pillow
+paho-mqtt
