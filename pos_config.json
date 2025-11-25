@@ -12,7 +12,7 @@
 
   "locators": [
     {
-      "id": "ble-pd-60A423C966AA",
+      "id": "ble-pd-0C4314F0325A",
       "config": {
         "version": 1,
         "aoxMode": "SL_RTL_AOX_MODE_REAL_TIME_BASIC",
