@@ -80,14 +80,12 @@ Pipeline (end-to-end):
 - **RTL Library + Direction Finding Tool Suite (UG514)** – included as part of the Gecko/BT SDK packages in Simplicity Studio (used by the AoA Locator Host and Positioning Host apps).
 
 - **MQTT stack**
-
   - **Mosquitto** MQTT broker – used as the message bus between the host apps and visualizer  
     👉 https://mosquitto.org/download
   - (Optional) **MQTT Explorer** – nice GUI to inspect MQTT topics  
     👉 https://mqtt-explorer.com
 
 - **Build toolchain for the AoA Host apps**
-
   - **Windows:** `MSYS2`/`MinGW-w64` (for `make`, `gcc`, etc.)
   - **Linux:** standard `build-essential` + `libmosquitto-dev` (or distro equivalent)
 
@@ -135,121 +133,23 @@ New tag added (1): 60:A4:23:C9:66:AA
 
 ---
 
-## Experiment 1: BLE Interference & Localization Stability (With Calibration)
-
-**Goal:**  
-Evaluate how **BLE channel congestion** affects both the **accuracy** and the **stability** of Silicon Labs’ AoA-based indoor localization by measuring error at fixed, known positions.
-
----
-
-### Calibration Setup (Before Interference Testing)
-
-Define **3–5 calibration points** in your room with measured distances and angles relative to the locator.
-
-Example calibration points:
-
-- Point A: 1.0 m directly in front of antenna
-- Point B: 1.5 m at +30° right
-- Point C: 2.0 m at −45° left
-- Point D: 2.5 m straight ahead near doorway
-
-For each calibration point:
-
-1. Measure the **exact physical distance** to the locator.
-2. Record the **bearing** (azimuth direction).
-3. Place the tag on a tripod or stable surface.
-
-This produces your **ground truth dataset**.
-
----
-
-### Interference Conditions
-
-1. **Baseline (no interference):**
-
-   - Raspberry Pi OFF
-   - Collect 20–30 seconds of data at each calibration point.
-
-2. **BLE Interference ON:**
-   - Raspberry Pi 5 running a heavy BLE advertiser script (`btmgmt` continuous advertising)
-   - Collect the same duration of data at each point.
-
----
-
-### Data Collection
-
-Collect the positioning data from MQTT for each calibration point and condition:
-
-```bash
-mosquitto_sub -h localhost -t "silabs/aoa/position/#" -v > position_pointA_baseline.txt
-```
-
-Then:
-
-```bash
-mosquitto_sub -h localhost -t "silabs/aoa/position/#" -v > position_pointA_interference.txt
-```
-
-Repeat for Points B, C, D, etc.
-
----
-
-### Analysis Plan
-
-For each calibration point:
-
-1. **Accuracy (mean error)**
-
-   - Compute mean (x, y)
-   - Compare to ground-truth using Euclidean distance.
-
-2. **Precision (stability)**
-
-   - Compute variance and standard deviation of x and y.
-
-3. **Angle behavior**
-
-   - Compare azimuth and elevation spread under baseline vs interference.
-
-4. **Visualizations**
-
-   - Scatter plot of (x, y) position cloud
-   - Mean error bar chart across conditions
-   - Variance boxplot
-   - Optional time-series x(t), y(t)
-
----
-
-### What This Experiment Shows
-
-- How BLE congestion impacts AoA localization accuracy
-- Whether position estimates drift, jump, or destabilize
-- Which angles/directions are most susceptible to interference
-- How resilient Silicon Labs’ AoA solution is in a real indoor environment
-
-## Experiment 2: Human Movement, Obstruction, and Doorway Effects
+## Experiment: Human Movement, Obstruction, and Doorway Effects
 
 **Goal:**
-Determine how **human body placement**, **doorway obstruction**, and **BLE interference** affect the ability of the AoA system to track movement accurately.
+Determine how **human body placement** and **doorway obstruction** affect the ability of the AoA system to track movement accurately.
 
 **Setup:**
 
 - Define a path where the user walks **straight through a doorway** toward/away from the locator.
 - Tag in two placements:
-
   - **Hand-held**
   - **In pocket**
 
-- Optional: Include interference condition from Experiment 1.
-
 **Conditions:**
-Without interference:
 
 1. Control walk (no tag — verify no false positives)
 2. Tag in pocket
 3. Tag in hand
-
-With BLE interference (optional): 4. Tag in pocket + interference 5. Tag in hand + interference
 
 **Procedure:**
 For each recorded walk:
@@ -267,11 +167,42 @@ For each recorded walk:
 
 - Plot _x(t)_, _y(t)_, and trajectories (x vs y).
 - Compare:
-
   - Pocket vs hand: body-blocking effects
-  - With vs without interference: increased noise or drift
   - Doorway transition detection clarity
-
 - Discuss multipath, human absorption, distance estimation challenges, and tracking latency.
+
+---
+
+### Data Collection
+
+Collect the positioning data from MQTT for each calibration point and condition:
+
+```bash
+mosquitto_sub -h localhost -t "silabs/aoa/position/#" -v > position_pointA_baseline.txt
+```
+
+Repeat for Points B, C, D, etc.
+
+---
+
+### Analysis Plan
+
+For each calibration point:
+
+1. **Accuracy (mean error)**
+   - Compute mean (x, y)
+   - Compare to ground-truth using Euclidean distance.
+
+2. **Precision (stability)**
+   - Compute variance and standard deviation of x and y.
+
+3. **Angle behavior**
+   - Compare azimuth and elevation spread.
+
+4. **Visualizations**
+   - Scatter plot of (x, y) position cloud
+   - Mean error bar chart across conditions
+   - Variance boxplot
+   - Optional time-series x(t), y(t)
 
 ---
