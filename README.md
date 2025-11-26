@@ -11,6 +11,9 @@ Exploring Bluetooth 5.1 direction finding using Silicon Labs hardware and the RT
 - [x] (bt_aoa_host_locator, bt_host_positioning) work/available
 - [x] Temporary config files were created manually to test the visualizer.
 - [x] Angle/position data appears
+- [x] Video Made
+- [ ] Video Edited
+- [ ] Project + Video Submitted
 
 ## Mosquitto + Reminder
 
@@ -68,24 +71,26 @@ Pipeline (end-to-end):
 
 ## Software You’ll Need
 
-- **Simplicity Studio 5** – main IDE and tooling for Silicon Labs hardware  
+- **Simplicity Studio 5** - main IDE and tooling for Silicon Labs hardware  
   👉 Download: https://www.silabs.com/software-and-tools/simplicity-studio/simplicity-studio-version-5
 
-- **Gecko SDK** – I downloaded this separately and added it into Simplecity Studio via after unzipping.  
+- **Gecko SDK** - I downloaded this separately and added it into Simplecity Studio via after unzipping.  
   👉 Releases: https://github.com/SiliconLabs/gecko_sdk/releases  
   _(Use the latest release and grab it from the **Assets** section.)_
 
-- **Bluetooth SDK ≥ v3.1** – installs automatically via Simplicity Studio’s Package Manager (used for the AoA sample projects).
+- **Bluetooth SDK ≥ v3.1** - installs automatically via Simplicity Studio’s Package Manager (used for the AoA sample projects).
 
-- **RTL Library + Direction Finding Tool Suite (UG514)** – included as part of the Gecko/BT SDK packages in Simplicity Studio (used by the AoA Locator Host and Positioning Host apps).
+- **RTL Library + Direction Finding Tool Suite (UG514)** - included as part of the Gecko/BT SDK packages in Simplicity Studio (used by the AoA Locator Host and Positioning Host apps).
 
 - **MQTT stack**
-  - **Mosquitto** MQTT broker – used as the message bus between the host apps and visualizer  
+
+  - **Mosquitto** MQTT broker - used as the message bus between the host apps and visualizer  
     👉 https://mosquitto.org/download
-  - (Optional) **MQTT Explorer** – nice GUI to inspect MQTT topics  
+  - (Optional) **MQTT Explorer** - nice GUI to inspect MQTT topics  
     👉 https://mqtt-explorer.com
 
 - **Build toolchain for the AoA Host apps**
+
   - **Windows:** `MSYS2`/`MinGW-w64` (for `make`, `gcc`, etc.)
   - **Linux:** standard `build-essential` + `libmosquitto-dev` (or distro equivalent)
 
@@ -133,43 +138,119 @@ New tag added (1): 60:A4:23:C9:66:AA
 
 ---
 
-## Experiment: Human Movement, Obstruction, and Doorway Effects
+# Experiment 1: Human Obstruction & Placement Effects on Bluetooth 5.1 AoA
 
-**Goal:**
-Determine how **human body placement** and **doorway obstruction** affect the ability of the AoA system to track movement accurately.
+This first experiment explores how **tag placement** (hand vs pocket) and **human-body obstruction** affect the RTL library’s **azimuth**, **elevation**, and **distance** estimates.
+All captures were collected at **50 sequences per second**, from the same static position, with only the _human_ changing position relative to the antenna array.
 
-**Setup:**
+---
 
-- Define a path where the user walks **straight through a doorway** toward/away from the locator.
-- Tag in two placements:
-  - **Hand-held**
-  - **In pocket**
+## What I Learned (Summary of Key Findings)
 
-**Conditions:**
+- **In-hand azimuth is much more stable than in-pocket**
+  (in-hand = tight curves; in-pocket = high variability even when still, plus large swings during motion)
 
-1. Control walk (no tag — verify no false positives)
-2. Tag in pocket
-3. Tag in hand
+- **In-hand distance shows clearer multi-peak structure**
+  (in-hand peaks are sharp; in-pocket peaks smear, shift, and show more noise)
 
-**Procedure:**
-For each recorded walk:
+- **Elevation differs: in-hand is spikier, in-pocket is flatter**
+  (in-hand reacts strongly to small orientation changes; in-pocket is flattened by torso absorption but still noisy)
 
-- 0–10s: Stand still
-- 10–20s: Walk through the doorway at normal pace
-- 20–30s: Stand still on opposite side
-- Log via:
+- **Polar plots: in-hand is clean, in-pocket is chaotic**
+  (in-hand = well-defined lobes; in-pocket = jumps at beginning/end, inward “snaps,” and unstable angles)
 
-  ```bash
-  mosquitto_sub -h localhost -t "silabs/aoa/position/#" -v > walk_conditionX.txt
-  ```
+---
 
-**Analysis:**
+## Coolest Visuals from Experiment 1
 
-- Plot _x(t)_, _y(t)_, and trajectories (x vs y).
-- Compare:
-  - Pocket vs hand: body-blocking effects
-  - Doorway transition detection clarity
-- Discuss multipath, human absorption, distance estimation challenges, and tracking latency.
+Below are the plots that demonstrate the biggest differences between **in-hand** vs **in-pocket** placement.
+
+---
+
+## 1. In-Hand Stability (Run A)
+
+### Azimuth
+
+![](experiment1/plots_trimmed/inhand_a_azimuth_trimmed.png)
+
+### Elevation
+
+![](experiment1/plots_trimmed/inhand_a_elevation_trimmed.png)
+
+### Distance
+
+![](experiment1/plots_trimmed/inhand_a_distance_trimmed.png)
+
+### Polar Plot
+
+![](experiment1/plots_trimmed/inhand_a_polar_distance_azimuth_trimmed.png)
+
+---
+
+## 2. In-Pocket (Run A)
+
+In this run, the tag was in my pocket. I stayed mostly still at first, then **turned around near the end of the sequence**.
+
+### Azimuth
+
+![In-pocket azimuth](experiment1/plots_trimmed/inpocket_a_azimuth_trimmed.png)
+
+- Early in the capture, azimuth is biased but somewhat clustered.
+- When I turn around at the end, the combination of **body blockage + rotation** causes large, abrupt swings in the estimated angle.
+
+### Elevation
+
+![In-pocket elevation](experiment1/plots_trimmed/inpocket_a_elevation_trimmed.png)
+
+- Elevation stays loosely grouped and shows spread than the hand-held case. (Given my hand was moving while this was just sitting in my pocket)
+- Small posture changes are enough to move the estimate around.
+
+### Distance
+
+![In-pocket distance](experiment1/plots_trimmed/inpocket_a_distance_trimmed.png)
+
+- The Global Maxima of the graph represents the exact time I was right above the antenna array.
+
+### Polar Plot
+
+![In-pocket polar](experiment1/plots_trimmed/inpocket_a_polar_distance_azimuth_trimmed.png)
+
+- Very similar to the inhand varient.
+
+---
+
+## Side-by-Side Norm Comparison
+
+### Azimuth (Normalized)
+
+<table>
+<tr>
+<td align="center"><b>In-Hand</b><br><img src="experiment1/plots_trimmed/inhand_all_azimuth_norm.png" width="400"></td>
+<td align="center"><b>In-Pocket</b><br><img src="experiment1/plots_trimmed/inpocket_all_azimuth_norm.png" width="400"></td>
+</tr>
+</table>
+
+---
+
+## Elevation (Normalized)
+
+<table>
+<tr>
+<td align="center"><b>In-Hand</b><br><img src="experiment1/plots_trimmed/inhand_all_elevation_norm.png" width="400"></td>
+<td align="center"><b>In-Pocket</b><br><img src="experiment1/plots_trimmed/inpocket_all_elevation_norm.png" width="400"></td>
+</tr>
+</table>
+
+---
+
+## Distance (Normalized)
+
+<table>
+<tr>
+<td align="center"><b>In-Hand</b><br><img src="experiment1/plots_trimmed/inhand_all_distance_norm.png" width="400"></td>
+<td align="center"><b>In-Pocket</b><br><img src="experiment1/plots_trimmed/inpocket_all_distance_norm.png" width="400"></td>
+</tr>
+</table>
 
 ---
 
@@ -178,31 +259,5 @@ For each recorded walk:
 Collect the positioning data from MQTT for each calibration point and condition:
 
 ```bash
-mosquitto_sub -h localhost -t "silabs/aoa/position/#" -v > position_pointA_baseline.txt
+mosquitto_sub -h localhost -t "silabs/aoa/position/#" -v > conditionA_attemptX.txt
 ```
-
-Repeat for Points B, C, D, etc.
-
----
-
-### Analysis Plan
-
-For each calibration point:
-
-1. **Accuracy (mean error)**
-   - Compute mean (x, y)
-   - Compare to ground-truth using Euclidean distance.
-
-2. **Precision (stability)**
-   - Compute variance and standard deviation of x and y.
-
-3. **Angle behavior**
-   - Compare azimuth and elevation spread.
-
-4. **Visualizations**
-   - Scatter plot of (x, y) position cloud
-   - Mean error bar chart across conditions
-   - Variance boxplot
-   - Optional time-series x(t), y(t)
-
----

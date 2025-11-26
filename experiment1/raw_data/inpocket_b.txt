@@ -1,0 +1,6129 @@
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-67.823883056640625,
+	"azimuth_stdev":	0.68032366037368774,
+	"elevation":	9.71908950805664,
+	"elevation_stdev":	1.5309079885482788,
+	"distance":	3.9422585964202881,
+	"distance_stdev":	0,
+	"sequence":	9170
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-67.59527587890625,
+	"azimuth_stdev":	0.54466426372528076,
+	"elevation":	9.15391445159912,
+	"elevation_stdev":	1.2925324440002441,
+	"distance":	3.9704306125640869,
+	"distance_stdev":	0,
+	"sequence":	9171
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-67.205474853515625,
+	"azimuth_stdev":	0.40316838026046753,
+	"elevation":	8.30140781402588,
+	"elevation_stdev":	1.3017891645431519,
+	"distance":	4.0171098709106445,
+	"distance_stdev":	0,
+	"sequence":	9172
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-67.156845092773438,
+	"azimuth_stdev":	0.43027934432029724,
+	"elevation":	8.36703681945801,
+	"elevation_stdev":	1.2909424304962158,
+	"distance":	4.03796625137329,
+	"distance_stdev":	0,
+	"sequence":	9173
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-66.703575134277344,
+	"azimuth_stdev":	0.531113564968109,
+	"elevation":	9.3978891372680664,
+	"elevation_stdev":	1.2940529584884644,
+	"distance":	4.072697639465332,
+	"distance_stdev":	0,
+	"sequence":	9174
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-67.011627197265625,
+	"azimuth_stdev":	0.551314651966095,
+	"elevation":	9.9215555191040039,
+	"elevation_stdev":	1.2623395919799805,
+	"distance":	4.095026969909668,
+	"distance_stdev":	0,
+	"sequence":	9175
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-66.157867431640625,
+	"azimuth_stdev":	0.74133211374282837,
+	"elevation":	10.474472999572754,
+	"elevation_stdev":	1.1108042001724243,
+	"distance":	4.11227035522461,
+	"distance_stdev":	0,
+	"sequence":	9176
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-65.587776184082031,
+	"azimuth_stdev":	1.0090600252151489,
+	"elevation":	11.656327247619629,
+	"elevation_stdev":	1.415120005607605,
+	"distance":	4.1494255065917969,
+	"distance_stdev":	0,
+	"sequence":	9177
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-65.396591186523438,
+	"azimuth_stdev":	1.1863232851028442,
+	"elevation":	12.517887115478516,
+	"elevation_stdev":	1.8635834455490112,
+	"distance":	4.1872811317443848,
+	"distance_stdev":	0,
+	"sequence":	9178
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-64.562530517578125,
+	"azimuth_stdev":	1.3715054988861084,
+	"elevation":	14.691885948181152,
+	"elevation_stdev":	2.7933650016784668,
+	"distance":	4.2269859313964844,
+	"distance_stdev":	0,
+	"sequence":	9179
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-63.9423599243164,
+	"azimuth_stdev":	1.5876964330673218,
+	"elevation":	17.3687915802002,
+	"elevation_stdev":	4.10184621810913,
+	"distance":	4.26414155960083,
+	"distance_stdev":	0,
+	"sequence":	9180
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-63.893218994140625,
+	"azimuth_stdev":	1.6730515956878662,
+	"elevation":	18.720069885253906,
+	"elevation_stdev":	5.11689329147339,
+	"distance":	4.30129623413086,
+	"distance_stdev":	0,
+	"sequence":	9181
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-64.2067184448242,
+	"azimuth_stdev":	1.6416195631027222,
+	"elevation":	19.977659225463867,
+	"elevation_stdev":	5.7693953514099121,
+	"distance":	4.32101821899414,
+	"distance_stdev":	0,
+	"sequence":	9182
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-63.96441650390625,
+	"azimuth_stdev":	1.5451351404190063,
+	"elevation":	21.356359481811523,
+	"elevation_stdev":	6.191258430480957,
+	"distance":	4.3607234954833984,
+	"distance_stdev":	0,
+	"sequence":	9183
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-63.474967956542969,
+	"azimuth_stdev":	1.5028221607208252,
+	"elevation":	20.789308547973633,
+	"elevation_stdev":	6.1578168869018555,
+	"distance":	4.37501859664917,
+	"distance_stdev":	0,
+	"sequence":	9184
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-63.980171203613281,
+	"azimuth_stdev":	1.1501427888870239,
+	"elevation":	20.186830520629883,
+	"elevation_stdev":	5.7087769508361816,
+	"distance":	4.3902902603149414,
+	"distance_stdev":	0,
+	"sequence":	9185
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-64.994644165039062,
+	"azimuth_stdev":	0.91632229089736938,
+	"elevation":	19.528474807739258,
+	"elevation_stdev":	4.8910245895385742,
+	"distance":	4.40365743637085,
+	"distance_stdev":	0,
+	"sequence":	9186
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-64.829681396484375,
+	"azimuth_stdev":	0.774508535861969,
+	"elevation":	19.007484436035156,
+	"elevation_stdev":	3.9160127639770508,
+	"distance":	4.4170241355896,
+	"distance_stdev":	0,
+	"sequence":	9187
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-63.958969116210938,
+	"azimuth_stdev":	0.611489474773407,
+	"elevation":	19.63273811340332,
+	"elevation_stdev":	2.6619100570678711,
+	"distance":	4.4268684387207031,
+	"distance_stdev":	0,
+	"sequence":	9188
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-62.444061279296875,
+	"azimuth_stdev":	0.90753114223480225,
+	"elevation":	20.499359130859375,
+	"elevation_stdev":	1.5926403999328613,
+	"distance":	4.467618465423584,
+	"distance_stdev":	0,
+	"sequence":	9189
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-62.38861083984375,
+	"azimuth_stdev":	1.1150757074356079,
+	"elevation":	20.172161102294922,
+	"elevation_stdev":	1.1127574443817139,
+	"distance":	4.4625329971313477,
+	"distance_stdev":	0,
+	"sequence":	9190
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-63.859703063964844,
+	"azimuth_stdev":	1.1150757074356079,
+	"elevation":	21.576992034912109,
+	"elevation_stdev":	1.1230055093765259,
+	"distance":	4.4451570510864258,
+	"distance_stdev":	0,
+	"sequence":	9191
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-64.573944091796875,
+	"azimuth_stdev":	1.1488747596740723,
+	"elevation":	23.174880981445312,
+	"elevation_stdev":	1.6835535764694214,
+	"distance":	4.4543676376342773,
+	"distance_stdev":	0,
+	"sequence":	9192
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-64.9908676147461,
+	"azimuth_stdev":	1.2415515184402466,
+	"elevation":	24.164518356323242,
+	"elevation_stdev":	2.29870343208313,
+	"distance":	4.44576072692871,
+	"distance_stdev":	0,
+	"sequence":	9193
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-63.892280578613281,
+	"azimuth_stdev":	1.2235184907913208,
+	"elevation":	23.758670806884766,
+	"elevation_stdev":	2.6237070560455322,
+	"distance":	4.435248851776123,
+	"distance_stdev":	0,
+	"sequence":	9194
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-62.453628540039062,
+	"azimuth_stdev":	1.3765435218811035,
+	"elevation":	24.3925952911377,
+	"elevation_stdev":	2.920454740524292,
+	"distance":	4.4167971611022949,
+	"distance_stdev":	0,
+	"sequence":	9195
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-62.024085998535156,
+	"azimuth_stdev":	1.446996808052063,
+	"elevation":	23.7669677734375,
+	"elevation_stdev":	2.8716578483581543,
+	"distance":	4.3744120597839355,
+	"distance_stdev":	0,
+	"sequence":	9196
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-62.312225341796875,
+	"azimuth_stdev":	1.3959922790527344,
+	"elevation":	22.576606750488281,
+	"elevation_stdev":	2.4688036441802979,
+	"distance":	4.3451080322265625,
+	"distance_stdev":	0,
+	"sequence":	9197
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-62.339645385742188,
+	"azimuth_stdev":	1.4087226390838623,
+	"elevation":	22.988748550415039,
+	"elevation_stdev":	2.0787043571472168,
+	"distance":	4.287226676940918,
+	"distance_stdev":	0,
+	"sequence":	9198
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-62.603363037109375,
+	"azimuth_stdev":	1.3957313299179077,
+	"elevation":	22.9135570526123,
+	"elevation_stdev":	1.7765763998031616,
+	"distance":	4.2249245643615723,
+	"distance_stdev":	0,
+	"sequence":	9199
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-62.935096740722656,
+	"azimuth_stdev":	1.3584259748458862,
+	"elevation":	23.898714065551758,
+	"elevation_stdev":	1.1804404258728027,
+	"distance":	4.17899227142334,
+	"distance_stdev":	0,
+	"sequence":	9200
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-62.618118286132812,
+	"azimuth_stdev":	1.3406071662902832,
+	"elevation":	24.879753112792969,
+	"elevation_stdev":	1.013330340385437,
+	"distance":	4.1191000938415527,
+	"distance_stdev":	0,
+	"sequence":	9201
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-62.050140380859375,
+	"azimuth_stdev":	1.2061222791671753,
+	"elevation":	27.074308395385742,
+	"elevation_stdev":	1.7807692289352417,
+	"distance":	4.0672574043273926,
+	"distance_stdev":	0,
+	"sequence":	9202
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-60.489303588867188,
+	"azimuth_stdev":	1.10225772857666,
+	"elevation":	30.195713043212891,
+	"elevation_stdev":	3.2454707622528076,
+	"distance":	4.0073652267456055,
+	"distance_stdev":	0,
+	"sequence":	9203
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-59.217727661132812,
+	"azimuth_stdev":	1.4933376312255859,
+	"elevation":	32.619922637939453,
+	"elevation_stdev":	4.7284393310546875,
+	"distance":	3.9696459770202637,
+	"distance_stdev":	0,
+	"sequence":	9204
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-59.097908020019531,
+	"azimuth_stdev":	1.8522270917892456,
+	"elevation":	33.788898468017578,
+	"elevation_stdev":	5.9034743309021,
+	"distance":	3.9004273414611816,
+	"distance_stdev":	0,
+	"sequence":	9205
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-59.2657470703125,
+	"azimuth_stdev":	2.0589628219604492,
+	"elevation":	36.700756072998047,
+	"elevation_stdev":	7.2246265411376953,
+	"distance":	3.8246510028839111,
+	"distance_stdev":	0,
+	"sequence":	9206
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-59.519248962402344,
+	"azimuth_stdev":	2.1179056167602539,
+	"elevation":	38.013408660888672,
+	"elevation_stdev":	7.9925494194030762,
+	"distance":	3.7631080150604248,
+	"distance_stdev":	0,
+	"sequence":	9207
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-59.496200561523438,
+	"azimuth_stdev":	2.1060068607330322,
+	"elevation":	40.162548065185547,
+	"elevation_stdev":	8.61951732635498,
+	"distance":	3.7162265777587891,
+	"distance_stdev":	0,
+	"sequence":	9208
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-59.464447021484375,
+	"azimuth_stdev":	1.9735201597213745,
+	"elevation":	41.282032012939453,
+	"elevation_stdev":	8.6901073455810547,
+	"distance":	3.6763854026794434,
+	"distance_stdev":	0,
+	"sequence":	9210
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-59.280082702636719,
+	"azimuth_stdev":	1.6442804336547852,
+	"elevation":	41.956661224365234,
+	"elevation_stdev":	8.3076171875,
+	"distance":	3.6000583171844482,
+	"distance_stdev":	0,
+	"sequence":	9211
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-59.462295532226562,
+	"azimuth_stdev":	1.16431188583374,
+	"elevation":	42.770412445068359,
+	"elevation_stdev":	7.4597206115722656,
+	"distance":	3.5356197357177734,
+	"distance_stdev":	0,
+	"sequence":	9212
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-57.8410873413086,
+	"azimuth_stdev":	0.83343362808227539,
+	"elevation":	40.976139068603516,
+	"elevation_stdev":	6.0785174369812,
+	"distance":	3.4666976928710938,
+	"distance_stdev":	0,
+	"sequence":	9213
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-55.853378295898438,
+	"azimuth_stdev":	1.5054863691329956,
+	"elevation":	39.504325866699219,
+	"elevation_stdev":	4.8044743537902832,
+	"distance":	3.3930590152740479,
+	"distance_stdev":	0,
+	"sequence":	9214
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-54.793838500976562,
+	"azimuth_stdev":	2.222614049911499,
+	"elevation":	37.934543609619141,
+	"elevation_stdev":	3.8041722774505615,
+	"distance":	3.328620433807373,
+	"distance_stdev":	0,
+	"sequence":	9215
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-53.270347595214844,
+	"azimuth_stdev":	3.0222020149230957,
+	"elevation":	36.5829734802246,
+	"elevation_stdev":	3.05734658241272,
+	"distance":	3.2849788665771484,
+	"distance_stdev":	0,
+	"sequence":	9216
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-50.743270874023438,
+	"azimuth_stdev":	4.0908088684082031,
+	"elevation":	35.929008483886719,
+	"elevation_stdev":	3.2282321453094482,
+	"distance":	3.2590370178222656,
+	"distance_stdev":	0,
+	"sequence":	9217
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-48.759124755859375,
+	"azimuth_stdev":	5.0929913520813,
+	"elevation":	34.759773254394531,
+	"elevation_stdev":	3.8167712688446045,
+	"distance":	3.21249508857727,
+	"distance_stdev":	0,
+	"sequence":	9218
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-46.532028198242188,
+	"azimuth_stdev":	6.0611276626586914,
+	"elevation":	33.698883056640625,
+	"elevation_stdev":	4.4654626846313477,
+	"distance":	3.1696903705596924,
+	"distance_stdev":	0,
+	"sequence":	9219
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-44.279617309570312,
+	"azimuth_stdev":	6.9201655387878418,
+	"elevation":	32.518310546875,
+	"elevation_stdev":	4.9466347694396973,
+	"distance":	3.11429762840271,
+	"distance_stdev":	0,
+	"sequence":	9220
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-42.500015258789062,
+	"azimuth_stdev":	7.507166862487793,
+	"elevation":	31.708503723144531,
+	"elevation_stdev":	5.08643388748169,
+	"distance":	3.0676181316375732,
+	"distance_stdev":	0,
+	"sequence":	9221
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-41.04754638671875,
+	"azimuth_stdev":	7.6110100746154785,
+	"elevation":	33.467926025390625,
+	"elevation_stdev":	4.2524433135986328,
+	"distance":	3.0383141040802,
+	"distance_stdev":	0,
+	"sequence":	9222
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-39.46331787109375,
+	"azimuth_stdev":	7.60707139968872,
+	"elevation":	33.788734436035156,
+	"elevation_stdev":	3.43427038192749,
+	"distance":	3.0174577236175537,
+	"distance_stdev":	0,
+	"sequence":	9224
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-37.590240478515625,
+	"azimuth_stdev":	7.6465945243835449,
+	"elevation":	34.954242706298828,
+	"elevation_stdev":	2.6388945579528809,
+	"distance":	2.9769406318664551,
+	"distance_stdev":	0,
+	"sequence":	9225
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-36.10455322265625,
+	"azimuth_stdev":	7.42147970199585,
+	"elevation":	35.881881713867188,
+	"elevation_stdev":	2.1855471134185791,
+	"distance":	2.9416117668151855,
+	"distance_stdev":	0,
+	"sequence":	9226
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-34.412094116210938,
+	"azimuth_stdev":	7.0544428825378418,
+	"elevation":	37.376998901367188,
+	"elevation_stdev":	2.3808996677398682,
+	"distance":	2.9019067287445068,
+	"distance_stdev":	0,
+	"sequence":	9227
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-31.373992919921875,
+	"azimuth_stdev":	7.1132779121398926,
+	"elevation":	37.587890625,
+	"elevation_stdev":	2.699397087097168,
+	"distance":	2.8926966190338135,
+	"distance_stdev":	0,
+	"sequence":	9228
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-28.641098022460938,
+	"azimuth_stdev":	7.37235403060913,
+	"elevation":	38.4526252746582,
+	"elevation_stdev":	3.1971361637115479,
+	"distance":	2.8671882152557373,
+	"distance_stdev":	0,
+	"sequence":	9229
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-25.238037109375,
+	"azimuth_stdev":	8.01479721069336,
+	"elevation":	39.7431755065918,
+	"elevation_stdev":	3.7493979930877686,
+	"distance":	2.8624286651611328,
+	"distance_stdev":	0,
+	"sequence":	9230
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-20.8919677734375,
+	"azimuth_stdev":	9.186431884765625,
+	"elevation":	40.041194915771484,
+	"elevation_stdev":	3.899855375289917,
+	"distance":	2.9031786918640137,
+	"distance_stdev":	0,
+	"sequence":	9231
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-17.053436279296875,
+	"azimuth_stdev":	10.480581283569336,
+	"elevation":	39.947711944580078,
+	"elevation_stdev":	3.474855899810791,
+	"distance":	2.8933334350585938,
+	"distance_stdev":	0,
+	"sequence":	9232
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-12.8548583984375,
+	"azimuth_stdev":	11.815007209777832,
+	"elevation":	40.8155746459961,
+	"elevation_stdev":	3.3118863105773926,
+	"distance":	2.94148850440979,
+	"distance_stdev":	0,
+	"sequence":	9233
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-9.635955810546875,
+	"azimuth_stdev":	12.867132186889648,
+	"elevation":	41.248886108398438,
+	"elevation_stdev":	2.9460911750793457,
+	"distance":	2.9624226093292236,
+	"distance_stdev":	0,
+	"sequence":	9234
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-8.1258544921875,
+	"azimuth_stdev":	13.311527252197266,
+	"elevation":	40.0815315246582,
+	"elevation_stdev":	2.3907608985900879,
+	"distance":	2.9984130859375,
+	"distance_stdev":	0,
+	"sequence":	9235
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-5.9129180908203125,
+	"azimuth_stdev":	13.27532958984375,
+	"elevation":	37.704952239990234,
+	"elevation_stdev":	1.9547699689865112,
+	"distance":	3.0312960147857666,
+	"distance_stdev":	0,
+	"sequence":	9236
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-3.53643798828125,
+	"azimuth_stdev":	12.783814430236816,
+	"elevation":	37.008914947509766,
+	"elevation_stdev":	2.0376217365264893,
+	"distance":	3.1722099781036377,
+	"distance_stdev":	0,
+	"sequence":	9237
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-4.629364013671875,
+	"azimuth_stdev":	11.541675567626953,
+	"elevation":	34.067707061767578,
+	"elevation_stdev":	3.0147004127502441,
+	"distance":	3.2813339233398438,
+	"distance_stdev":	0,
+	"sequence":	9239
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-5.782073974609375,
+	"azimuth_stdev":	9.6431293487548828,
+	"elevation":	29.175481796264648,
+	"elevation_stdev":	5.2518477439880371,
+	"distance":	3.4541211128234863,
+	"distance_stdev":	0,
+	"sequence":	9240
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-7.644378662109375,
+	"azimuth_stdev":	7.3410258293151855,
+	"elevation":	25.8068962097168,
+	"elevation_stdev":	7.3914613723754883,
+	"distance":	3.4541206359863281,
+	"distance_stdev":	0,
+	"sequence":	9241
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-4.8397369384765625,
+	"azimuth_stdev":	5.439518928527832,
+	"elevation":	26.92042350769043,
+	"elevation_stdev":	8.27534484863281,
+	"distance":	3.6056473255157471,
+	"distance_stdev":	0,
+	"sequence":	9242
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-0.922332763671875,
+	"azimuth_stdev":	4.3381891250610352,
+	"elevation":	27.9990406036377,
+	"elevation_stdev":	8.49210834503174,
+	"distance":	3.5998611450195312,
+	"distance_stdev":	0,
+	"sequence":	9243
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	2.980743408203125,
+	"azimuth_stdev":	4.7653450965881348,
+	"elevation":	28.396141052246094,
+	"elevation_stdev":	8.12426471710205,
+	"distance":	3.6269581317901611,
+	"distance_stdev":	0,
+	"sequence":	9244
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	0.931732177734375,
+	"azimuth_stdev":	4.73461389541626,
+	"elevation":	24.791690826416016,
+	"elevation_stdev":	7.675147533416748,
+	"distance":	3.7372164726257324,
+	"distance_stdev":	0,
+	"sequence":	9245
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-0.4533538818359375,
+	"azimuth_stdev":	4.4466252326965332,
+	"elevation":	23.488319396972656,
+	"elevation_stdev":	6.9839329719543457,
+	"distance":	3.8128445148468018,
+	"distance_stdev":	0,
+	"sequence":	9246
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-1.2416229248046875,
+	"azimuth_stdev":	4.2809414863586426,
+	"elevation":	22.994651794433594,
+	"elevation_stdev":	6.24255084991455,
+	"distance":	3.8437495231628418,
+	"distance_stdev":	0,
+	"sequence":	9247
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	0.5344696044921875,
+	"azimuth_stdev":	4.42213010787964,
+	"elevation":	24.242830276489258,
+	"elevation_stdev":	4.62574863433838,
+	"distance":	3.8766324520111084,
+	"distance_stdev":	0,
+	"sequence":	9248
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	2.635223388671875,
+	"azimuth_stdev":	4.6447896957397461,
+	"elevation":	24.673667907714844,
+	"elevation_stdev":	3.0103104114532471,
+	"distance":	3.9747216701507568,
+	"distance_stdev":	0,
+	"sequence":	9249
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	4.058502197265625,
+	"azimuth_stdev":	4.6547870635986328,
+	"elevation":	23.685092926025391,
+	"elevation_stdev":	2.6533346176147461,
+	"distance":	4.0524787902832031,
+	"distance_stdev":	0,
+	"sequence":	9250
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	5.763580322265625,
+	"azimuth_stdev":	3.9498538970947266,
+	"elevation":	24.349781036376953,
+	"elevation_stdev":	2.6708414554595947,
+	"distance":	4.0907888412475586,
+	"distance_stdev":	0,
+	"sequence":	9251
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	7.85711669921875,
+	"azimuth_stdev":	3.90728759765625,
+	"elevation":	26.1798210144043,
+	"elevation_stdev":	2.5839483737945557,
+	"distance":	4.200798511505127,
+	"distance_stdev":	0,
+	"sequence":	9252
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	10.134246826171875,
+	"azimuth_stdev":	4.7791929244995117,
+	"elevation":	25.899656295776367,
+	"elevation_stdev":	2.2121472358703613,
+	"distance":	4.2785558700561523,
+	"distance_stdev":	0,
+	"sequence":	9253
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	11.658599853515625,
+	"azimuth_stdev":	5.8633737564086914,
+	"elevation":	25.056640625,
+	"elevation_stdev":	1.4094948768615723,
+	"distance":	4.33305549621582,
+	"distance_stdev":	0,
+	"sequence":	9254
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	12.9014892578125,
+	"azimuth_stdev":	6.6252355575561523,
+	"elevation":	25.9057674407959,
+	"elevation_stdev":	1.5327856540679932,
+	"distance":	4.3843088150024414,
+	"distance_stdev":	0,
+	"sequence":	9255
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	14.303085327148438,
+	"azimuth_stdev":	6.9503540992736816,
+	"elevation":	26.64569091796875,
+	"elevation_stdev":	1.6445914506912231,
+	"distance":	4.4489288330078125,
+	"distance_stdev":	0,
+	"sequence":	9256
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	18.24371337890625,
+	"azimuth_stdev":	7.2898130416870117,
+	"elevation":	25.8974723815918,
+	"elevation_stdev":	1.3701645135879517,
+	"distance":	4.52668571472168,
+	"distance_stdev":	0,
+	"sequence":	9257
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	20.553207397460938,
+	"azimuth_stdev":	7.656407356262207,
+	"elevation":	26.204433441162109,
+	"elevation_stdev":	1.3301304578781128,
+	"distance":	4.68605089187622,
+	"distance_stdev":	0,
+	"sequence":	9258
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	21.441238403320312,
+	"azimuth_stdev":	7.7873716354370117,
+	"elevation":	26.556060791015625,
+	"elevation_stdev":	1.3515554666519165,
+	"distance":	4.7590022087097168,
+	"distance_stdev":	0,
+	"sequence":	9259
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	23.319366455078125,
+	"azimuth_stdev":	7.8035740852355957,
+	"elevation":	25.687864303588867,
+	"elevation_stdev":	0.95941460132598877,
+	"distance":	5.0407395362854,
+	"distance_stdev":	0,
+	"sequence":	9260
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	26.546295166015625,
+	"azimuth_stdev":	8.04726314544678,
+	"elevation":	24.437158584594727,
+	"elevation_stdev":	0.930588662624359,
+	"distance":	5.1742491722106934,
+	"distance_stdev":	0,
+	"sequence":	9261
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	29.6953125,
+	"azimuth_stdev":	8.5329627990722656,
+	"elevation":	23.857076644897461,
+	"elevation_stdev":	1.256183385848999,
+	"distance":	5.282503604888916,
+	"distance_stdev":	0,
+	"sequence":	9263
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	27.68133544921875,
+	"azimuth_stdev":	8.2009925842285156,
+	"elevation":	21.575691223144531,
+	"elevation_stdev":	2.1605257987976074,
+	"distance":	5.5570664405822754,
+	"distance_stdev":	0,
+	"sequence":	9264
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	26.830764770507812,
+	"azimuth_stdev":	7.4218692779541016,
+	"elevation":	19.094644546508789,
+	"elevation_stdev":	3.4456233978271484,
+	"distance":	5.6602458953857422,
+	"distance_stdev":	0,
+	"sequence":	9265
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	26.149520874023438,
+	"azimuth_stdev":	6.2310910224914551,
+	"elevation":	17.660358428955078,
+	"elevation_stdev":	4.5115318298339844,
+	"distance":	5.8050923347473145,
+	"distance_stdev":	0,
+	"sequence":	9266
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	24.653793334960938,
+	"azimuth_stdev":	4.6270852088928223,
+	"elevation":	16.687515258789062,
+	"elevation_stdev":	5.2150464057922363,
+	"distance":	5.98173952102661,
+	"distance_stdev":	0,
+	"sequence":	9267
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	23.923934936523438,
+	"azimuth_stdev":	3.6816236972808838,
+	"elevation":	15.242654800415039,
+	"elevation_stdev":	5.9008693695068359,
+	"distance":	6.1525125503540039,
+	"distance_stdev":	0,
+	"sequence":	9268
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	24.0474853515625,
+	"azimuth_stdev":	3.1158719062805176,
+	"elevation":	15.317845344543457,
+	"elevation_stdev":	6.0555596351623535,
+	"distance":	6.2676825523376465,
+	"distance_stdev":	0,
+	"sequence":	9269
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	23.319747924804688,
+	"azimuth_stdev":	2.7405192852020264,
+	"elevation":	16.2790641784668,
+	"elevation_stdev":	5.5528836250305176,
+	"distance":	6.44749355316162,
+	"distance_stdev":	0,
+	"sequence":	9270
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	23.16424560546875,
+	"azimuth_stdev":	2.76524567604065,
+	"elevation":	16.804759979248047,
+	"elevation_stdev":	4.7732377052307129,
+	"distance":	6.6257915496826172,
+	"distance_stdev":	0,
+	"sequence":	9271
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	22.572418212890625,
+	"azimuth_stdev":	2.9823224544525146,
+	"elevation":	18.449253082275391,
+	"elevation_stdev":	3.8644750118255615,
+	"distance":	6.8135871887207031,
+	"distance_stdev":	0,
+	"sequence":	9273
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	23.574081420898438,
+	"azimuth_stdev":	2.22130274772644,
+	"elevation":	17.915309906005859,
+	"elevation_stdev":	2.6540758609771729,
+	"distance":	6.9515180587768555,
+	"distance_stdev":	0,
+	"sequence":	9274
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	25.084487915039062,
+	"azimuth_stdev":	1.7542552947998047,
+	"elevation":	16.791164398193359,
+	"elevation_stdev":	1.7583822011947632,
+	"distance":	7.0825395584106445,
+	"distance_stdev":	0,
+	"sequence":	9275
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	25.422027587890625,
+	"azimuth_stdev":	1.4485064744949341,
+	"elevation":	16.054468154907227,
+	"elevation_stdev":	1.4742051362991333,
+	"distance":	7.339592456817627,
+	"distance_stdev":	0,
+	"sequence":	9276
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	23.646759033203125,
+	"azimuth_stdev":	1.1501427888870239,
+	"elevation":	17.238431930541992,
+	"elevation_stdev":	1.4272656440734863,
+	"distance":	7.5185236930847168,
+	"distance_stdev":	0,
+	"sequence":	9277
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	22.13311767578125,
+	"azimuth_stdev":	1.3112043142318726,
+	"elevation":	18.009799957275391,
+	"elevation_stdev":	1.5430446863174438,
+	"distance":	7.61717987060547,
+	"distance_stdev":	0,
+	"sequence":	9278
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	21.318801879882812,
+	"azimuth_stdev":	1.6208503246307373,
+	"elevation":	18.636722564697266,
+	"elevation_stdev":	1.5238609313964844,
+	"distance":	7.7506890296936035,
+	"distance_stdev":	0,
+	"sequence":	9279
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	21.95220947265625,
+	"azimuth_stdev":	1.6968337297439575,
+	"elevation":	16.807571411132812,
+	"elevation_stdev":	1.2560746669769287,
+	"distance":	7.8988018035888672,
+	"distance_stdev":	0,
+	"sequence":	9280
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	22.489822387695312,
+	"azimuth_stdev":	1.7215569019317627,
+	"elevation":	15.774169921875,
+	"elevation_stdev":	1.3596177101135254,
+	"distance":	8.028782844543457,
+	"distance_stdev":	0,
+	"sequence":	9281
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	22.87005615234375,
+	"azimuth_stdev":	1.7249391078948975,
+	"elevation":	14.812499046325684,
+	"elevation_stdev":	1.7312077283859253,
+	"distance":	8.1797981262207031,
+	"distance_stdev":	0,
+	"sequence":	9282
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	23.5869140625,
+	"azimuth_stdev":	1.7166832685470581,
+	"elevation":	14.80198860168457,
+	"elevation_stdev":	1.8371685743331909,
+	"distance":	8.26877021789551,
+	"distance_stdev":	0,
+	"sequence":	9283
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	24.181381225585938,
+	"azimuth_stdev":	1.7584034204483032,
+	"elevation":	13.998215675354004,
+	"elevation_stdev":	2.0666599273681641,
+	"distance":	8.39979076385498,
+	"distance_stdev":	0,
+	"sequence":	9284
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	24.919525146484375,
+	"azimuth_stdev":	1.7274715900421143,
+	"elevation":	14.341493606567383,
+	"elevation_stdev":	2.21525239944458,
+	"distance":	8.55706214904785,
+	"distance_stdev":	0,
+	"sequence":	9285
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	24.268218994140625,
+	"azimuth_stdev":	1.5081461668014526,
+	"elevation":	13.894265174865723,
+	"elevation_stdev":	2.409226655960083,
+	"distance":	8.6904048919677734,
+	"distance_stdev":	0,
+	"sequence":	9286
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	24.304458618164062,
+	"azimuth_stdev":	1.5727109909057617,
+	"elevation":	13.04761791229248,
+	"elevation_stdev":	2.5822370052337646,
+	"distance":	8.79890251159668,
+	"distance_stdev":	0,
+	"sequence":	9287
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	23.424392700195312,
+	"azimuth_stdev":	1.4960188865661621,
+	"elevation":	13.190781593322754,
+	"elevation_stdev":	2.4039311408996582,
+	"distance":	8.92121124267578,
+	"distance_stdev":	0,
+	"sequence":	9288
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	22.887283325195312,
+	"azimuth_stdev":	1.2142516374588013,
+	"elevation":	12.391493797302246,
+	"elevation_stdev":	1.8362482786178589,
+	"distance":	9.0495433807373047,
+	"distance_stdev":	0,
+	"sequence":	9289
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	21.826461791992188,
+	"azimuth_stdev":	1.2450681924819946,
+	"elevation":	11.121845245361328,
+	"elevation_stdev":	1.8738410472869873,
+	"distance":	9.15442943572998,
+	"distance_stdev":	0,
+	"sequence":	9290
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	21.710952758789062,
+	"azimuth_stdev":	1.3918101787567139,
+	"elevation":	11.861562728881836,
+	"elevation_stdev":	1.7454427480697632,
+	"distance":	9.2148923873901367,
+	"distance_stdev":	0,
+	"sequence":	9291
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	22.40533447265625,
+	"azimuth_stdev":	1.4368901252746582,
+	"elevation":	13.771883010864258,
+	"elevation_stdev":	1.6123676300048828,
+	"distance":	9.292515754699707,
+	"distance_stdev":	0,
+	"sequence":	9292
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	23.5506591796875,
+	"azimuth_stdev":	1.4356216192245483,
+	"elevation":	15.096561431884766,
+	"elevation_stdev":	1.6775649785995483,
+	"distance":	9.37503242492676,
+	"distance_stdev":	0,
+	"sequence":	9293
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	24.289398193359375,
+	"azimuth_stdev":	1.44800341129303,
+	"elevation":	15.203117370605469,
+	"elevation_stdev":	1.8633286952972412,
+	"distance":	9.37503242492676,
+	"distance_stdev":	0,
+	"sequence":	9294
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	23.352813720703125,
+	"azimuth_stdev":	1.2642351388931274,
+	"elevation":	14.528979301452637,
+	"elevation_stdev":	1.8855727910995483,
+	"distance":	9.4088115692138672,
+	"distance_stdev":	0,
+	"sequence":	9295
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	24.753005981445312,
+	"azimuth_stdev":	1.3527818918228149,
+	"elevation":	15.985992431640625,
+	"elevation_stdev":	2.1994476318359375,
+	"distance":	9.40881061553955,
+	"distance_stdev":	0,
+	"sequence":	9296
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	22.82177734375,
+	"azimuth_stdev":	1.271419882774353,
+	"elevation":	17.12104606628418,
+	"elevation_stdev":	2.6546149253845215,
+	"distance":	9.40140628814697,
+	"distance_stdev":	0,
+	"sequence":	9297
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	19.061553955078125,
+	"azimuth_stdev":	2.0691967010498047,
+	"elevation":	15.182780265808105,
+	"elevation_stdev":	2.6642594337463379,
+	"distance":	9.4088115692138672,
+	"distance_stdev":	0,
+	"sequence":	9298
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	13.905990600585938,
+	"azimuth_stdev":	4.1295394897460938,
+	"elevation":	15.399291038513184,
+	"elevation_stdev":	2.5446312427520752,
+	"distance":	9.4088115692138672,
+	"distance_stdev":	0,
+	"sequence":	9299
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	10.890975952148438,
+	"azimuth_stdev":	6.0715188980102539,
+	"elevation":	14.21666145324707,
+	"elevation_stdev":	1.9480955600738525,
+	"distance":	9.29880142211914,
+	"distance_stdev":	0,
+	"sequence":	9300
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	9.27381896972656,
+	"azimuth_stdev":	7.61797857284546,
+	"elevation":	12.386867523193359,
+	"elevation_stdev":	1.7821550369262695,
+	"distance":	9.21869659423828,
+	"distance_stdev":	0,
+	"sequence":	9301
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	8.2825927734375,
+	"azimuth_stdev":	8.7114801406860352,
+	"elevation":	11.42086124420166,
+	"elevation_stdev":	2.3187291622161865,
+	"distance":	9.08086395263672,
+	"distance_stdev":	0,
+	"sequence":	9302
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	7.9150543212890625,
+	"azimuth_stdev":	9.2028903961181641,
+	"elevation":	9.76290988922119,
+	"elevation_stdev":	3.1415250301361084,
+	"distance":	9.1216049194335938,
+	"distance_stdev":	0,
+	"sequence":	9303
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	6.6327667236328125,
+	"azimuth_stdev":	9.2416296005249,
+	"elevation":	9.6709232330322266,
+	"elevation_stdev":	3.6357419490814209,
+	"distance":	8.98360824584961,
+	"distance_stdev":	0,
+	"sequence":	9305
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	6.765106201171875,
+	"azimuth_stdev":	8.82770347595215,
+	"elevation":	8.75660228729248,
+	"elevation_stdev":	4.1571874618530273,
+	"distance":	9.0164909362792969,
+	"distance_stdev":	0,
+	"sequence":	9306
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	6.101959228515625,
+	"azimuth_stdev":	7.3973488807678223,
+	"elevation":	8.1049423217773438,
+	"elevation_stdev":	4.3760809898376465,
+	"distance":	9.0164909362792969,
+	"distance_stdev":	0,
+	"sequence":	9307
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	7.1403350830078125,
+	"azimuth_stdev":	5.27594232559204,
+	"elevation":	8.7194232940673828,
+	"elevation_stdev":	3.8776826858520508,
+	"distance":	8.95530605316162,
+	"distance_stdev":	0,
+	"sequence":	9308
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	7.5729217529296875,
+	"azimuth_stdev":	3.0773282051086426,
+	"elevation":	8.8315954208374,
+	"elevation_stdev":	3.5222179889678955,
+	"distance":	8.8862371444702148,
+	"distance_stdev":	0,
+	"sequence":	9309
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	8.260986328125,
+	"azimuth_stdev":	1.826482892036438,
+	"elevation":	8.54628086090088,
+	"elevation_stdev":	2.7789590358734131,
+	"distance":	8.87270736694336,
+	"distance_stdev":	0,
+	"sequence":	9310
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	8.01237487792969,
+	"azimuth_stdev":	1.2256013154983521,
+	"elevation":	9.39887046813965,
+	"elevation_stdev":	1.8874801397323608,
+	"distance":	8.8653020858764648,
+	"distance_stdev":	0,
+	"sequence":	9311
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	8.054046630859375,
+	"azimuth_stdev":	0.99377721548080444,
+	"elevation":	11.174037933349609,
+	"elevation_stdev":	1.5402095317840576,
+	"distance":	8.7896747589111328,
+	"distance_stdev":	0,
+	"sequence":	9312
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	8.06336975097656,
+	"azimuth_stdev":	0.964374601840973,
+	"elevation":	12.444001197814941,
+	"elevation_stdev":	1.8567404747009277,
+	"distance":	8.72821521759033,
+	"distance_stdev":	0,
+	"sequence":	9313
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	8.232177734375,
+	"azimuth_stdev":	1.0010839700698853,
+	"elevation":	12.205143928527832,
+	"elevation_stdev":	2.1989727020263672,
+	"distance":	8.7138395309448242,
+	"distance_stdev":	0,
+	"sequence":	9314
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	7.8813629150390625,
+	"azimuth_stdev":	0.931311547756195,
+	"elevation":	11.682888984680176,
+	"elevation_stdev":	2.3495328426361084,
+	"distance":	8.58413791656494,
+	"distance_stdev":	0,
+	"sequence":	9315
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	8.537078857421875,
+	"azimuth_stdev":	0.915526568889618,
+	"elevation":	11.928779602050781,
+	"elevation_stdev":	2.4062690734863281,
+	"distance":	8.51689338684082,
+	"distance_stdev":	0,
+	"sequence":	9316
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	9.36915588378906,
+	"azimuth_stdev":	0.76026195287704468,
+	"elevation":	12.319201469421387,
+	"elevation_stdev":	2.289569616317749,
+	"distance":	8.47976875305176,
+	"distance_stdev":	0,
+	"sequence":	9317
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	10.464706420898438,
+	"azimuth_stdev":	1.1072052717208862,
+	"elevation":	13.37433910369873,
+	"elevation_stdev":	2.3282182216644287,
+	"distance":	8.4509763717651367,
+	"distance_stdev":	0,
+	"sequence":	9318
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	11.58770751953125,
+	"azimuth_stdev":	1.6197260618209839,
+	"elevation":	13.079054832458496,
+	"elevation_stdev":	2.1453926563262939,
+	"distance":	8.42874240875244,
+	"distance_stdev":	0,
+	"sequence":	9319
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	11.323577880859375,
+	"azimuth_stdev":	1.8785876035690308,
+	"elevation":	13.187768936157227,
+	"elevation_stdev":	1.6263668537139893,
+	"distance":	8.37344551086426,
+	"distance_stdev":	0,
+	"sequence":	9320
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	11.736953735351562,
+	"azimuth_stdev":	2.0669074058532715,
+	"elevation":	12.430272102355957,
+	"elevation_stdev":	0.96341270208358765,
+	"distance":	8.23795795440674,
+	"distance_stdev":	0,
+	"sequence":	9321
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	11.387100219726562,
+	"azimuth_stdev":	2.0758743286132812,
+	"elevation":	12.305968284606934,
+	"elevation_stdev":	0.766602396965027,
+	"distance":	8.18888473510742,
+	"distance_stdev":	0,
+	"sequence":	9322
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	10.683364868164062,
+	"azimuth_stdev":	1.9255048036575317,
+	"elevation":	10.934047698974609,
+	"elevation_stdev":	1.0308794975280762,
+	"distance":	7.95382833480835,
+	"distance_stdev":	0,
+	"sequence":	9323
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	9.48451232910156,
+	"azimuth_stdev":	1.7579891681671143,
+	"elevation":	10.922645568847656,
+	"elevation_stdev":	1.207555890083313,
+	"distance":	7.88475751876831,
+	"distance_stdev":	0,
+	"sequence":	9324
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	9.44819641113281,
+	"azimuth_stdev":	1.45628297328949,
+	"elevation":	10.982062339782715,
+	"elevation_stdev":	1.3092668056488037,
+	"distance":	7.8268575668334961,
+	"distance_stdev":	0,
+	"sequence":	9325
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	8.18043518066406,
+	"azimuth_stdev":	1.5458422899246216,
+	"elevation":	11.980325698852539,
+	"elevation_stdev":	1.3076190948486328,
+	"distance":	7.6040134429931641,
+	"distance_stdev":	0,
+	"sequence":	9326
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	6.907135009765625,
+	"azimuth_stdev":	2.0783290863037109,
+	"elevation":	11.693146705627441,
+	"elevation_stdev":	1.3193175792694092,
+	"distance":	7.57344627380371,
+	"distance_stdev":	0,
+	"sequence":	9327
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	6.42376708984375,
+	"azimuth_stdev":	2.5570428371429443,
+	"elevation":	10.6298303604126,
+	"elevation_stdev":	1.2965911626815796,
+	"distance":	7.51134729385376,
+	"distance_stdev":	0,
+	"sequence":	9328
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	6.493438720703125,
+	"azimuth_stdev":	2.7089908123016357,
+	"elevation":	10.60689640045166,
+	"elevation_stdev":	1.2326401472091675,
+	"distance":	7.3888058662414551,
+	"distance_stdev":	0,
+	"sequence":	9329
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	6.53656005859375,
+	"azimuth_stdev":	2.721325159072876,
+	"elevation":	10.30260181427002,
+	"elevation_stdev":	1.05807089805603,
+	"distance":	7.26626443862915,
+	"distance_stdev":	0,
+	"sequence":	9330
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	6.6610870361328125,
+	"azimuth_stdev":	2.4566867351531982,
+	"elevation":	9.9312543869018555,
+	"elevation_stdev":	1.0442963838577271,
+	"distance":	7.2338423728942871,
+	"distance_stdev":	0,
+	"sequence":	9331
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	6.62017822265625,
+	"azimuth_stdev":	2.0547130107879639,
+	"elevation":	9.7155857086181641,
+	"elevation_stdev":	0.98304635286331177,
+	"distance":	7.1170873641967773,
+	"distance_stdev":	0,
+	"sequence":	9332
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	6.4188079833984375,
+	"azimuth_stdev":	1.6125128269195557,
+	"elevation":	10.0772762298584,
+	"elevation_stdev":	1.023703932762146,
+	"distance":	7.0200238227844238,
+	"distance_stdev":	0,
+	"sequence":	9333
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	5.3377685546875,
+	"azimuth_stdev":	1.4610285758972168,
+	"elevation":	10.084444046020508,
+	"elevation_stdev":	1.0478510856628418,
+	"distance":	6.903043270111084,
+	"distance_stdev":	0,
+	"sequence":	9334
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	5.373687744140625,
+	"azimuth_stdev":	1.0269575119018555,
+	"elevation":	10.005084037780762,
+	"elevation_stdev":	1.0594044923782349,
+	"distance":	6.8409438133239746,
+	"distance_stdev":	0,
+	"sequence":	9335
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	3.9432373046875,
+	"azimuth_stdev":	1.1850941181182861,
+	"elevation":	10.055262565612793,
+	"elevation_stdev":	0.784823715686798,
+	"distance":	6.7718729972839355,
+	"distance_stdev":	0,
+	"sequence":	9336
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	0.4376068115234375,
+	"azimuth_stdev":	2.5307095050811768,
+	"elevation":	10.658647537231445,
+	"elevation_stdev":	0.45562061667442322,
+	"distance":	6.5727014541625977,
+	"distance_stdev":	0,
+	"sequence":	9337
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	5.783966064453125,
+	"azimuth_stdev":	2.4969644546508789,
+	"elevation":	10.194677352905273,
+	"elevation_stdev":	0.40623944997787476,
+	"distance":	6.44916296005249,
+	"distance_stdev":	0,
+	"sequence":	9338
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	6.7156524658203125,
+	"azimuth_stdev":	2.5171501636505127,
+	"elevation":	8.31426239013672,
+	"elevation_stdev":	0.86312717199325562,
+	"distance":	6.3912625312805176,
+	"distance_stdev":	0,
+	"sequence":	9339
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	6.7504730224609375,
+	"azimuth_stdev":	2.5368883609771729,
+	"elevation":	8.84188938140869,
+	"elevation_stdev":	0.962486207485199,
+	"distance":	6.31563425064087,
+	"distance_stdev":	0,
+	"sequence":	9340
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	5.6399383544921875,
+	"azimuth_stdev":	2.4763195514678955,
+	"elevation":	10.138607025146484,
+	"elevation_stdev":	0.973395347595215,
+	"distance":	6.2544493675231934,
+	"distance_stdev":	0,
+	"sequence":	9341
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	4.950286865234375,
+	"azimuth_stdev":	2.4041025638580322,
+	"elevation":	10.900910377502441,
+	"elevation_stdev":	1.0826338529586792,
+	"distance":	6.188720703125,
+	"distance_stdev":	0,
+	"sequence":	9342
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	5.566986083984375,
+	"azimuth_stdev":	2.34413480758667,
+	"elevation":	12.07070255279541,
+	"elevation_stdev":	1.4388338327407837,
+	"distance":	6.1039409637451172,
+	"distance_stdev":	0,
+	"sequence":	9343
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	7.0434417724609375,
+	"azimuth_stdev":	2.4830737113952637,
+	"elevation":	13.13951301574707,
+	"elevation_stdev":	1.9550111293792725,
+	"distance":	6.1122732162475586,
+	"distance_stdev":	0,
+	"sequence":	9344
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	8.70756530761719,
+	"azimuth_stdev":	2.8665847778320312,
+	"elevation":	14.241510391235352,
+	"elevation_stdev":	2.55318832397461,
+	"distance":	6.1018261909484863,
+	"distance_stdev":	0,
+	"sequence":	9345
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	10.923095703125,
+	"azimuth_stdev":	3.4922215938568115,
+	"elevation":	13.930463790893555,
+	"elevation_stdev":	2.8446180820465088,
+	"distance":	5.98507022857666,
+	"distance_stdev":	0,
+	"sequence":	9346
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	12.272979736328125,
+	"azimuth_stdev":	3.1693642139434814,
+	"elevation":	16.735666275024414,
+	"elevation_stdev":	3.7032017707824707,
+	"distance":	5.9271993637084961,
+	"distance_stdev":	0,
+	"sequence":	9347
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	13.233367919921875,
+	"azimuth_stdev":	3.8428323268890381,
+	"elevation":	18.10881233215332,
+	"elevation_stdev":	4.4945473670959473,
+	"distance":	5.9173150062561035,
+	"distance_stdev":	0,
+	"sequence":	9348
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	13.841094970703125,
+	"azimuth_stdev":	4.40385389328003,
+	"elevation":	18.751808166503906,
+	"elevation_stdev":	4.6752190589904785,
+	"distance":	5.9173150062561035,
+	"distance_stdev":	0,
+	"sequence":	9349
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	15.91552734375,
+	"azimuth_stdev":	5.1150331497192383,
+	"elevation":	18.126741409301758,
+	"elevation_stdev":	4.3814969062805176,
+	"distance":	5.86262035369873,
+	"distance_stdev":	0,
+	"sequence":	9350
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	18.02655029296875,
+	"azimuth_stdev":	5.7138452529907227,
+	"elevation":	19.101829528808594,
+	"elevation_stdev":	4.18227243423462,
+	"distance":	5.8527359962463379,
+	"distance_stdev":	0,
+	"sequence":	9351
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	19.193572998046875,
+	"azimuth_stdev":	5.85675573348999,
+	"elevation":	19.835773468017578,
+	"elevation_stdev":	3.90210747718811,
+	"distance":	5.8792405128479,
+	"distance_stdev":	0,
+	"sequence":	9352
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	22.663848876953125,
+	"azimuth_stdev":	6.2704858779907227,
+	"elevation":	19.592830657958984,
+	"elevation_stdev":	3.4866008758544922,
+	"distance":	5.8704133033752441,
+	"distance_stdev":	0,
+	"sequence":	9353
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	26.128448486328125,
+	"azimuth_stdev":	7.0449047088623047,
+	"elevation":	21.000877380371094,
+	"elevation_stdev":	3.2457704544067383,
+	"distance":	5.8031682968139648,
+	"distance_stdev":	0,
+	"sequence":	9354
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	28.856277465820312,
+	"azimuth_stdev":	7.8926239013671875,
+	"elevation":	19.10124397277832,
+	"elevation_stdev":	2.7145826816558838,
+	"distance":	5.810572624206543,
+	"distance_stdev":	0,
+	"sequence":	9355
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	28.761001586914062,
+	"azimuth_stdev":	8.24268436431885,
+	"elevation":	17.690853118896484,
+	"elevation_stdev":	1.6820383071899414,
+	"distance":	5.9023237228393555,
+	"distance_stdev":	0,
+	"sequence":	9356
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	29.006927490234375,
+	"azimuth_stdev":	8.2106571197509766,
+	"elevation":	16.309518814086914,
+	"elevation_stdev":	1.8010420799255371,
+	"distance":	5.96805238723755,
+	"distance_stdev":	0,
+	"sequence":	9357
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	28.235443115234375,
+	"azimuth_stdev":	7.65296506881714,
+	"elevation":	15.6203031539917,
+	"elevation_stdev":	2.267615795135498,
+	"distance":	5.9371476173400879,
+	"distance_stdev":	0,
+	"sequence":	9358
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	27.754806518554688,
+	"azimuth_stdev":	6.57187557220459,
+	"elevation":	15.953511238098145,
+	"elevation_stdev":	2.5240507125854492,
+	"distance":	5.91005039215088,
+	"distance_stdev":	0,
+	"sequence":	9359
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	29.540496826171875,
+	"azimuth_stdev":	5.5632519721984863,
+	"elevation":	13.944937705993652,
+	"elevation_stdev":	3.15410327911377,
+	"distance":	5.92624044418335,
+	"distance_stdev":	0,
+	"sequence":	9360
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	28.934616088867188,
+	"azimuth_stdev":	4.3852529525756836,
+	"elevation":	15.513025283813477,
+	"elevation_stdev":	3.2334623336791992,
+	"distance":	5.9336452484130859,
+	"distance_stdev":	0,
+	"sequence":	9361
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	6.5478973388671875,
+	"azimuth_stdev":	9.05584239959717,
+	"elevation":	15.133453369140625,
+	"elevation_stdev":	3.14996862411499,
+	"distance":	5.9406170845031738,
+	"distance_stdev":	0,
+	"sequence":	9362
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-3.0150604248046875,
+	"azimuth_stdev":	14.858375549316406,
+	"elevation":	15.584373474121094,
+	"elevation_stdev":	2.9218995571136475,
+	"distance":	5.88936424255371,
+	"distance_stdev":	0,
+	"sequence":	9363
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-8.77729797363281,
+	"azimuth_stdev":	19.6792049407959,
+	"elevation":	14.544609069824219,
+	"elevation_stdev":	2.0837759971618652,
+	"distance":	5.8333516120910645,
+	"distance_stdev":	0,
+	"sequence":	9364
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-8.82008361816406,
+	"azimuth_stdev":	22.334403991699219,
+	"elevation":	15.042624473571777,
+	"elevation_stdev":	1.4179097414016724,
+	"distance":	5.7926011085510254,
+	"distance_stdev":	0,
+	"sequence":	9365
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-7.3188629150390625,
+	"azimuth_stdev":	23.35307502746582,
+	"elevation":	13.833300590515137,
+	"elevation_stdev":	1.1451441049575806,
+	"distance":	5.75971794128418,
+	"distance_stdev":	0,
+	"sequence":	9366
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-5.79931640625,
+	"azimuth_stdev":	23.0228271484375,
+	"elevation":	13.550714492797852,
+	"elevation_stdev":	1.1858344078063965,
+	"distance":	5.7214078903198242,
+	"distance_stdev":	0,
+	"sequence":	9367
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-4.9107208251953125,
+	"azimuth_stdev":	21.6923942565918,
+	"elevation":	11.689292907714844,
+	"elevation_stdev":	1.7699038982391357,
+	"distance":	5.66182279586792,
+	"distance_stdev":	0,
+	"sequence":	9368
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-4.0160980224609375,
+	"azimuth_stdev":	19.2783145904541,
+	"elevation":	9.7900381088256836,
+	"elevation_stdev":	2.5646288394927979,
+	"distance":	5.6491026878356934,
+	"distance_stdev":	0,
+	"sequence":	9369
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-3.804962158203125,
+	"azimuth_stdev":	14.717432975769043,
+	"elevation":	7.6928162574768066,
+	"elevation_stdev":	3.7314765453338623,
+	"distance":	5.6266417503356934,
+	"distance_stdev":	0,
+	"sequence":	9370
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-3.13427734375,
+	"azimuth_stdev":	5.6771821975708,
+	"elevation":	8.2377986907959,
+	"elevation_stdev":	4.1289892196655273,
+	"distance":	5.5957365036010742,
+	"distance_stdev":	0,
+	"sequence":	9371
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-2.153411865234375,
+	"azimuth_stdev":	3.1269462108612061,
+	"elevation":	7.7759923934936523,
+	"elevation_stdev":	4.38454246520996,
+	"distance":	5.573275089263916,
+	"distance_stdev":	0,
+	"sequence":	9372
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-1.919769287109375,
+	"azimuth_stdev":	3.2954292297363281,
+	"elevation":	6.8918075561523438,
+	"elevation_stdev":	4.4275922775268555,
+	"distance":	5.5522174835205078,
+	"distance_stdev":	0,
+	"sequence":	9373
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-2.0314788818359375,
+	"azimuth_stdev":	3.0266542434692383,
+	"elevation":	7.2219910621643066,
+	"elevation_stdev":	4.3032698631286621,
+	"distance":	5.52319860458374,
+	"distance_stdev":	0,
+	"sequence":	9374
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-2.126373291015625,
+	"azimuth_stdev":	2.3719301223754883,
+	"elevation":	6.8256216049194336,
+	"elevation_stdev":	3.7912497520446777,
+	"distance":	5.5174131393432617,
+	"distance_stdev":	0,
+	"sequence":	9375
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-2.1148681640625,
+	"azimuth_stdev":	1.7871702909469604,
+	"elevation":	7.5151891708374023,
+	"elevation_stdev":	3.1492342948913574,
+	"distance":	5.5069007873535156,
+	"distance_stdev":	0,
+	"sequence":	9376
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-2.638519287109375,
+	"azimuth_stdev":	1.3449485301971436,
+	"elevation":	8.6361942291259766,
+	"elevation_stdev":	2.0923073291778564,
+	"distance":	5.4844398498535156,
+	"distance_stdev":	0,
+	"sequence":	9377
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-2.444244384765625,
+	"azimuth_stdev":	0.98382717370986938,
+	"elevation":	8.11775016784668,
+	"elevation_stdev":	1.23620080947876,
+	"distance":	5.4724912643432617,
+	"distance_stdev":	0,
+	"sequence":	9378
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-2.3447265625,
+	"azimuth_stdev":	0.76122003793716431,
+	"elevation":	8.28556537628174,
+	"elevation_stdev":	0.85084354877471924,
+	"distance":	5.459770679473877,
+	"distance_stdev":	0,
+	"sequence":	9379
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-2.3312530517578125,
+	"azimuth_stdev":	0.4589676558971405,
+	"elevation":	8.0588998794555664,
+	"elevation_stdev":	0.86347484588623047,
+	"distance":	5.4423947334289551,
+	"distance_stdev":	0,
+	"sequence":	9380
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-2.1409149169921875,
+	"azimuth_stdev":	0.275329202413559,
+	"elevation":	7.80020570755005,
+	"elevation_stdev":	0.83191466331481934,
+	"distance":	5.4271230697631836,
+	"distance_stdev":	0,
+	"sequence":	9381
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-2.757568359375,
+	"azimuth_stdev":	0.347847431898117,
+	"elevation":	7.64741611480713,
+	"elevation_stdev":	0.83174139261245728,
+	"distance":	5.421696662902832,
+	"distance_stdev":	0,
+	"sequence":	9382
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-2.0724639892578125,
+	"azimuth_stdev":	0.32510155439376831,
+	"elevation":	7.4219980239868164,
+	"elevation_stdev":	0.74956387281417847,
+	"distance":	5.404320240020752,
+	"distance_stdev":	0,
+	"sequence":	9383
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-1.33221435546875,
+	"azimuth_stdev":	0.50580823421478271,
+	"elevation":	6.5697727203369141,
+	"elevation_stdev":	0.890637755393982,
+	"distance":	5.38038682937622,
+	"distance_stdev":	0,
+	"sequence":	9384
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-1.0211639404296875,
+	"azimuth_stdev":	0.710200548171997,
+	"elevation":	6.15289068222046,
+	"elevation_stdev":	1.0632123947143555,
+	"distance":	5.3861727714538574,
+	"distance_stdev":	0,
+	"sequence":	9385
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-0.01025390625,
+	"azimuth_stdev":	1.11801278591156,
+	"elevation":	7.9069910049438477,
+	"elevation_stdev":	1.0688191652297974,
+	"distance":	5.3923358917236328,
+	"distance_stdev":	0,
+	"sequence":	9386
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	0.4447784423828125,
+	"azimuth_stdev":	1.4167174100875854,
+	"elevation":	7.20608901977539,
+	"elevation_stdev":	0.968275249004364,
+	"distance":	5.3796157836914062,
+	"distance_stdev":	0,
+	"sequence":	9387
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	1.1815032958984375,
+	"azimuth_stdev":	1.7528012990951538,
+	"elevation":	6.9746603965759277,
+	"elevation_stdev":	0.94602632522583,
+	"distance":	5.3541374206542969,
+	"distance_stdev":	0,
+	"sequence":	9388
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	0.516143798828125,
+	"azimuth_stdev":	1.8070342540740967,
+	"elevation":	6.38604974746704,
+	"elevation_stdev":	0.933707356452942,
+	"distance":	5.3541378974914551,
+	"distance_stdev":	0,
+	"sequence":	9389
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	0.665008544921875,
+	"azimuth_stdev":	1.7973324060440063,
+	"elevation":	7.0598340034484863,
+	"elevation_stdev":	0.837400257587433,
+	"distance":	5.3487105369567871,
+	"distance_stdev":	0,
+	"sequence":	9390
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	1.3144378662109375,
+	"azimuth_stdev":	1.8210902214050293,
+	"elevation":	6.8570914268493652,
+	"elevation_stdev":	0.7709965705871582,
+	"distance":	5.31780481338501,
+	"distance_stdev":	0,
+	"sequence":	9391
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	2.297882080078125,
+	"azimuth_stdev":	1.72768235206604,
+	"elevation":	7.4453754425048828,
+	"elevation_stdev":	0.740033984184265,
+	"distance":	5.3015069961547852,
+	"distance_stdev":	0,
+	"sequence":	9392
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	2.4832916259765625,
+	"azimuth_stdev":	1.6158980131149292,
+	"elevation":	7.9994072914123535,
+	"elevation_stdev":	0.84706145524978638,
+	"distance":	5.270601749420166,
+	"distance_stdev":	0,
+	"sequence":	9393
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	3.032958984375,
+	"azimuth_stdev":	1.6045860052108765,
+	"elevation":	9.9780998229980469,
+	"elevation_stdev":	1.5012896060943604,
+	"distance":	5.257880687713623,
+	"distance_stdev":	0,
+	"sequence":	9394
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	2.6695556640625,
+	"azimuth_stdev":	1.3980785608291626,
+	"elevation":	10.626486778259277,
+	"elevation_stdev":	1.9325317144393921,
+	"distance":	5.2269754409790039,
+	"distance_stdev":	0,
+	"sequence":	9395
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	1.9934234619140625,
+	"azimuth_stdev":	1.2374359369277954,
+	"elevation":	9.79710006713867,
+	"elevation_stdev":	2.1160261631011963,
+	"distance":	5.2030420303344727,
+	"distance_stdev":	0,
+	"sequence":	9396
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	1.72393798828125,
+	"azimuth_stdev":	1.1075342893600464,
+	"elevation":	9.9480152130126953,
+	"elevation_stdev":	2.2265727519989014,
+	"distance":	5.1856656074523926,
+	"distance_stdev":	0,
+	"sequence":	9397
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	1.263641357421875,
+	"azimuth_stdev":	1.0996098518371582,
+	"elevation":	11.383726119995117,
+	"elevation_stdev":	2.48868465423584,
+	"distance":	5.15844488143921,
+	"distance_stdev":	0,
+	"sequence":	9398
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	0.7344818115234375,
+	"azimuth_stdev":	1.0549615621566772,
+	"elevation":	11.743815422058105,
+	"elevation_stdev":	2.51124095916748,
+	"distance":	5.15301752090454,
+	"distance_stdev":	0,
+	"sequence":	9399
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	1.2490997314453125,
+	"azimuth_stdev":	0.95906996726989746,
+	"elevation":	10.559200286865234,
+	"elevation_stdev":	2.3083961009979248,
+	"distance":	5.1356420516967773,
+	"distance_stdev":	0,
+	"sequence":	9400
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	1.39715576171875,
+	"azimuth_stdev":	0.95067417621612549,
+	"elevation":	10.545795440673828,
+	"elevation_stdev":	1.8858036994934082,
+	"distance":	5.08114194869995,
+	"distance_stdev":	0,
+	"sequence":	9401
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	1.4161224365234375,
+	"azimuth_stdev":	0.94798725843429565,
+	"elevation":	11.018250465393066,
+	"elevation_stdev":	1.4479756355285645,
+	"distance":	5.0540447235107422,
+	"distance_stdev":	0,
+	"sequence":	9402
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	1.7196197509765625,
+	"azimuth_stdev":	0.89499688148498535,
+	"elevation":	11.420480728149414,
+	"elevation_stdev":	0.94237279891967773,
+	"distance":	5.0132942199707031,
+	"distance_stdev":	0,
+	"sequence":	9403
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	2.5904541015625,
+	"azimuth_stdev":	0.78525573015213,
+	"elevation":	12.455358505249023,
+	"elevation_stdev":	1.1421717405319214,
+	"distance":	4.958794116973877,
+	"distance_stdev":	0,
+	"sequence":	9404
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	3.3995819091796875,
+	"azimuth_stdev":	0.98789292573928833,
+	"elevation":	13.279736518859863,
+	"elevation_stdev":	1.5160505771636963,
+	"distance":	4.8663926124572754,
+	"distance_stdev":	0,
+	"sequence":	9405
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	3.517730712890625,
+	"azimuth_stdev":	1.2267899513244629,
+	"elevation":	14.075916290283203,
+	"elevation_stdev":	1.797924280166626,
+	"distance":	4.8500943183898926,
+	"distance_stdev":	0,
+	"sequence":	9406
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	3.8206024169921875,
+	"azimuth_stdev":	1.45001482963562,
+	"elevation":	14.5806827545166,
+	"elevation_stdev":	2.00230884552002,
+	"distance":	4.80392599105835,
+	"distance_stdev":	0,
+	"sequence":	9407
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	4.5113525390625,
+	"azimuth_stdev":	1.6867133378982544,
+	"elevation":	13.975791931152344,
+	"elevation_stdev":	2.1223194599151611,
+	"distance":	4.73125410079956,
+	"distance_stdev":	0,
+	"sequence":	9408
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	4.527435302734375,
+	"azimuth_stdev":	1.6890875101089478,
+	"elevation":	13.6658992767334,
+	"elevation_stdev":	2.1691927909851074,
+	"distance":	4.63824987411499,
+	"distance_stdev":	0,
+	"sequence":	9409
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	4.43328857421875,
+	"azimuth_stdev":	1.64206326007843,
+	"elevation":	13.726055145263672,
+	"elevation_stdev":	1.9809333086013794,
+	"distance":	4.6053667068481445,
+	"distance_stdev":	0,
+	"sequence":	9410
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	4.466583251953125,
+	"azimuth_stdev":	1.5134512186050415,
+	"elevation":	12.965873718261719,
+	"elevation_stdev":	1.6227871179580688,
+	"distance":	4.5326948165893555,
+	"distance_stdev":	0,
+	"sequence":	9411
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	4.4836273193359375,
+	"azimuth_stdev":	1.247114896774292,
+	"elevation":	13.559846878051758,
+	"elevation_stdev":	1.2608574628829956,
+	"distance":	4.4600229263305664,
+	"distance_stdev":	0,
+	"sequence":	9412
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	5.2545166015625,
+	"azimuth_stdev":	0.99010360240936279,
+	"elevation":	13.146937370300293,
+	"elevation_stdev":	0.84754484891891479,
+	"distance":	4.40043830871582,
+	"distance_stdev":	0,
+	"sequence":	9413
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	5.4007720947265625,
+	"azimuth_stdev":	0.85031509399414062,
+	"elevation":	13.485541343688965,
+	"elevation_stdev":	0.66455918550491333,
+	"distance":	4.40043830871582,
+	"distance_stdev":	0,
+	"sequence":	9415
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	4.795745849609375,
+	"azimuth_stdev":	0.73441779613494873,
+	"elevation":	13.292680740356445,
+	"elevation_stdev":	0.66304624080657959,
+	"distance":	4.3621277809143066,
+	"distance_stdev":	0,
+	"sequence":	9417
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	5.149749755859375,
+	"azimuth_stdev":	0.61268025636672974,
+	"elevation":	13.770504951477051,
+	"elevation_stdev":	0.63355988264083862,
+	"distance":	4.236598014831543,
+	"distance_stdev":	0,
+	"sequence":	9418
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	5.5319366455078125,
+	"azimuth_stdev":	0.56179165840148926,
+	"elevation":	14.106494903564453,
+	"elevation_stdev":	0.49831917881965637,
+	"distance":	4.1325588226318359,
+	"distance_stdev":	0,
+	"sequence":	9419
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	5.8050689697265625,
+	"azimuth_stdev":	0.656331181526184,
+	"elevation":	13.748741149902344,
+	"elevation_stdev":	0.46756786108016968,
+	"distance":	4.1379857063293457,
+	"distance_stdev":	0,
+	"sequence":	9420
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	5.7734832763671875,
+	"azimuth_stdev":	0.69200801849365234,
+	"elevation":	12.640186309814453,
+	"elevation_stdev":	0.608094871044159,
+	"distance":	4.1267728805542,
+	"distance_stdev":	0,
+	"sequence":	9421
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	6.392608642578125,
+	"azimuth_stdev":	0.7931058406829834,
+	"elevation":	12.339506149291992,
+	"elevation_stdev":	0.757565975189209,
+	"distance":	4.06242799758911,
+	"distance_stdev":	0,
+	"sequence":	9422
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	6.661712646484375,
+	"azimuth_stdev":	0.86644744873046875,
+	"elevation":	12.04810905456543,
+	"elevation_stdev":	0.93334788084030151,
+	"distance":	4.0241179466247559,
+	"distance_stdev":	0,
+	"sequence":	9423
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	6.1642303466796875,
+	"azimuth_stdev":	0.756899118423462,
+	"elevation":	11.982006072998047,
+	"elevation_stdev":	1.0574806928634644,
+	"distance":	3.9833681583404541,
+	"distance_stdev":	0,
+	"sequence":	9424
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	5.9431915283203125,
+	"azimuth_stdev":	0.73441779613494873,
+	"elevation":	11.630382537841797,
+	"elevation_stdev":	1.2264846563339233,
+	"distance":	3.9833681583404541,
+	"distance_stdev":	0,
+	"sequence":	9425
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	4.9403076171875,
+	"azimuth_stdev":	0.79814416170120239,
+	"elevation":	12.630887985229492,
+	"elevation_stdev":	1.1966613531112671,
+	"distance":	4.0044264793396,
+	"distance_stdev":	0,
+	"sequence":	9427
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	4.58758544921875,
+	"azimuth_stdev":	0.846018671989441,
+	"elevation":	13.164142608642578,
+	"elevation_stdev":	1.1870125532150269,
+	"distance":	4.01427125930786,
+	"distance_stdev":	0,
+	"sequence":	9428
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	4.819183349609375,
+	"azimuth_stdev":	0.89458966255188,
+	"elevation":	13.77396297454834,
+	"elevation_stdev":	1.1876177787780762,
+	"distance":	4.0088443756103516,
+	"distance_stdev":	0,
+	"sequence":	9429
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	4.62353515625,
+	"azimuth_stdev":	0.991207182407379,
+	"elevation":	14.039109230041504,
+	"elevation_stdev":	1.1720168590545654,
+	"distance":	4.0200576782226562,
+	"distance_stdev":	0,
+	"sequence":	9430
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	3.9532318115234375,
+	"azimuth_stdev":	1.1813987493515015,
+	"elevation":	14.463649749755859,
+	"elevation_stdev":	1.3283388614654541,
+	"distance":	4.0425186157226562,
+	"distance_stdev":	0,
+	"sequence":	9431
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	3.2486114501953125,
+	"azimuth_stdev":	1.4492610692977905,
+	"elevation":	14.665874481201172,
+	"elevation_stdev":	1.53545081615448,
+	"distance":	4.0425186157226562,
+	"distance_stdev":	0,
+	"sequence":	9432
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	3.369110107421875,
+	"azimuth_stdev":	1.4882055521011353,
+	"elevation":	13.593113899230957,
+	"elevation_stdev":	1.5052731037139893,
+	"distance":	4.0715374946594238,
+	"distance_stdev":	0,
+	"sequence":	9433
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	2.0198516845703125,
+	"azimuth_stdev":	1.631156325340271,
+	"elevation":	12.315929412841797,
+	"elevation_stdev":	1.4653005599975586,
+	"distance":	4.0827507972717285,
+	"distance_stdev":	0,
+	"sequence":	9434
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	0.442108154296875,
+	"azimuth_stdev":	2.0779786109924316,
+	"elevation":	11.473838806152344,
+	"elevation_stdev":	1.5713248252868652,
+	"distance":	4.0932631492614746,
+	"distance_stdev":	0,
+	"sequence":	9435
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-0.6512451171875,
+	"azimuth_stdev":	2.5158481597900391,
+	"elevation":	11.696755409240723,
+	"elevation_stdev":	1.5574990510940552,
+	"distance":	4.1031079292297363,
+	"distance_stdev":	0,
+	"sequence":	9436
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-2.49853515625,
+	"azimuth_stdev":	3.2562248706817627,
+	"elevation":	11.019829750061035,
+	"elevation_stdev":	1.8193755149841309,
+	"distance":	4.1031079292297363,
+	"distance_stdev":	0,
+	"sequence":	9437
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-3.925811767578125,
+	"azimuth_stdev":	3.9735276699066162,
+	"elevation":	10.320453643798828,
+	"elevation_stdev":	2.1679859161376953,
+	"distance":	4.0976810455322266,
+	"distance_stdev":	0,
+	"sequence":	9438
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-4.7715911865234375,
+	"azimuth_stdev":	4.4153881072998047,
+	"elevation":	11.375956535339355,
+	"elevation_stdev":	2.1778128147125244,
+	"distance":	4.0976810455322266,
+	"distance_stdev":	0,
+	"sequence":	9439
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-5.762847900390625,
+	"azimuth_stdev":	4.6840305328369141,
+	"elevation":	10.89734935760498,
+	"elevation_stdev":	2.1374461650848389,
+	"distance":	4.1027655601501465,
+	"distance_stdev":	0,
+	"sequence":	9440
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-6.57635498046875,
+	"azimuth_stdev":	4.81936502456665,
+	"elevation":	9.7755727767944336,
+	"elevation_stdev":	2.0548179149627686,
+	"distance":	4.1027660369873047,
+	"distance_stdev":	0,
+	"sequence":	9441
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-6.780242919921875,
+	"azimuth_stdev":	4.7226343154907227,
+	"elevation":	9.0514650344848633,
+	"elevation_stdev":	1.7870190143585205,
+	"distance":	4.096980094909668,
+	"distance_stdev":	0,
+	"sequence":	9442
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-7.2983551025390625,
+	"azimuth_stdev":	4.242743968963623,
+	"elevation":	8.97813034057617,
+	"elevation_stdev":	1.5716263055801392,
+	"distance":	4.11435604095459,
+	"distance_stdev":	0,
+	"sequence":	9443
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-7.561676025390625,
+	"azimuth_stdev":	3.6605241298675537,
+	"elevation":	8.2010879516601562,
+	"elevation_stdev":	1.6942858695983887,
+	"distance":	4.1354141235351562,
+	"distance_stdev":	0,
+	"sequence":	9444
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-7.6591796875,
+	"azimuth_stdev":	3.0610849857330322,
+	"elevation":	7.3626885414123535,
+	"elevation_stdev":	2.0073752403259277,
+	"distance":	4.1466269493103027,
+	"distance_stdev":	0,
+	"sequence":	9445
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-7.0911102294921875,
+	"azimuth_stdev":	2.248028039932251,
+	"elevation":	7.5556807518005371,
+	"elevation_stdev":	2.0226967334747314,
+	"distance":	4.170560359954834,
+	"distance_stdev":	0,
+	"sequence":	9446
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-6.738311767578125,
+	"azimuth_stdev":	1.5963919162750244,
+	"elevation":	7.8131961822509766,
+	"elevation_stdev":	1.9802970886230469,
+	"distance":	4.2014656066894531,
+	"distance_stdev":	0,
+	"sequence":	9447
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-6.897613525390625,
+	"azimuth_stdev":	1.1274248361587524,
+	"elevation":	8.2187404632568359,
+	"elevation_stdev":	1.9243645668029785,
+	"distance":	4.2285623550415039,
+	"distance_stdev":	0,
+	"sequence":	9449
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-5.846954345703125,
+	"azimuth_stdev":	0.82904964685440063,
+	"elevation":	8.6706485748291,
+	"elevation_stdev":	1.5050053596496582,
+	"distance":	4.2223992347717285,
+	"distance_stdev":	0,
+	"sequence":	9450
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-5.3849334716796875,
+	"azimuth_stdev":	0.92739057540893555,
+	"elevation":	7.8099212646484375,
+	"elevation_stdev":	1.0623457431793213,
+	"distance":	4.242091178894043,
+	"distance_stdev":	0,
+	"sequence":	9451
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-5.4517059326171875,
+	"azimuth_stdev":	1.0765020847320557,
+	"elevation":	6.4174599647521973,
+	"elevation_stdev":	1.1149612665176392,
+	"distance":	4.2366647720336914,
+	"distance_stdev":	0,
+	"sequence":	9452
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-5.4507598876953125,
+	"azimuth_stdev":	1.1835558414459229,
+	"elevation":	6.00687551498413,
+	"elevation_stdev":	1.2926046848297119,
+	"distance":	4.2312374114990234,
+	"distance_stdev":	0,
+	"sequence":	9453
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-6.6548004150390625,
+	"azimuth_stdev":	1.1351549625396729,
+	"elevation":	6.8067965507507324,
+	"elevation_stdev":	1.18017852306366,
+	"distance":	4.2424507141113281,
+	"distance_stdev":	0,
+	"sequence":	9454
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-3.7213592529296875,
+	"azimuth_stdev":	1.4847743511199951,
+	"elevation":	7.50178575515747,
+	"elevation_stdev":	1.1280275583267212,
+	"distance":	4.2326054573059082,
+	"distance_stdev":	0,
+	"sequence":	9455
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-8.93034362792969,
+	"azimuth_stdev":	1.7940869331359863,
+	"elevation":	8.49139404296875,
+	"elevation_stdev":	1.221894383430481,
+	"distance":	4.2233953475952148,
+	"distance_stdev":	0,
+	"sequence":	9456
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-12.66912841796875,
+	"azimuth_stdev":	3.2012338638305664,
+	"elevation":	7.9932708740234375,
+	"elevation_stdev":	1.2389814853668213,
+	"distance":	4.254300594329834,
+	"distance_stdev":	0,
+	"sequence":	9457
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-19.301513671875,
+	"azimuth_stdev":	6.04209041595459,
+	"elevation":	8.0060415267944336,
+	"elevation_stdev":	1.2498815059661865,
+	"distance":	4.2543010711669922,
+	"distance_stdev":	0,
+	"sequence":	9458
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-22.6578369140625,
+	"azimuth_stdev":	8.457366943359375,
+	"elevation":	8.9146099090576172,
+	"elevation_stdev":	1.3577587604522705,
+	"distance":	4.2543010711669922,
+	"distance_stdev":	0,
+	"sequence":	9459
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-31.404541015625,
+	"azimuth_stdev":	12.053068161010742,
+	"elevation":	8.7566404342651367,
+	"elevation_stdev":	1.3719556331634521,
+	"distance":	4.26551389694214,
+	"distance_stdev":	0,
+	"sequence":	9460
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-35.291000366210938,
+	"azimuth_stdev":	14.840761184692383,
+	"elevation":	10.087080001831055,
+	"elevation_stdev":	1.7386276721954346,
+	"distance":	4.2964191436767578,
+	"distance_stdev":	0,
+	"sequence":	9461
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-19.66119384765625,
+	"azimuth_stdev":	14.236724853515625,
+	"elevation":	10.347432136535645,
+	"elevation_stdev":	1.87333083152771,
+	"distance":	4.3607640266418457,
+	"distance_stdev":	0,
+	"sequence":	9462
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-9.657073974609375,
+	"azimuth_stdev":	13.714855194091797,
+	"elevation":	11.43657398223877,
+	"elevation_stdev":	1.9700038433074951,
+	"distance":	4.3781404495239258,
+	"distance_stdev":	0,
+	"sequence":	9463
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-8.71636962890625,
+	"azimuth_stdev":	13.446737289428711,
+	"elevation":	13.405951499938965,
+	"elevation_stdev":	2.5605063438415527,
+	"distance":	4.3955163955688477,
+	"distance_stdev":	0,
+	"sequence":	9464
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-10.041976928710938,
+	"azimuth_stdev":	12.475944519042969,
+	"elevation":	12.618930816650391,
+	"elevation_stdev":	2.6906547546386719,
+	"distance":	4.41289234161377,
+	"distance_stdev":	0,
+	"sequence":	9465
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-10.8953857421875,
+	"azimuth_stdev":	12.237086296081543,
+	"elevation":	10.382236480712891,
+	"elevation_stdev":	2.588404655456543,
+	"distance":	4.3965940475463867,
+	"distance_stdev":	0,
+	"sequence":	9466
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-12.201522827148438,
+	"azimuth_stdev":	12.276922225952148,
+	"elevation":	9.97635269165039,
+	"elevation_stdev":	2.3627960681915283,
+	"distance":	4.4373440742492676,
+	"distance_stdev":	0,
+	"sequence":	9467
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-12.817489624023438,
+	"azimuth_stdev":	12.432034492492676,
+	"elevation":	9.0896720886230469,
+	"elevation_stdev":	2.1673047542572021,
+	"distance":	4.45471954345703,
+	"distance_stdev":	0,
+	"sequence":	9468
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-13.644546508789062,
+	"azimuth_stdev":	12.252220153808594,
+	"elevation":	8.03805637359619,
+	"elevation_stdev":	2.3333346843719482,
+	"distance":	4.4884982109069824,
+	"distance_stdev":	0,
+	"sequence":	9469
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-14.52496337890625,
+	"azimuth_stdev":	10.163013458251953,
+	"elevation":	8.33185577392578,
+	"elevation_stdev":	2.4046342372894287,
+	"distance":	4.504796028137207,
+	"distance_stdev":	0,
+	"sequence":	9470
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-15.596633911132812,
+	"azimuth_stdev":	4.2441143989563,
+	"elevation":	8.2581081390380859,
+	"elevation_stdev":	2.5794680118560791,
+	"distance":	4.52217149734497,
+	"distance_stdev":	0,
+	"sequence":	9471
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-16.038360595703125,
+	"azimuth_stdev":	3.3051297664642334,
+	"elevation":	10.255947113037109,
+	"elevation_stdev":	2.5785696506500244,
+	"distance":	4.5333847999572754,
+	"distance_stdev":	0,
+	"sequence":	9472
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-16.96417236328125,
+	"azimuth_stdev":	3.517439603805542,
+	"elevation":	11.5897216796875,
+	"elevation_stdev":	2.5954575538635254,
+	"distance":	4.5573182106018066,
+	"distance_stdev":	0,
+	"sequence":	9473
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-16.9935302734375,
+	"azimuth_stdev":	3.1942932605743408,
+	"elevation":	13.306515693664551,
+	"elevation_stdev":	2.569227933883667,
+	"distance":	4.5631041526794434,
+	"distance_stdev":	0,
+	"sequence":	9475
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-19.103515625,
+	"azimuth_stdev":	3.2713847160339355,
+	"elevation":	14.0980281829834,
+	"elevation_stdev":	2.92806077003479,
+	"distance":	4.56853151321411,
+	"distance_stdev":	0,
+	"sequence":	9476
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-20.107467651367188,
+	"azimuth_stdev":	3.3557052612304688,
+	"elevation":	15.096110343933105,
+	"elevation_stdev":	3.6022512912750244,
+	"distance":	4.5859074592590332,
+	"distance_stdev":	0,
+	"sequence":	9477
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-20.745452880859375,
+	"azimuth_stdev":	3.4710140228271484,
+	"elevation":	17.327556610107422,
+	"elevation_stdev":	4.563011646270752,
+	"distance":	4.59099292755127,
+	"distance_stdev":	0,
+	"sequence":	9478
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-20.44512939453125,
+	"azimuth_stdev":	3.3017158508300781,
+	"elevation":	19.0153751373291,
+	"elevation_stdev":	5.42539644241333,
+	"distance":	4.58556604385376,
+	"distance_stdev":	0,
+	"sequence":	9479
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-20.186859130859375,
+	"azimuth_stdev":	2.9804913997650146,
+	"elevation":	21.625877380371094,
+	"elevation_stdev":	6.2378263473510742,
+	"distance":	4.623875617980957,
+	"distance_stdev":	0,
+	"sequence":	9480
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-19.651840209960938,
+	"azimuth_stdev":	2.5529108047485352,
+	"elevation":	21.018651962280273,
+	"elevation_stdev":	6.30328893661499,
+	"distance":	4.6391472816467285,
+	"distance_stdev":	0,
+	"sequence":	9481
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-21.359481811523438,
+	"azimuth_stdev":	2.3815817832946777,
+	"elevation":	23.344308853149414,
+	"elevation_stdev":	6.245206356048584,
+	"distance":	4.66308069229126,
+	"distance_stdev":	0,
+	"sequence":	9482
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-23.55340576171875,
+	"azimuth_stdev":	2.5301342010498047,
+	"elevation":	26.270603179931641,
+	"elevation_stdev":	6.66921615600586,
+	"distance":	4.68158769607544,
+	"distance_stdev":	0,
+	"sequence":	9483
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-2.644439697265625,
+	"azimuth_stdev":	7.5042314529418945,
+	"elevation":	24.081003189086914,
+	"elevation_stdev":	6.22815465927124,
+	"distance":	4.6989631652832031,
+	"distance_stdev":	0,
+	"sequence":	9484
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	23.52734375,
+	"azimuth_stdev":	18.683052062988281,
+	"elevation":	21.344413757324219,
+	"elevation_stdev":	5.4604353904724121,
+	"distance":	4.7471175193786621,
+	"distance_stdev":	0,
+	"sequence":	9485
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	34.439453125,
+	"azimuth_stdev":	27.205471038818359,
+	"elevation":	19.503076553344727,
+	"elevation_stdev":	4.58240032196045,
+	"distance":	4.77802276611328,
+	"distance_stdev":	0,
+	"sequence":	9486
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	37.303237915039062,
+	"azimuth_stdev":	32.798267364501953,
+	"elevation":	16.236772537231445,
+	"elevation_stdev":	4.29188585281372,
+	"distance":	4.8118009567260742,
+	"distance_stdev":	0,
+	"sequence":	9487
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	37.534225463867188,
+	"azimuth_stdev":	35.878135681152344,
+	"elevation":	13.794485092163086,
+	"elevation_stdev":	5.1365451812744141,
+	"distance":	4.8342618942260742,
+	"distance_stdev":	0,
+	"sequence":	9488
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	39.467437744140625,
+	"azimuth_stdev":	37.233596801757812,
+	"elevation":	13.080378532409668,
+	"elevation_stdev":	6.108191967010498,
+	"distance":	4.8613591194152832,
+	"distance_stdev":	0,
+	"sequence":	9489
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	38.803329467773438,
+	"azimuth_stdev":	36.476646423339844,
+	"elevation":	12.74040412902832,
+	"elevation_stdev":	6.81870174407959,
+	"distance":	4.87257194519043,
+	"distance_stdev":	0,
+	"sequence":	9490
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	40.015960693359375,
+	"azimuth_stdev":	33.883514404296875,
+	"elevation":	11.135110855102539,
+	"elevation_stdev":	7.57790470123291,
+	"distance":	4.87799882888794,
+	"distance_stdev":	0,
+	"sequence":	9491
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	40.648101806640625,
+	"azimuth_stdev":	28.375040054321289,
+	"elevation":	8.481175422668457,
+	"elevation_stdev":	8.1852645874023438,
+	"distance":	4.866786003112793,
+	"distance_stdev":	0,
+	"sequence":	9492
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	40.11944580078125,
+	"azimuth_stdev":	17.335702896118164,
+	"elevation":	8.96343994140625,
+	"elevation_stdev":	7.3129234313964844,
+	"distance":	4.8667855262756348,
+	"distance_stdev":	0,
+	"sequence":	9493
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	40.065994262695312,
+	"azimuth_stdev":	6.66422462463379,
+	"elevation":	8.63368225097656,
+	"elevation_stdev":	6.2369422912597656,
+	"distance":	4.866786003112793,
+	"distance_stdev":	0,
+	"sequence":	9494
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	41.751861572265625,
+	"azimuth_stdev":	2.7221276760101318,
+	"elevation":	9.0243911743164062,
+	"elevation_stdev":	5.1117267608642578,
+	"distance":	4.8482789993286133,
+	"distance_stdev":	0,
+	"sequence":	9495
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	45.29766845703125,
+	"azimuth_stdev":	2.9435083866119385,
+	"elevation":	10.777156829833984,
+	"elevation_stdev":	3.6470551490783691,
+	"distance":	4.8424930572509766,
+	"distance_stdev":	0,
+	"sequence":	9496
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	36.681640625,
+	"azimuth_stdev":	3.0623924732208252,
+	"elevation":	10.286996841430664,
+	"elevation_stdev":	2.73556661605835,
+	"distance":	4.85444211959839,
+	"distance_stdev":	0,
+	"sequence":	9497
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	30.9744873046875,
+	"azimuth_stdev":	4.7644305229187,
+	"elevation":	8.8744649887084961,
+	"elevation_stdev":	2.3668570518493652,
+	"distance":	4.87181806564331,
+	"distance_stdev":	0,
+	"sequence":	9498
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	36.210296630859375,
+	"azimuth_stdev":	4.9376125335693359,
+	"elevation":	7.4318294525146484,
+	"elevation_stdev":	2.1860053539276123,
+	"distance":	4.89427900314331,
+	"distance_stdev":	0,
+	"sequence":	9499
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	38.775299072265625,
+	"azimuth_stdev":	4.93790626525879,
+	"elevation":	7.0818052291870117,
+	"elevation_stdev":	1.8485900163650513,
+	"distance":	4.9325885772705078,
+	"distance_stdev":	0,
+	"sequence":	9500
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	38.974639892578125,
+	"azimuth_stdev":	4.91853427886963,
+	"elevation":	6.6397528648376465,
+	"elevation_stdev":	1.8258540630340576,
+	"distance":	4.9431009292602539,
+	"distance_stdev":	0,
+	"sequence":	9501
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	39.091476440429688,
+	"azimuth_stdev":	4.8593521118164062,
+	"elevation":	6.7938399314880371,
+	"elevation_stdev":	1.9963375329971313,
+	"distance":	4.9431009292602539,
+	"distance_stdev":	0,
+	"sequence":	9502
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	39.304733276367188,
+	"azimuth_stdev":	4.8292989730834961,
+	"elevation":	6.3055996894836426,
+	"elevation_stdev":	2.1832895278930664,
+	"distance":	4.9376740455627441,
+	"distance_stdev":	0,
+	"sequence":	9503
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	39.693222045898438,
+	"azimuth_stdev":	4.8121271133422852,
+	"elevation":	7.1678485870361328,
+	"elevation_stdev":	2.2135393619537354,
+	"distance":	4.9322471618652344,
+	"distance_stdev":	0,
+	"sequence":	9504
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	37.81781005859375,
+	"azimuth_stdev":	4.60883903503418,
+	"elevation":	10.379430770874023,
+	"elevation_stdev":	2.41455864906311,
+	"distance":	4.9322466850280762,
+	"distance_stdev":	0,
+	"sequence":	9505
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	35.901779174804688,
+	"azimuth_stdev":	3.3897886276245117,
+	"elevation":	9.88706111907959,
+	"elevation_stdev":	2.2330563068389893,
+	"distance":	4.9322471618652344,
+	"distance_stdev":	0,
+	"sequence":	9506
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	36.2823486328125,
+	"azimuth_stdev":	3.408409595489502,
+	"elevation":	9.64894676208496,
+	"elevation_stdev":	2.112069845199585,
+	"distance":	4.9322471618652344,
+	"distance_stdev":	0,
+	"sequence":	9507
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	37.582977294921875,
+	"azimuth_stdev":	1.8340455293655396,
+	"elevation":	9.0374183654785156,
+	"elevation_stdev":	2.1273956298828125,
+	"distance":	4.9032282829284668,
+	"distance_stdev":	0,
+	"sequence":	9508
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	36.7493896484375,
+	"azimuth_stdev":	1.7494728565216064,
+	"elevation":	9.10303020477295,
+	"elevation_stdev":	2.1520130634307861,
+	"distance":	4.8723230361938477,
+	"distance_stdev":	0,
+	"sequence":	9509
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	36.492843627929688,
+	"azimuth_stdev":	1.8136742115020752,
+	"elevation":	7.6008305549621582,
+	"elevation_stdev":	2.10537838935852,
+	"distance":	4.8579463958740234,
+	"distance_stdev":	0,
+	"sequence":	9510
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	36.18475341796875,
+	"azimuth_stdev":	1.8334494829177856,
+	"elevation":	7.6685733795166016,
+	"elevation_stdev":	1.98039448261261,
+	"distance":	4.8641095161438,
+	"distance_stdev":	0,
+	"sequence":	9511
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	35.58599853515625,
+	"azimuth_stdev":	1.8322571516036987,
+	"elevation":	10.12450122833252,
+	"elevation_stdev":	1.9561432600021362,
+	"distance":	4.8444170951843262,
+	"distance_stdev":	0,
+	"sequence":	9512
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	37.8819580078125,
+	"azimuth_stdev":	1.5995835065841675,
+	"elevation":	12.120681762695312,
+	"elevation_stdev":	2.09811520576477,
+	"distance":	4.89058542251587,
+	"distance_stdev":	0,
+	"sequence":	9513
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	15.512741088867188,
+	"azimuth_stdev":	8.7213497161865234,
+	"elevation":	12.88468074798584,
+	"elevation_stdev":	2.3557851314544678,
+	"distance":	4.9145188331604,
+	"distance_stdev":	0,
+	"sequence":	9514
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	7.022735595703125,
+	"azimuth_stdev":	14.072263717651367,
+	"elevation":	14.716761589050293,
+	"elevation_stdev":	3.1919140815734863,
+	"distance":	4.93421173095703,
+	"distance_stdev":	0,
+	"sequence":	9515
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	1.5082855224609375,
+	"azimuth_stdev":	18.485891342163086,
+	"elevation":	15.111913681030273,
+	"elevation_stdev":	3.8199529647827148,
+	"distance":	4.9749617576599121,
+	"distance_stdev":	0,
+	"sequence":	9516
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-1.2835540771484375,
+	"azimuth_stdev":	21.603103637695312,
+	"elevation":	14.1341552734375,
+	"elevation_stdev":	4.0326576232910156,
+	"distance":	5.0201621055603027,
+	"distance_stdev":	0,
+	"sequence":	9517
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-1.69464111328125,
+	"azimuth_stdev":	23.106040954589844,
+	"elevation":	12.985603332519531,
+	"elevation_stdev":	3.93972659111023,
+	"distance":	5.0201621055603027,
+	"distance_stdev":	0,
+	"sequence":	9518
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-2.01513671875,
+	"azimuth_stdev":	23.4521656036377,
+	"elevation":	11.166023254394531,
+	"elevation_stdev":	3.7535519599914551,
+	"distance":	5.0201621055603027,
+	"distance_stdev":	0,
+	"sequence":	9519
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-1.2793121337890625,
+	"azimuth_stdev":	22.487035751342773,
+	"elevation":	10.933493614196777,
+	"elevation_stdev":	3.18509840965271,
+	"distance":	5.044095516204834,
+	"distance_stdev":	0,
+	"sequence":	9520
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	0.063385009765625,
+	"azimuth_stdev":	20.122247695922852,
+	"elevation":	10.064507484436035,
+	"elevation_stdev":	2.5692343711853027,
+	"distance":	5.0711922645568848,
+	"distance_stdev":	0,
+	"sequence":	9521
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	0.8856048583984375,
+	"azimuth_stdev":	16.174806594848633,
+	"elevation":	10.462418556213379,
+	"elevation_stdev":	2.507732629776001,
+	"distance":	5.0711917877197266,
+	"distance_stdev":	0,
+	"sequence":	9522
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	2.164794921875,
+	"azimuth_stdev":	7.0113663673400879,
+	"elevation":	12.44575023651123,
+	"elevation_stdev":	2.50239896774292,
+	"distance":	5.0340676307678223,
+	"distance_stdev":	0,
+	"sequence":	9523
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	3.012786865234375,
+	"azimuth_stdev":	3.5930397510528564,
+	"elevation":	13.300621032714844,
+	"elevation_stdev":	2.5230996608734131,
+	"distance":	5.04759645462036,
+	"distance_stdev":	0,
+	"sequence":	9524
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	3.934417724609375,
+	"azimuth_stdev":	2.7198536396026611,
+	"elevation":	15.027776718139648,
+	"elevation_stdev":	2.5840065479278564,
+	"distance":	5.05415391921997,
+	"distance_stdev":	0,
+	"sequence":	9525
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	5.267822265625,
+	"azimuth_stdev":	3.33711576461792,
+	"elevation":	13.86195182800293,
+	"elevation_stdev":	2.3683195114135742,
+	"distance":	5.0607118606567383,
+	"distance_stdev":	0,
+	"sequence":	9526
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	6.56243896484375,
+	"azimuth_stdev":	3.8805851936340332,
+	"elevation":	14.994979858398438,
+	"elevation_stdev":	2.5259675979614258,
+	"distance":	5.0607118606567383,
+	"distance_stdev":	0,
+	"sequence":	9527
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	7.68206787109375,
+	"azimuth_stdev":	4.23983097076416,
+	"elevation":	16.125045776367188,
+	"elevation_stdev":	2.9852659702301025,
+	"distance":	5.0155115127563477,
+	"distance_stdev":	0,
+	"sequence":	9528
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	5.7049102783203125,
+	"azimuth_stdev":	3.8225317001342773,
+	"elevation":	16.44636344909668,
+	"elevation_stdev":	3.2420663833618164,
+	"distance":	4.9796838760375977,
+	"distance_stdev":	0,
+	"sequence":	9529
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	4.684417724609375,
+	"azimuth_stdev":	3.1903040409088135,
+	"elevation":	15.645712852478027,
+	"elevation_stdev":	3.1429035663604736,
+	"distance":	4.93342161178589,
+	"distance_stdev":	0,
+	"sequence":	9530
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	3.52142333984375,
+	"azimuth_stdev":	2.6674184799194336,
+	"elevation":	15.244645118713379,
+	"elevation_stdev":	2.5815045833587646,
+	"distance":	4.8998799324035645,
+	"distance_stdev":	0,
+	"sequence":	9531
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	2.257537841796875,
+	"azimuth_stdev":	2.379899263381958,
+	"elevation":	16.817867279052734,
+	"elevation_stdev":	1.9593688249588013,
+	"distance":	4.8601751327514648,
+	"distance_stdev":	0,
+	"sequence":	9532
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	1.542938232421875,
+	"azimuth_stdev":	2.5033717155456543,
+	"elevation":	17.718088150024414,
+	"elevation_stdev":	1.8566690683364868,
+	"distance":	4.8391175270080566,
+	"distance_stdev":	0,
+	"sequence":	9533
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	1.5950775146484375,
+	"azimuth_stdev":	2.7102000713348389,
+	"elevation":	18.455371856689453,
+	"elevation_stdev":	1.9165937900543213,
+	"distance":	4.81009864807129,
+	"distance_stdev":	0,
+	"sequence":	9534
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	1.0849456787109375,
+	"azimuth_stdev":	3.0114662647247314,
+	"elevation":	17.630455017089844,
+	"elevation_stdev":	1.9642610549926758,
+	"distance":	4.78904104232788,
+	"distance_stdev":	0,
+	"sequence":	9535
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	3.301177978515625,
+	"azimuth_stdev":	2.963101863861084,
+	"elevation":	18.208539962768555,
+	"elevation_stdev":	1.7227641344070435,
+	"distance":	4.7693190574646,
+	"distance_stdev":	0,
+	"sequence":	9536
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	2.162933349609375,
+	"azimuth_stdev":	2.7362656593322754,
+	"elevation":	16.842124938964844,
+	"elevation_stdev":	1.5002241134643555,
+	"distance":	4.742098331451416,
+	"distance_stdev":	0,
+	"sequence":	9537
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	0.7757415771484375,
+	"azimuth_stdev":	2.0846278667449951,
+	"elevation":	16.421915054321289,
+	"elevation_stdev":	1.4720867872238159,
+	"distance":	4.742098331451416,
+	"distance_stdev":	0,
+	"sequence":	9538
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	0.3033905029296875,
+	"azimuth_stdev":	1.7656391859054565,
+	"elevation":	14.859681129455566,
+	"elevation_stdev":	1.730193018913269,
+	"distance":	4.7594742774963379,
+	"distance_stdev":	0,
+	"sequence":	9539
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-3.05621337890625,
+	"azimuth_stdev":	2.402890682220459,
+	"elevation":	12.962624549865723,
+	"elevation_stdev":	2.3878591060638428,
+	"distance":	4.72659158706665,
+	"distance_stdev":	0,
+	"sequence":	9540
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	12.096435546875,
+	"azimuth_stdev":	5.0013060569763184,
+	"elevation":	12.237489700317383,
+	"elevation_stdev":	3.01624345779419,
+	"distance":	4.72116470336914,
+	"distance_stdev":	0,
+	"sequence":	9541
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	15.066329956054688,
+	"azimuth_stdev":	7.2643918991088867,
+	"elevation":	14.446383476257324,
+	"elevation_stdev":	3.0938458442687988,
+	"distance":	4.69723129272461,
+	"distance_stdev":	0,
+	"sequence":	9542
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	17.356613159179688,
+	"azimuth_stdev":	9.12845039367676,
+	"elevation":	14.066925048828125,
+	"elevation_stdev":	3.0691730976104736,
+	"distance":	4.67329740524292,
+	"distance_stdev":	0,
+	"sequence":	9543
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	17.106857299804688,
+	"azimuth_stdev":	10.184638977050781,
+	"elevation":	14.528606414794922,
+	"elevation_stdev":	2.7574186325073242,
+	"distance":	4.66134786605835,
+	"distance_stdev":	0,
+	"sequence":	9544
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	17.416915893554688,
+	"azimuth_stdev":	10.716604232788086,
+	"elevation":	12.250411987304688,
+	"elevation_stdev":	2.7620482444763184,
+	"distance":	4.6230382919311523,
+	"distance_stdev":	0,
+	"sequence":	9545
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	17.597076416015625,
+	"azimuth_stdev":	11.079683303833008,
+	"elevation":	11.410080909729004,
+	"elevation_stdev":	2.5027258396148682,
+	"distance":	4.5822877883911133,
+	"distance_stdev":	0,
+	"sequence":	9546
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	17.364883422851562,
+	"azimuth_stdev":	10.899550437927246,
+	"elevation":	11.112600326538086,
+	"elevation_stdev":	2.3705952167510986,
+	"distance":	4.558354377746582,
+	"distance_stdev":	0,
+	"sequence":	9547
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	17.205078125,
+	"azimuth_stdev":	9.9995288848876953,
+	"elevation":	9.73804187774658,
+	"elevation_stdev":	2.3799777030944824,
+	"distance":	4.5358929634094238,
+	"distance_stdev":	0,
+	"sequence":	9548
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	16.69342041015625,
+	"azimuth_stdev":	8.2592840194702148,
+	"elevation":	9.86030960083008,
+	"elevation_stdev":	2.4474015235900879,
+	"distance":	4.514958381652832,
+	"distance_stdev":	0,
+	"sequence":	9549
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	17.090621948242188,
+	"azimuth_stdev":	2.2097973823547363,
+	"elevation":	8.67003059387207,
+	"elevation_stdev":	2.8743913173675537,
+	"distance":	4.5091729164123535,
+	"distance_stdev":	0,
+	"sequence":	9550
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	14.167984008789062,
+	"azimuth_stdev":	1.4850196838378906,
+	"elevation":	8.61962413787842,
+	"elevation_stdev":	3.188295841217041,
+	"distance":	4.5211219787597656,
+	"distance_stdev":	0,
+	"sequence":	9551
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	14.780670166015625,
+	"azimuth_stdev":	1.5472556352615356,
+	"elevation":	9.5088968276977539,
+	"elevation_stdev":	2.9262681007385254,
+	"distance":	4.5323348045349121,
+	"distance_stdev":	0,
+	"sequence":	9552
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	0.0597381591796875,
+	"azimuth_stdev":	6.92998218536377,
+	"elevation":	10.805155754089355,
+	"elevation_stdev":	2.507190465927124,
+	"distance":	4.4926300048828125,
+	"distance_stdev":	0,
+	"sequence":	9553
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-6.739776611328125,
+	"azimuth_stdev":	11.141886711120605,
+	"elevation":	10.17385196685791,
+	"elevation_stdev":	1.6405296325683594,
+	"distance":	4.4868440628051758,
+	"distance_stdev":	0,
+	"sequence":	9554
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-11.43487548828125,
+	"azimuth_stdev":	14.563118934631348,
+	"elevation":	8.65673065185547,
+	"elevation_stdev":	1.4298590421676636,
+	"distance":	4.4629659652709961,
+	"distance_stdev":	0,
+	"sequence":	9555
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-10.745315551757812,
+	"azimuth_stdev":	16.252496719360352,
+	"elevation":	9.8610191345214844,
+	"elevation_stdev":	1.213679313659668,
+	"distance":	4.4390869140625,
+	"distance_stdev":	0,
+	"sequence":	9556
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-9.444122314453125,
+	"azimuth_stdev":	16.735107421875,
+	"elevation":	11.404842376708984,
+	"elevation_stdev":	1.2911571264266968,
+	"distance":	4.4118661880493164,
+	"distance_stdev":	0,
+	"sequence":	9557
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-8.75309753417969,
+	"azimuth_stdev":	16.3301887512207,
+	"elevation":	14.039338111877441,
+	"elevation_stdev":	2.294391393661499,
+	"distance":	4.3999171257019043,
+	"distance_stdev":	0,
+	"sequence":	9558
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-6.2142333984375,
+	"azimuth_stdev":	14.992110252380371,
+	"elevation":	15.760025978088379,
+	"elevation_stdev":	3.35297679901123,
+	"distance":	4.3640894889831543,
+	"distance_stdev":	0,
+	"sequence":	9559
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-4.9392547607421875,
+	"azimuth_stdev":	12.615155220031738,
+	"elevation":	18.849111557006836,
+	"elevation_stdev":	4.71105432510376,
+	"distance":	4.32069444656372,
+	"distance_stdev":	0,
+	"sequence":	9560
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-4.095062255859375,
+	"azimuth_stdev":	9.9172477722167969,
+	"elevation":	19.373317718505859,
+	"elevation_stdev":	5.47881555557251,
+	"distance":	4.292938232421875,
+	"distance_stdev":	0,
+	"sequence":	9561
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-2.173583984375,
+	"azimuth_stdev":	4.8485064506530762,
+	"elevation":	19.819204330444336,
+	"elevation_stdev":	5.9839506149292,
+	"distance":	4.2744865417480469,
+	"distance_stdev":	0,
+	"sequence":	9562
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-0.9367523193359375,
+	"azimuth_stdev":	4.6107301712036133,
+	"elevation":	20.799795150756836,
+	"elevation_stdev":	6.47690486907959,
+	"distance":	4.26940107345581,
+	"distance_stdev":	0,
+	"sequence":	9563
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-0.403106689453125,
+	"azimuth_stdev":	5.2480182647705078,
+	"elevation":	21.154483795166016,
+	"elevation_stdev":	6.564359188079834,
+	"distance":	4.25510597229004,
+	"distance_stdev":	0,
+	"sequence":	9564
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	0.4592742919921875,
+	"azimuth_stdev":	5.17624568939209,
+	"elevation":	20.731121063232422,
+	"elevation_stdev":	5.7720165252685547,
+	"distance":	4.2117881774902344,
+	"distance_stdev":	0,
+	"sequence":	9565
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	1.6923675537109375,
+	"azimuth_stdev":	4.9827651977539062,
+	"elevation":	19.884153366088867,
+	"elevation_stdev":	4.6052050590515137,
+	"distance":	4.1746335029602051,
+	"distance_stdev":	0,
+	"sequence":	9566
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	2.8881378173828125,
+	"azimuth_stdev":	4.7878456115722656,
+	"elevation":	18.737442016601562,
+	"elevation_stdev":	3.1997849941253662,
+	"distance":	4.15833568572998,
+	"distance_stdev":	0,
+	"sequence":	9567
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	1.3814849853515625,
+	"azimuth_stdev":	3.9470915794372559,
+	"elevation":	17.4129753112793,
+	"elevation_stdev":	2.3163623809814453,
+	"distance":	4.18735408782959,
+	"distance_stdev":	0,
+	"sequence":	9568
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	0.7533111572265625,
+	"azimuth_stdev":	3.2850353717803955,
+	"elevation":	16.968086242675781,
+	"elevation_stdev":	1.9578107595443726,
+	"distance":	4.161412239074707,
+	"distance_stdev":	0,
+	"sequence":	9570
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	0.77801513671875,
+	"azimuth_stdev":	2.6257407665252686,
+	"elevation":	15.801999092102051,
+	"elevation_stdev":	2.5134508609771729,
+	"distance":	4.111536979675293,
+	"distance_stdev":	0,
+	"sequence":	9571
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-1.1704254150390625,
+	"azimuth_stdev":	1.956839919090271,
+	"elevation":	15.255006790161133,
+	"elevation_stdev":	3.0100846290588379,
+	"distance":	4.075709342956543,
+	"distance_stdev":	0,
+	"sequence":	9572
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-3.644378662109375,
+	"azimuth_stdev":	2.3582279682159424,
+	"elevation":	14.952874183654785,
+	"elevation_stdev":	3.3482809066772461,
+	"distance":	4.0320677757263184,
+	"distance_stdev":	0,
+	"sequence":	9573
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-5.4723052978515625,
+	"azimuth_stdev":	3.30083441734314,
+	"elevation":	14.995569229125977,
+	"elevation_stdev":	3.341524600982666,
+	"distance":	3.9808144569396973,
+	"distance_stdev":	0,
+	"sequence":	9575
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-5.3700408935546875,
+	"azimuth_stdev":	3.9080314636230469,
+	"elevation":	15.410585403442383,
+	"elevation_stdev":	2.9568665027618408,
+	"distance":	3.9568808078765869,
+	"distance_stdev":	0,
+	"sequence":	9576
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-6.040771484375,
+	"azimuth_stdev":	4.4024515151977539,
+	"elevation":	15.952963829040527,
+	"elevation_stdev":	2.3502762317657471,
+	"distance":	3.9161310195922852,
+	"distance_stdev":	0,
+	"sequence":	9577
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-5.8921051025390625,
+	"azimuth_stdev":	4.4977984428405762,
+	"elevation":	15.307497024536133,
+	"elevation_stdev":	1.7287678718566895,
+	"distance":	3.8559222221374512,
+	"distance_stdev":	0,
+	"sequence":	9578
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-6.5356597900390625,
+	"azimuth_stdev":	4.16249942779541,
+	"elevation":	15.634603500366211,
+	"elevation_stdev":	1.1420825719833374,
+	"distance":	3.8026881217956543,
+	"distance_stdev":	0,
+	"sequence":	9579
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-6.585235595703125,
+	"azimuth_stdev":	3.8210093975067139,
+	"elevation":	15.660841941833496,
+	"elevation_stdev":	0.812153398990631,
+	"distance":	3.74584150314331,
+	"distance_stdev":	0,
+	"sequence":	9580
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-7.3438873291015625,
+	"azimuth_stdev":	3.3908615112304688,
+	"elevation":	15.932773590087891,
+	"elevation_stdev":	0.505027174949646,
+	"distance":	3.7053244113922119,
+	"distance_stdev":	0,
+	"sequence":	9581
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-6.6478424072265625,
+	"azimuth_stdev":	2.3478600978851318,
+	"elevation":	17.429533004760742,
+	"elevation_stdev":	0.99299460649490356,
+	"distance":	3.66709566116333,
+	"distance_stdev":	0,
+	"sequence":	9582
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-5.5268096923828125,
+	"azimuth_stdev":	1.3106484413146973,
+	"elevation":	20.620321273803711,
+	"elevation_stdev":	2.3748974800109863,
+	"distance":	3.5934569835662842,
+	"distance_stdev":	0,
+	"sequence":	9583
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-5.135589599609375,
+	"azimuth_stdev":	0.913135290145874,
+	"elevation":	21.814725875854492,
+	"elevation_stdev":	3.3323593139648438,
+	"distance":	3.5272231101989746,
+	"distance_stdev":	0,
+	"sequence":	9584
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-5.1958465576171875,
+	"azimuth_stdev":	0.95258873701095581,
+	"elevation":	23.176828384399414,
+	"elevation_stdev":	4.1766824722290039,
+	"distance":	3.4913957118988037,
+	"distance_stdev":	0,
+	"sequence":	9585
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-4.658294677734375,
+	"azimuth_stdev":	1.07988166809082,
+	"elevation":	26.145235061645508,
+	"elevation_stdev":	5.40448808670044,
+	"distance":	3.4381616115570068,
+	"distance_stdev":	0,
+	"sequence":	9586
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-4.947021484375,
+	"azimuth_stdev":	1.1545696258544922,
+	"elevation":	28.569915771484375,
+	"elevation_stdev":	6.6895551681518555,
+	"distance":	3.3882865905761719,
+	"distance_stdev":	0,
+	"sequence":	9587
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-3.0955657958984375,
+	"azimuth_stdev":	1.611156702041626,
+	"elevation":	26.043243408203125,
+	"elevation_stdev":	6.7272028923034668,
+	"distance":	3.3420240879058838,
+	"distance_stdev":	0,
+	"sequence":	9588
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-2.2517242431640625,
+	"azimuth_stdev":	2.0315396785736084,
+	"elevation":	22.019418716430664,
+	"elevation_stdev":	6.17467975616455,
+	"distance":	3.3178055286407471,
+	"distance_stdev":	0,
+	"sequence":	9589
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-1.455902099609375,
+	"azimuth_stdev":	2.40273928642273,
+	"elevation":	19.23390007019043,
+	"elevation_stdev":	5.5902676582336426,
+	"distance":	3.31364893913269,
+	"distance_stdev":	0,
+	"sequence":	9590
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-0.4769134521484375,
+	"azimuth_stdev":	2.5935156345367432,
+	"elevation":	19.999855041503906,
+	"elevation_stdev":	4.8646154403686523,
+	"distance":	3.3061587810516357,
+	"distance_stdev":	0,
+	"sequence":	9591
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-0.192901611328125,
+	"azimuth_stdev":	2.6829311847686768,
+	"elevation":	19.431055068969727,
+	"elevation_stdev":	4.4798622131347656,
+	"distance":	3.2904706001281738,
+	"distance_stdev":	0,
+	"sequence":	9592
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-0.32135009765625,
+	"azimuth_stdev":	2.721994161605835,
+	"elevation":	19.992141723632812,
+	"elevation_stdev":	4.5507264137268066,
+	"distance":	3.274782657623291,
+	"distance_stdev":	0,
+	"sequence":	9593
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	0.0041656494140625,
+	"azimuth_stdev":	2.7045531272888184,
+	"elevation":	19.768960952758789,
+	"elevation_stdev":	4.7167882919311523,
+	"distance":	3.2566065788269043,
+	"distance_stdev":	0,
+	"sequence":	9594
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	0.3115692138671875,
+	"azimuth_stdev":	2.5246603488922119,
+	"elevation":	20.020074844360352,
+	"elevation_stdev":	4.8139429092407227,
+	"distance":	3.2371478080749512,
+	"distance_stdev":	0,
+	"sequence":	9595
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	0.64422607421875,
+	"azimuth_stdev":	2.293729305267334,
+	"elevation":	20.634052276611328,
+	"elevation_stdev":	4.417668342590332,
+	"distance":	3.20980453491211,
+	"distance_stdev":	0,
+	"sequence":	9596
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-0.1167755126953125,
+	"azimuth_stdev":	1.5463136434555054,
+	"elevation":	19.821317672729492,
+	"elevation_stdev":	2.8268711566925049,
+	"distance":	3.1768450736999512,
+	"distance_stdev":	0,
+	"sequence":	9597
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	3.4265289306640625,
+	"azimuth_stdev":	1.9203907251358032,
+	"elevation":	17.246826171875,
+	"elevation_stdev":	1.6542302370071411,
+	"distance":	3.1483356952667236,
+	"distance_stdev":	0,
+	"sequence":	9598
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	3.0609588623046875,
+	"azimuth_stdev":	2.0120840072631836,
+	"elevation":	16.006431579589844,
+	"elevation_stdev":	2.0095367431640625,
+	"distance":	3.1153759956359863,
+	"distance_stdev":	0,
+	"sequence":	9599
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	1.6314849853515625,
+	"azimuth_stdev":	1.8467124700546265,
+	"elevation":	15.368557929992676,
+	"elevation_stdev":	2.6268341541290283,
+	"distance":	3.0704493522644043,
+	"distance_stdev":	0,
+	"sequence":	9600
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	1.706146240234375,
+	"azimuth_stdev":	1.7812496423721313,
+	"elevation":	14.830228805541992,
+	"elevation_stdev":	3.0773520469665527,
+	"distance":	3.00439453125,
+	"distance_stdev":	0,
+	"sequence":	9601
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	0.1635894775390625,
+	"azimuth_stdev":	1.7417517900466919,
+	"elevation":	14.003130912780762,
+	"elevation_stdev":	3.5441262722015381,
+	"distance":	2.9520862102508545,
+	"distance_stdev":	0,
+	"sequence":	9602
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	0.94842529296875,
+	"azimuth_stdev":	1.62914502620697,
+	"elevation":	14.183095932006836,
+	"elevation_stdev":	3.6794445514678955,
+	"distance":	2.903407096862793,
+	"distance_stdev":	0,
+	"sequence":	9603
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	0.681365966796875,
+	"azimuth_stdev":	1.5606189966201782,
+	"elevation":	11.602368354797363,
+	"elevation_stdev":	4.1693115234375,
+	"distance":	2.8530769348144531,
+	"distance_stdev":	0,
+	"sequence":	9604
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	1.1748046875,
+	"azimuth_stdev":	1.5030645132064819,
+	"elevation":	10.958205223083496,
+	"elevation_stdev":	4.3654561042785645,
+	"distance":	2.8027470111846924,
+	"distance_stdev":	0,
+	"sequence":	9605
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-0.62591552734375,
+	"azimuth_stdev":	1.6899498701095581,
+	"elevation":	11.536299705505371,
+	"elevation_stdev":	3.8536741733551025,
+	"distance":	2.7469902038574219,
+	"distance_stdev":	0,
+	"sequence":	9606
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-1.8753509521484375,
+	"azimuth_stdev":	2.0591397285461426,
+	"elevation":	14.919219970703125,
+	"elevation_stdev":	2.89785647392273,
+	"distance":	2.6951470375061035,
+	"distance_stdev":	0,
+	"sequence":	9607
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-5.6419525146484375,
+	"azimuth_stdev":	3.1503643989562988,
+	"elevation":	18.685813903808594,
+	"elevation_stdev":	3.2814803123474121,
+	"distance":	2.6531493663787842,
+	"distance_stdev":	0,
+	"sequence":	9608
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-15.572174072265625,
+	"azimuth_stdev":	6.90195655822754,
+	"elevation":	38.781425476074219,
+	"elevation_stdev":	11.349112510681152,
+	"distance":	2.6013064384460449,
+	"distance_stdev":	0,
+	"sequence":	9609
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-17.863204956054688,
+	"azimuth_stdev":	9.32423973083496,
+	"elevation":	58.046192169189453,
+	"elevation_stdev":	21.468679428100586,
+	"distance":	2.5560615062713623,
+	"distance_stdev":	0,
+	"sequence":	9610
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-20.066268920898438,
+	"azimuth_stdev":	11.084162712097168,
+	"elevation":	60.454593658447266,
+	"elevation_stdev":	27.342721939086914,
+	"distance":	2.4883558750152588,
+	"distance_stdev":	0,
+	"sequence":	9611
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-20.103607177734375,
+	"azimuth_stdev":	12.100832939147949,
+	"elevation":	61.638477325439453,
+	"elevation_stdev":	30.904237747192383,
+	"distance":	2.4325988292694092,
+	"distance_stdev":	0,
+	"sequence":	9612
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-20.798965454101562,
+	"azimuth_stdev":	12.41633129119873,
+	"elevation":	63.1167106628418,
+	"elevation_stdev":	32.923759460449219,
+	"distance":	2.36834192276001,
+	"distance_stdev":	0,
+	"sequence":	9613
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-20.5428466796875,
+	"azimuth_stdev":	12.023146629333496,
+	"elevation":	64.005126953125,
+	"elevation_stdev":	32.995475769042969,
+	"distance":	2.3122024536132812,
+	"distance_stdev":	0,
+	"sequence":	9614
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-21.817306518554688,
+	"azimuth_stdev":	10.883206367492676,
+	"elevation":	66.4721145629883,
+	"elevation_stdev":	31.410215377807617,
+	"distance":	2.2896049022674561,
+	"distance_stdev":	0,
+	"sequence":	9615
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-21.865447998046875,
+	"azimuth_stdev":	9.1732749938964844,
+	"elevation":	67.5148391723633,
+	"elevation_stdev":	27.729129791259766,
+	"distance":	2.2413733005523682,
+	"distance_stdev":	0,
+	"sequence":	9616
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-21.875579833984375,
+	"azimuth_stdev":	6.43006992340088,
+	"elevation":	67.9962615966797,
+	"elevation_stdev":	21.956663131713867,
+	"distance":	2.2148983478546143,
+	"distance_stdev":	0,
+	"sequence":	9617
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-22.107406616210938,
+	"azimuth_stdev":	2.7009162902832031,
+	"elevation":	70.9645462036133,
+	"elevation_stdev":	12.524199485778809,
+	"distance":	2.18842363357544,
+	"distance_stdev":	0,
+	"sequence":	9618
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-22.140289306640625,
+	"azimuth_stdev":	1.7482230663299561,
+	"elevation":	74.1122360229492,
+	"elevation_stdev":	6.8647689819335938,
+	"distance":	2.1533422470092773,
+	"distance_stdev":	0,
+	"sequence":	9619
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-21.65130615234375,
+	"azimuth_stdev":	1.0720927715301514,
+	"elevation":	76.2833251953125,
+	"elevation_stdev":	7.31883192062378,
+	"distance":	2.099236011505127,
+	"distance_stdev":	0,
+	"sequence":	9620
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-21.288970947265625,
+	"azimuth_stdev":	0.91632229089736938,
+	"elevation":	79.2990264892578,
+	"elevation_stdev":	8.1961069107055664,
+	"distance":	2.0708065032958984,
+	"distance_stdev":	0,
+	"sequence":	9621
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-21.019073486328125,
+	"azimuth_stdev":	0.729938268661499,
+	"elevation":	80.719146728515625,
+	"elevation_stdev":	8.7223424911499,
+	"distance":	2.02901029586792,
+	"distance_stdev":	0,
+	"sequence":	9622
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-21.11700439453125,
+	"azimuth_stdev":	0.68192875385284424,
+	"elevation":	82.300086975097656,
+	"elevation_stdev":	9.047877311706543,
+	"distance":	2.004457950592041,
+	"distance_stdev":	0,
+	"sequence":	9623
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-21.499176025390625,
+	"azimuth_stdev":	0.51225179433822632,
+	"elevation":	85.196784973144531,
+	"elevation_stdev":	9.3329505920410156,
+	"distance":	1.9779831171035767,
+	"distance_stdev":	0,
+	"sequence":	9624
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-22.564453125,
+	"azimuth_stdev":	0.63717293739318848,
+	"elevation":	86.2213821411133,
+	"elevation_stdev":	9.4566078186035156,
+	"distance":	1.9450513124465942,
+	"distance_stdev":	0,
+	"sequence":	9625
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-24.991058349609375,
+	"azimuth_stdev":	1.49016273021698,
+	"elevation":	86.894256591796875,
+	"elevation_stdev":	9.08554744720459,
+	"distance":	1.9213292598724365,
+	"distance_stdev":	0,
+	"sequence":	9626
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-27.260421752929688,
+	"azimuth_stdev":	2.6037425994873047,
+	"elevation":	86.777359008789062,
+	"elevation_stdev":	7.8698434829711914,
+	"distance":	1.9213293790817261,
+	"distance_stdev":	0,
+	"sequence":	9627
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-21.851806640625,
+	"azimuth_stdev":	2.6142077445983887,
+	"elevation":	86.836654663085938,
+	"elevation_stdev":	6.5589461326599121,
+	"distance":	1.9119424819946289,
+	"distance_stdev":	0,
+	"sequence":	9628
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-26.106948852539062,
+	"azimuth_stdev":	2.9804913997650146,
+	"elevation":	86.64739990234375,
+	"elevation_stdev":	5.3290824890136719,
+	"distance":	1.8910858631134033,
+	"distance_stdev":	0,
+	"sequence":	9629
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-25.012863159179688,
+	"azimuth_stdev":	3.0284569263458252,
+	"elevation":	85.879913330078125,
+	"elevation_stdev":	3.9414005279541016,
+	"distance":	1.8487005233764648,
+	"distance_stdev":	0,
+	"sequence":	9630
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-29.5225830078125,
+	"azimuth_stdev":	3.8020265102386475,
+	"elevation":	85.1459274291992,
+	"elevation_stdev":	2.936692476272583,
+	"distance":	1.8393135070800781,
+	"distance_stdev":	0,
+	"sequence":	9631
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-45.96923828125,
+	"azimuth_stdev":	9.4793262481689453,
+	"elevation":	83.98583984375,
+	"elevation_stdev":	2.0749785900115967,
+	"distance":	1.8509600162506104,
+	"distance_stdev":	0,
+	"sequence":	9632
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-85.9818801879883,
+	"azimuth_stdev":	25.345134735107422,
+	"elevation":	80.979644775390625,
+	"elevation_stdev":	2.55172872543335,
+	"distance":	1.8694115877151489,
+	"distance_stdev":	0,
+	"sequence":	9633
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-127.27291870117188,
+	"azimuth_stdev":	44.5308494567871,
+	"elevation":	68.901947021484375,
+	"elevation_stdev":	7.7291374206542969,
+	"distance":	1.8919951915740967,
+	"distance_stdev":	0,
+	"sequence":	9634
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-135.86280822753906,
+	"azimuth_stdev":	58.383106231689453,
+	"elevation":	65.876205444335938,
+	"elevation_stdev":	10.90507984161377,
+	"distance":	1.8872355222702026,
+	"distance_stdev":	0,
+	"sequence":	9635
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-138.03097534179688,
+	"azimuth_stdev":	67.997528076171875,
+	"elevation":	64.398597717285156,
+	"elevation_stdev":	12.942944526672363,
+	"distance":	1.8729405403137207,
+	"distance_stdev":	0,
+	"sequence":	9636
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-139.74557495117188,
+	"azimuth_stdev":	73.3789749145508,
+	"elevation":	63.158287048339844,
+	"elevation_stdev":	14.21306037902832,
+	"distance":	1.8604563474655151,
+	"distance_stdev":	0,
+	"sequence":	9638
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-140.37588500976562,
+	"azimuth_stdev":	72.327362060546875,
+	"elevation":	62.318222045898438,
+	"elevation_stdev":	14.715435981750488,
+	"distance":	1.8674310445785522,
+	"distance_stdev":	0,
+	"sequence":	9639
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-143.06732177734375,
+	"azimuth_stdev":	66.941162109375,
+	"elevation":	60.413311004638672,
+	"elevation_stdev":	14.672089576721191,
+	"distance":	1.8674311637878418,
+	"distance_stdev":	0,
+	"sequence":	9640
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-145.41001892089844,
+	"azimuth_stdev":	56.411922454833984,
+	"elevation":	59.669406890869141,
+	"elevation_stdev":	13.89060115814209,
+	"distance":	1.8580441474914551,
+	"distance_stdev":	0,
+	"sequence":	9641
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-147.99618530273438,
+	"azimuth_stdev":	41.734329223632812,
+	"elevation":	59.324153900146484,
+	"elevation_stdev":	12.167603492736816,
+	"distance":	1.8468430042266846,
+	"distance_stdev":	0,
+	"sequence":	9642
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-150.3056640625,
+	"azimuth_stdev":	23.68937873840332,
+	"elevation":	57.297210693359375,
+	"elevation_stdev":	9.4760217666626,
+	"distance":	1.8231210708618164,
+	"distance_stdev":	0,
+	"sequence":	9644
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-153.26510620117188,
+	"azimuth_stdev":	9.86601257324219,
+	"elevation":	55.664379119873047,
+	"elevation_stdev":	5.6107115745544434,
+	"distance":	1.8231210708618164,
+	"distance_stdev":	0,
+	"sequence":	9645
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-155.96186828613281,
+	"azimuth_stdev":	8.7491626739501953,
+	"elevation":	54.613006591796875,
+	"elevation_stdev":	5.17183494567871,
+	"distance":	1.823121190071106,
+	"distance_stdev":	0,
+	"sequence":	9646
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-158.53619384765625,
+	"azimuth_stdev":	9.250025749206543,
+	"elevation":	53.575145721435547,
+	"elevation_stdev":	5.1372075080871582,
+	"distance":	1.8062441349029541,
+	"distance_stdev":	0,
+	"sequence":	9647
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-161.09051513671875,
+	"azimuth_stdev":	9.7658700942993164,
+	"elevation":	53.351749420166016,
+	"elevation_stdev":	4.95622682571411,
+	"distance":	1.8101216554641724,
+	"distance_stdev":	0,
+	"sequence":	9648
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-163.29635620117188,
+	"azimuth_stdev":	10.105795860290527,
+	"elevation":	51.782444000244141,
+	"elevation_stdev":	4.90626859664917,
+	"distance":	1.8137342929840088,
+	"distance_stdev":	0,
+	"sequence":	9649
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-163.34735107421875,
+	"azimuth_stdev":	9.57532215118408,
+	"elevation":	49.444229125976562,
+	"elevation_stdev":	5.05965280532837,
+	"distance":	1.8176119327545166,
+	"distance_stdev":	0,
+	"sequence":	9650
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-162.86180114746094,
+	"azimuth_stdev":	8.66162586212158,
+	"elevation":	47.286052703857422,
+	"elevation_stdev":	5.5937561988830566,
+	"distance":	1.83707070350647,
+	"distance_stdev":	0,
+	"sequence":	9651
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-163.15554809570312,
+	"azimuth_stdev":	7.50933074951172,
+	"elevation":	46.720542907714844,
+	"elevation_stdev":	5.7694525718688965,
+	"distance":	1.8295806646347046,
+	"distance_stdev":	0,
+	"sequence":	9652
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-166.18045043945312,
+	"azimuth_stdev":	6.6447587013244629,
+	"elevation":	46.142009735107422,
+	"elevation_stdev":	5.525263786315918,
+	"distance":	1.85043728351593,
+	"distance_stdev":	0,
+	"sequence":	9653
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-167.35504150390625,
+	"azimuth_stdev":	5.70711612701416,
+	"elevation":	45.276996612548828,
+	"elevation_stdev":	5.3828248977661133,
+	"distance":	1.866125226020813,
+	"distance_stdev":	0,
+	"sequence":	9654
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-168.51808166503906,
+	"azimuth_stdev":	4.974891185760498,
+	"elevation":	44.5296630859375,
+	"elevation_stdev":	5.26216983795166,
+	"distance":	1.87820029258728,
+	"distance_stdev":	0,
+	"sequence":	9655
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-168.5411376953125,
+	"azimuth_stdev":	4.26060676574707,
+	"elevation":	43.375015258789062,
+	"elevation_stdev":	5.1301655769348145,
+	"distance":	1.9002538919448853,
+	"distance_stdev":	0,
+	"sequence":	9656
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-168.436767578125,
+	"azimuth_stdev":	3.6567468643188477,
+	"elevation":	43.186161041259766,
+	"elevation_stdev":	4.79151201248169,
+	"distance":	1.9036159515380859,
+	"distance_stdev":	0,
+	"sequence":	9657
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-168.95213317871094,
+	"azimuth_stdev":	3.3863525390625,
+	"elevation":	43.531475067138672,
+	"elevation_stdev":	3.9058489799499512,
+	"distance":	1.9137156009674072,
+	"distance_stdev":	0,
+	"sequence":	9658
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-169.35304260253906,
+	"azimuth_stdev":	3.3720347881317139,
+	"elevation":	41.857681274414062,
+	"elevation_stdev":	3.190493106842041,
+	"distance":	1.930578351020813,
+	"distance_stdev":	0,
+	"sequence":	9659
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-169.70164489746094,
+	"azimuth_stdev":	3.20498275756836,
+	"elevation":	41.269203186035156,
+	"elevation_stdev":	2.82164478302002,
+	"distance":	1.9474412202835083,
+	"distance_stdev":	0,
+	"sequence":	9660
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-169.60350036621094,
+	"azimuth_stdev":	2.594357967376709,
+	"elevation":	40.8646469116211,
+	"elevation_stdev":	2.7827303409576416,
+	"distance":	1.9549169540405273,
+	"distance_stdev":	0,
+	"sequence":	9661
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-169.12654113769531,
+	"azimuth_stdev":	1.4066520929336548,
+	"elevation":	39.327682495117188,
+	"elevation_stdev":	2.9392561912536621,
+	"distance":	1.973901629447937,
+	"distance_stdev":	0,
+	"sequence":	9662
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-168.31547546386719,
+	"azimuth_stdev":	0.915128469467163,
+	"elevation":	38.498580932617188,
+	"elevation_stdev":	3.0671455860137939,
+	"distance":	1.9932769536972046,
+	"distance_stdev":	0,
+	"sequence":	9663
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-167.9478759765625,
+	"azimuth_stdev":	0.760741114616394,
+	"elevation":	38.370342254638672,
+	"elevation_stdev":	3.0684573650360107,
+	"distance":	2.0303134918212891,
+	"distance_stdev":	0,
+	"sequence":	9664
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-168.83433532714844,
+	"azimuth_stdev":	0.74671989679336548,
+	"elevation":	37.952785491943359,
+	"elevation_stdev":	3.0271317958831787,
+	"distance":	2.07899260520935,
+	"distance_stdev":	0,
+	"sequence":	9665
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-169.95956420898438,
+	"azimuth_stdev":	0.84515678882598877,
+	"elevation":	37.465816497802734,
+	"elevation_stdev":	3.0719354152679443,
+	"distance":	2.11947751045227,
+	"distance_stdev":	0,
+	"sequence":	9666
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-170.379150390625,
+	"azimuth_stdev":	0.96058851480484,
+	"elevation":	38.0498924255371,
+	"elevation_stdev":	2.8314626216888428,
+	"distance":	2.1647224426269531,
+	"distance_stdev":	0,
+	"sequence":	9667
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-172.71206665039062,
+	"azimuth_stdev":	1.7086005210876465,
+	"elevation":	37.238113403320312,
+	"elevation_stdev":	2.31557822227478,
+	"distance":	2.22626543045044,
+	"distance_stdev":	0,
+	"sequence":	9668
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-174.03935241699219,
+	"azimuth_stdev":	2.4864437580108643,
+	"elevation":	36.781036376953125,
+	"elevation_stdev":	2.0749402046203613,
+	"distance":	2.2954835891723633,
+	"distance_stdev":	0,
+	"sequence":	9669
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-175.05967712402344,
+	"azimuth_stdev":	3.2056634426116943,
+	"elevation":	36.800228118896484,
+	"elevation_stdev":	1.733471155166626,
+	"distance":	2.3585395812988281,
+	"distance_stdev":	0,
+	"sequence":	9670
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-175.03289794921875,
+	"azimuth_stdev":	3.634101390838623,
+	"elevation":	36.006252288818359,
+	"elevation_stdev":	1.3670930862426758,
+	"distance":	2.4005377292633057,
+	"distance_stdev":	0,
+	"sequence":	9671
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-175.15756225585938,
+	"azimuth_stdev":	3.8446297645568848,
+	"elevation":	36.246311187744141,
+	"elevation_stdev":	1.2173082828521729,
+	"distance":	2.4365723133087158,
+	"distance_stdev":	0,
+	"sequence":	9672
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-175.15133666992188,
+	"azimuth_stdev":	3.7260985374450684,
+	"elevation":	35.793792724609375,
+	"elevation_stdev":	1.245428204536438,
+	"distance":	2.4684505462646484,
+	"distance_stdev":	0,
+	"sequence":	9673
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-173.36911010742188,
+	"azimuth_stdev":	3.1243851184844971,
+	"elevation":	36.458930969238281,
+	"elevation_stdev":	1.0906211137771606,
+	"distance":	2.5089354515075684,
+	"distance_stdev":	0,
+	"sequence":	9674
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-170.90602111816406,
+	"azimuth_stdev":	2.70010781288147,
+	"elevation":	36.755775451660156,
+	"elevation_stdev":	0.95604532957077026,
+	"distance":	2.5459721088409424,
+	"distance_stdev":	0,
+	"sequence":	9675
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-169.0865478515625,
+	"azimuth_stdev":	2.9094328880310059,
+	"elevation":	36.2360725402832,
+	"elevation_stdev":	0.91278111934661865,
+	"distance":	2.6148319244384766,
+	"distance_stdev":	0,
+	"sequence":	9676
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-168.43869018554688,
+	"azimuth_stdev":	3.324664831161499,
+	"elevation":	36.436862945556641,
+	"elevation_stdev":	0.596763551235199,
+	"distance":	2.6771337985992432,
+	"distance_stdev":	0,
+	"sequence":	9677
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-167.93464660644531,
+	"azimuth_stdev":	3.89965033531189,
+	"elevation":	36.683952331542969,
+	"elevation_stdev":	0.48344537615776062,
+	"distance":	2.7661063671112061,
+	"distance_stdev":	0,
+	"sequence":	9678
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-167.994384765625,
+	"azimuth_stdev":	4.2053208351135254,
+	"elevation":	37.197750091552734,
+	"elevation_stdev":	0.57626652717590332,
+	"distance":	2.8222458362579346,
+	"distance_stdev":	0,
+	"sequence":	9679
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-171.28800964355469,
+	"azimuth_stdev":	3.9376862049102783,
+	"elevation":	37.518936157226562,
+	"elevation_stdev":	0.73266780376434326,
+	"distance":	2.8671720027923584,
+	"distance_stdev":	0,
+	"sequence":	9680
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-173.99378967285156,
+	"azimuth_stdev":	3.7807362079620361,
+	"elevation":	35.554706573486328,
+	"elevation_stdev":	0.82383328676223755,
+	"distance":	2.9360320568084717,
+	"distance_stdev":	0,
+	"sequence":	9683
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-176.7408447265625,
+	"azimuth_stdev":	4.1195826530456543,
+	"elevation":	35.521652221679688,
+	"elevation_stdev":	0.92510586977005,
+	"distance":	3.05738353729248,
+	"distance_stdev":	0,
+	"sequence":	9684
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-178.38917541503906,
+	"azimuth_stdev":	4.810844898223877,
+	"elevation":	34.088474273681641,
+	"elevation_stdev":	1.3693994283676147,
+	"distance":	3.1042647361755371,
+	"distance_stdev":	0,
+	"sequence":	9685
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-179.57115173339844,
+	"azimuth_stdev":	5.76160764694214,
+	"elevation":	31.885965347290039,
+	"elevation_stdev":	2.3459992408752441,
+	"distance":	3.1460609436035156,
+	"distance_stdev":	0,
+	"sequence":	9686
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-179.66290283203125,
+	"azimuth_stdev":	6.4095439910888672,
+	"elevation":	31.648473739624023,
+	"elevation_stdev":	2.90299391746521,
+	"distance":	3.18309736251831,
+	"distance_stdev":	0,
+	"sequence":	9687
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-179.82135009765625,
+	"azimuth_stdev":	6.5964980125427246,
+	"elevation":	33.407169342041016,
+	"elevation_stdev":	2.9681327342987061,
+	"distance":	3.2519571781158447,
+	"distance_stdev":	0,
+	"sequence":	9688
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-179.82670593261719,
+	"azimuth_stdev":	6.32613754272461,
+	"elevation":	33.429603576660156,
+	"elevation_stdev":	2.9486267566680908,
+	"distance":	3.3361423015594482,
+	"distance_stdev":	0,
+	"sequence":	9689
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-179.99244689941406,
+	"azimuth_stdev":	5.5034174919128418,
+	"elevation":	34.055049896240234,
+	"elevation_stdev":	2.789501428604126,
+	"distance":	3.43748688697815,
+	"distance_stdev":	0,
+	"sequence":	9690
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-177.97100830078125,
+	"azimuth_stdev":	3.8096692562103271,
+	"elevation":	34.104473114013672,
+	"elevation_stdev":	2.4395473003387451,
+	"distance":	3.735133171081543,
+	"distance_stdev":	0,
+	"sequence":	9691
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-176.44828796386719,
+	"azimuth_stdev":	2.57010817527771,
+	"elevation":	33.846118927001953,
+	"elevation_stdev":	1.7872856855392456,
+	"distance":	3.8013670444488525,
+	"distance_stdev":	0,
+	"sequence":	9692
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-175.32145690917969,
+	"azimuth_stdev":	2.1909298896789551,
+	"elevation":	34.802932739257812,
+	"elevation_stdev":	1.6496776342391968,
+	"distance":	3.8656187057495117,
+	"distance_stdev":	0,
+	"sequence":	9694
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-175.45587158203125,
+	"azimuth_stdev":	2.4205546379089355,
+	"elevation":	34.645442962646484,
+	"elevation_stdev":	1.4749335050582886,
+	"distance":	3.9302382469177246,
+	"distance_stdev":	0,
+	"sequence":	9695
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-175.00619506835938,
+	"azimuth_stdev":	2.7564120292663574,
+	"elevation":	33.647289276123047,
+	"elevation_stdev":	1.4555944204330444,
+	"distance":	3.965566873550415,
+	"distance_stdev":	0,
+	"sequence":	9696
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-175.25755310058594,
+	"azimuth_stdev":	2.836205005645752,
+	"elevation":	33.724315643310547,
+	"elevation_stdev":	1.2079288959503174,
+	"distance":	3.9972379207611084,
+	"distance_stdev":	0,
+	"sequence":	9697
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-175.474365234375,
+	"azimuth_stdev":	2.75191855430603,
+	"elevation":	33.887138366699219,
+	"elevation_stdev":	0.65075457096099854,
+	"distance":	4.06056547164917,
+	"distance_stdev":	0,
+	"sequence":	9698
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-175.64010620117188,
+	"azimuth_stdev":	2.489809513092041,
+	"elevation":	33.712482452392578,
+	"elevation_stdev":	0.60792511701583862,
+	"distance":	4.07041072845459,
+	"distance_stdev":	0,
+	"sequence":	9699
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-174.97259521484375,
+	"azimuth_stdev":	2.09386682510376,
+	"elevation":	33.999687194824219,
+	"elevation_stdev":	0.54419833421707153,
+	"distance":	4.0802555084228516,
+	"distance_stdev":	0,
+	"sequence":	9700
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-176.07444763183594,
+	"azimuth_stdev":	1.16431188583374,
+	"elevation":	34.803180694580078,
+	"elevation_stdev":	0.63918417692184448,
+	"distance":	4.09997797012329,
+	"distance_stdev":	0,
+	"sequence":	9701
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-177.20651245117188,
+	"azimuth_stdev":	0.90793251991271973,
+	"elevation":	35.302986145019531,
+	"elevation_stdev":	0.82464849948883057,
+	"distance":	4.1532120704650879,
+	"distance_stdev":	0,
+	"sequence":	9702
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-179.15087890625,
+	"azimuth_stdev":	1.6780523061752319,
+	"elevation":	35.662250518798828,
+	"elevation_stdev":	1.0065206289291382,
+	"distance":	4.1929168701171875,
+	"distance_stdev":	0,
+	"sequence":	9704
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-176.6971435546875,
+	"azimuth_stdev":	1.6754450798034668,
+	"elevation":	33.947605133056641,
+	"elevation_stdev":	1.0066549777984619,
+	"distance":	4.2461504936218262,
+	"distance_stdev":	0,
+	"sequence":	9705
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-174.84660339355469,
+	"azimuth_stdev":	1.7365154027938843,
+	"elevation":	30.579116821289062,
+	"elevation_stdev":	1.9153258800506592,
+	"distance":	4.2814798355102539,
+	"distance_stdev":	0,
+	"sequence":	9706
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-172.67169189453125,
+	"azimuth_stdev":	2.1957447528839111,
+	"elevation":	28.201358795166016,
+	"elevation_stdev":	3.1725399494171143,
+	"distance":	4.31689977645874,
+	"distance_stdev":	0,
+	"sequence":	9708
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-170.81976318359375,
+	"azimuth_stdev":	3.0028736591339111,
+	"elevation":	27.556999206542969,
+	"elevation_stdev":	4.06457757949829,
+	"distance":	4.37229299545288,
+	"distance_stdev":	0,
+	"sequence":	9709
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-170.18612670898438,
+	"azimuth_stdev":	3.6705441474914551,
+	"elevation":	28.053508758544922,
+	"elevation_stdev":	4.5048661231994629,
+	"distance":	4.50062608718872,
+	"distance_stdev":	0,
+	"sequence":	9710
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-170.33889770507812,
+	"azimuth_stdev":	4.0715718269348145,
+	"elevation":	28.662670135498047,
+	"elevation_stdev":	4.6803412437438965,
+	"distance":	4.5742654800415039,
+	"distance_stdev":	0,
+	"sequence":	9711
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-170.50798034667969,
+	"azimuth_stdev":	4.33559274673462,
+	"elevation":	27.421550750732422,
+	"elevation_stdev":	4.8692488670349121,
+	"distance":	4.62080717086792,
+	"distance_stdev":	0,
+	"sequence":	9712
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-170.2142333984375,
+	"azimuth_stdev":	4.4382843971252441,
+	"elevation":	25.959770202636719,
+	"elevation_stdev":	4.94503116607666,
+	"distance":	4.66319179534912,
+	"distance_stdev":	0,
+	"sequence":	9713
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-169.60165405273438,
+	"azimuth_stdev":	4.26844596862793,
+	"elevation":	23.6902904510498,
+	"elevation_stdev":	4.9739990234375,
+	"distance":	4.7094545364379883,
+	"distance_stdev":	0,
+	"sequence":	9714
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-170.6419677734375,
+	"azimuth_stdev":	3.0470249652862549,
+	"elevation":	24.794578552246094,
+	"elevation_stdev":	4.0413331985473633,
+	"distance":	4.7452821731567383,
+	"distance_stdev":	0,
+	"sequence":	9715
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-170.6514892578125,
+	"azimuth_stdev":	2.012808084487915,
+	"elevation":	26.148462295532227,
+	"elevation_stdev":	2.7877631187438965,
+	"distance":	4.7500419616699219,
+	"distance_stdev":	0,
+	"sequence":	9716
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-170.6947021484375,
+	"azimuth_stdev":	1.032971978187561,
+	"elevation":	27.930986404418945,
+	"elevation_stdev":	2.2744717597961426,
+	"distance":	4.78719711303711,
+	"distance_stdev":	0,
+	"sequence":	9717
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-168.81892395019531,
+	"azimuth_stdev":	0.7931058406829834,
+	"elevation":	26.263530731201172,
+	"elevation_stdev":	2.1833293437957764,
+	"distance":	4.81621551513672,
+	"distance_stdev":	0,
+	"sequence":	9718
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-167.26971435546875,
+	"azimuth_stdev":	1.4089813232421875,
+	"elevation":	25.409469604492188,
+	"elevation_stdev":	2.195488452911377,
+	"distance":	4.8439712524414062,
+	"distance_stdev":	0,
+	"sequence":	9719
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-166.24610900878906,
+	"azimuth_stdev":	2.0386979579925537,
+	"elevation":	24.871330261230469,
+	"elevation_stdev":	2.1360507011413574,
+	"distance":	4.9008183479309082,
+	"distance_stdev":	0,
+	"sequence":	9720
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-168.05056762695312,
+	"azimuth_stdev":	2.0779786109924316,
+	"elevation":	25.853096008300781,
+	"elevation_stdev":	1.7354277372360229,
+	"distance":	4.9246973991394043,
+	"distance_stdev":	0,
+	"sequence":	9721
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-169.04843139648438,
+	"azimuth_stdev":	2.0006477832794189,
+	"elevation":	27.031072616577148,
+	"elevation_stdev":	1.6657048463821411,
+	"distance":	4.9560666084289551,
+	"distance_stdev":	0,
+	"sequence":	9722
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-169.27326965332031,
+	"azimuth_stdev":	1.9413294792175293,
+	"elevation":	26.446878433227539,
+	"elevation_stdev":	1.6896711587905884,
+	"distance":	5.0023288726806641,
+	"distance_stdev":	0,
+	"sequence":	9723
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-170.10432434082031,
+	"azimuth_stdev":	1.9794173240661621,
+	"elevation":	26.069141387939453,
+	"elevation_stdev":	1.3214983940124512,
+	"distance":	5.0394835472106934,
+	"distance_stdev":	0,
+	"sequence":	9724
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-170.39189147949219,
+	"azimuth_stdev":	1.9448908567428589,
+	"elevation":	26.027828216552734,
+	"elevation_stdev":	1.1652448177337646,
+	"distance":	5.1037354469299316,
+	"distance_stdev":	0,
+	"sequence":	9725
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-171.41070556640625,
+	"azimuth_stdev":	2.081305980682373,
+	"elevation":	25.734878540039062,
+	"elevation_stdev":	1.1836405992507935,
+	"distance":	5.1773738861083984,
+	"distance_stdev":	0,
+	"sequence":	9726
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-170.13603210449219,
+	"azimuth_stdev":	2.0144357681274414,
+	"elevation":	24.398910522460938,
+	"elevation_stdev":	1.0634455680847168,
+	"distance":	5.2342209815979,
+	"distance_stdev":	0,
+	"sequence":	9727
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-169.2679443359375,
+	"azimuth_stdev":	2.0122652053833008,
+	"elevation":	24.875564575195312,
+	"elevation_stdev":	1.1105989217758179,
+	"distance":	5.3792095184326172,
+	"distance_stdev":	0,
+	"sequence":	9729
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-167.15118408203125,
+	"azimuth_stdev":	2.032973051071167,
+	"elevation":	24.488521575927734,
+	"elevation_stdev":	1.2253930568695068,
+	"distance":	5.4002671241760254,
+	"distance_stdev":	0,
+	"sequence":	9730
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-166.04409790039062,
+	"azimuth_stdev":	2.0868980884552,
+	"elevation":	25.053615570068359,
+	"elevation_stdev":	1.2051824331283569,
+	"distance":	5.4311723709106445,
+	"distance_stdev":	0,
+	"sequence":	9731
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-165.54731750488281,
+	"azimuth_stdev":	2.5245158672332764,
+	"elevation":	25.142623901367188,
+	"elevation_stdev":	1.2133429050445557,
+	"distance":	5.4359326362609863,
+	"distance_stdev":	0,
+	"sequence":	9732
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-164.76406860351562,
+	"azimuth_stdev":	3.0188286304473877,
+	"elevation":	24.811466217041016,
+	"elevation_stdev":	0.99479252099990845,
+	"distance":	5.4649510383605957,
+	"distance_stdev":	0,
+	"sequence":	9733
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-164.77346801757812,
+	"azimuth_stdev":	3.32554030418396,
+	"elevation":	25.141796112060547,
+	"elevation_stdev":	0.82351464033126831,
+	"distance":	5.5264101028442383,
+	"distance_stdev":	0,
+	"sequence":	9734
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-165.01344299316406,
+	"azimuth_stdev":	3.3668527603149414,
+	"elevation":	25.838035583496094,
+	"elevation_stdev":	0.77430945634841919,
+	"distance":	5.52640962600708,
+	"distance_stdev":	0,
+	"sequence":	9735
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-165.14854431152344,
+	"azimuth_stdev":	3.193267822265625,
+	"elevation":	26.801021575927734,
+	"elevation_stdev":	1.0034329891204834,
+	"distance":	5.5391302108764648,
+	"distance_stdev":	0,
+	"sequence":	9736
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-165.55534362792969,
+	"azimuth_stdev":	2.4824869632720947,
+	"elevation":	26.185359954833984,
+	"elevation_stdev":	1.0697121620178223,
+	"distance":	5.5544018745422363,
+	"distance_stdev":	0,
+	"sequence":	9737
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-165.66542053222656,
+	"azimuth_stdev":	1.7863548994064331,
+	"elevation":	25.900161743164062,
+	"elevation_stdev":	1.0077742338180542,
+	"distance":	5.5741238594055176,
+	"distance_stdev":	0,
+	"sequence":	9738
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-165.75404357910156,
+	"azimuth_stdev":	0.91910183429718018,
+	"elevation":	24.9562816619873,
+	"elevation_stdev":	0.99891471862792969,
+	"distance":	5.6099514961242676,
+	"distance_stdev":	0,
+	"sequence":	9739
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-166.59724426269531,
+	"azimuth_stdev":	0.75012838840484619,
+	"elevation":	25.225337982177734,
+	"elevation_stdev":	0.896596133708954,
+	"distance":	5.61979627609253,
+	"distance_stdev":	0,
+	"sequence":	9740
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-167.20474243164062,
+	"azimuth_stdev":	1.0148216485977173,
+	"elevation":	25.682882308959961,
+	"elevation_stdev":	0.87074017524719238,
+	"distance":	5.6245560646057129,
+	"distance_stdev":	0,
+	"sequence":	9741
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-168.41920471191406,
+	"azimuth_stdev":	1.5340133905410767,
+	"elevation":	25.648015975952148,
+	"elevation_stdev":	0.84559923410415649,
+	"distance":	5.5955371856689453,
+	"distance_stdev":	0,
+	"sequence":	9742
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-170.50198364257812,
+	"azimuth_stdev":	2.3379132747650146,
+	"elevation":	27.357143402099609,
+	"elevation_stdev":	1.0417381525039673,
+	"distance":	5.5781612396240234,
+	"distance_stdev":	0,
+	"sequence":	9743
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-171.90023803710938,
+	"azimuth_stdev":	3.0811097621917725,
+	"elevation":	27.36793327331543,
+	"elevation_stdev":	1.1592128276824951,
+	"distance":	5.522148609161377,
+	"distance_stdev":	0,
+	"sequence":	9744
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-172.69898986816406,
+	"azimuth_stdev":	3.6339015960693359,
+	"elevation":	28.189992904663086,
+	"elevation_stdev":	1.4674822092056274,
+	"distance":	5.5058498382568359,
+	"distance_stdev":	0,
+	"sequence":	9745
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-170.06282043457031,
+	"azimuth_stdev":	3.4835660457611084,
+	"elevation":	27.573919296264648,
+	"elevation_stdev":	1.5573440790176392,
+	"distance":	5.4835209846496582,
+	"distance_stdev":	0,
+	"sequence":	9746
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-167.35736083984375,
+	"azimuth_stdev":	3.2779397964477539,
+	"elevation":	26.328699111938477,
+	"elevation_stdev":	1.5541958808898926,
+	"distance":	5.45450210571289,
+	"distance_stdev":	0,
+	"sequence":	9747
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-165.34071350097656,
+	"azimuth_stdev":	3.3347165584564209,
+	"elevation":	24.368837356567383,
+	"elevation_stdev":	1.7927685976028442,
+	"distance":	5.3818302154541016,
+	"distance_stdev":	0,
+	"sequence":	9748
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-165.91448974609375,
+	"azimuth_stdev":	3.30985951423645,
+	"elevation":	24.1452751159668,
+	"elevation_stdev":	1.94928777217865,
+	"distance":	5.3818302154541016,
+	"distance_stdev":	0,
+	"sequence":	9749
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-166.23747253417969,
+	"azimuth_stdev":	3.35331916809082,
+	"elevation":	23.948286056518555,
+	"elevation_stdev":	2.155189037322998,
+	"distance":	5.3818297386169434,
+	"distance_stdev":	0,
+	"sequence":	9750
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-166.30747985839844,
+	"azimuth_stdev":	3.44006609916687,
+	"elevation":	23.72236442565918,
+	"elevation_stdev":	2.38914704322815,
+	"distance":	5.386589527130127,
+	"distance_stdev":	0,
+	"sequence":	9751
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-165.62628173828125,
+	"azimuth_stdev":	3.6331009864807129,
+	"elevation":	22.491497039794922,
+	"elevation_stdev":	2.8163466453552246,
+	"distance":	5.3626565933227539,
+	"distance_stdev":	0,
+	"sequence":	9752
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-165.63868713378906,
+	"azimuth_stdev":	3.6032483577728271,
+	"elevation":	20.570205688476562,
+	"elevation_stdev":	3.40165376663208,
+	"distance":	5.30219316482544,
+	"distance_stdev":	0,
+	"sequence":	9753
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-165.77888488769531,
+	"azimuth_stdev":	3.1150541305541992,
+	"elevation":	20.4752197265625,
+	"elevation_stdev":	3.6556639671325684,
+	"distance":	5.22041416168213,
+	"distance_stdev":	0,
+	"sequence":	9754
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-165.4241943359375,
+	"azimuth_stdev":	1.842565655708313,
+	"elevation":	19.551315307617188,
+	"elevation_stdev":	3.5935454368591309,
+	"distance":	4.9302587509155273,
+	"distance_stdev":	0,
+	"sequence":	9755
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-165.35122680664062,
+	"azimuth_stdev":	0.79631578922271729,
+	"elevation":	18.498294830322266,
+	"elevation_stdev":	3.498668909072876,
+	"distance":	4.89426851272583,
+	"distance_stdev":	0,
+	"sequence":	9756
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-165.3685302734375,
+	"azimuth_stdev":	0.46449273824691772,
+	"elevation":	17.8809986114502,
+	"elevation_stdev":	3.4372355937957764,
+	"distance":	4.8508729934692383,
+	"distance_stdev":	0,
+	"sequence":	9757
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-165.42239379882812,
+	"azimuth_stdev":	0.45337527990341187,
+	"elevation":	18.811565399169922,
+	"elevation_stdev":	3.3302428722381592,
+	"distance":	4.8159184455871582,
+	"distance_stdev":	0,
+	"sequence":	9758
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-165.14845275878906,
+	"azimuth_stdev":	0.495618462562561,
+	"elevation":	18.488008499145508,
+	"elevation_stdev":	3.1071622371673584,
+	"distance":	4.81083345413208,
+	"distance_stdev":	0,
+	"sequence":	9759
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-165.24729919433594,
+	"azimuth_stdev":	0.43027934432029724,
+	"elevation":	16.9986572265625,
+	"elevation_stdev":	2.92004919052124,
+	"distance":	4.77112865447998,
+	"distance_stdev":	0,
+	"sequence":	9760
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-165.13459777832031,
+	"azimuth_stdev":	0.27664971351623535,
+	"elevation":	17.151817321777344,
+	"elevation_stdev":	2.3774473667144775,
+	"distance":	4.67537260055542,
+	"distance_stdev":	0,
+	"sequence":	9761
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-164.48052978515625,
+	"azimuth_stdev":	0.45337527990341187,
+	"elevation":	19.587940216064453,
+	"elevation_stdev":	1.7428258657455444,
+	"distance":	4.6702871322631836,
+	"distance_stdev":	0,
+	"sequence":	9762
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-168.24853515625,
+	"azimuth_stdev":	1.2949872016906738,
+	"elevation":	19.851266860961914,
+	"elevation_stdev":	1.6094691753387451,
+	"distance":	4.6518354415893555,
+	"distance_stdev":	0,
+	"sequence":	9763
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	171.4715576171875,
+	"azimuth_stdev":	9.48777103424072,
+	"elevation":	23.473958969116211,
+	"elevation_stdev":	2.5658707618713379,
+	"distance":	4.624079704284668,
+	"distance_stdev":	0,
+	"sequence":	9764
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	166.58792114257812,
+	"azimuth_stdev":	14.027406692504883,
+	"elevation":	26.245723724365234,
+	"elevation_stdev":	4.0943341255188,
+	"distance":	4.5708451271057129,
+	"distance_stdev":	0,
+	"sequence":	9765
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	165.94900512695312,
+	"azimuth_stdev":	16.7325267791748,
+	"elevation":	28.147922515869141,
+	"elevation_stdev":	5.4596076011657715,
+	"distance":	4.5275278091430664,
+	"distance_stdev":	0,
+	"sequence":	9766
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	168.36325073242188,
+	"azimuth_stdev":	17.814350128173828,
+	"elevation":	31.616905212402344,
+	"elevation_stdev":	7.06334638595581,
+	"distance":	4.4706807136535645,
+	"distance_stdev":	0,
+	"sequence":	9767
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	168.61477661132812,
+	"azimuth_stdev":	18.089452743530273,
+	"elevation":	32.890804290771484,
+	"elevation_stdev":	8.2902765274047852,
+	"distance":	4.4353518486022949,
+	"distance_stdev":	0,
+	"sequence":	9768
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	167.9302978515625,
+	"azimuth_stdev":	17.664714813232422,
+	"elevation":	33.647342681884766,
+	"elevation_stdev":	8.99381446838379,
+	"distance":	4.4024195671081543,
+	"distance_stdev":	0,
+	"sequence":	9769
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	169.45098876953125,
+	"azimuth_stdev":	16.297100067138672,
+	"elevation":	35.799285888671875,
+	"elevation_stdev":	9.21490955352783,
+	"distance":	4.3665919303894043,
+	"distance_stdev":	0,
+	"sequence":	9770
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	170.55035400390625,
+	"azimuth_stdev":	13.885782241821289,
+	"elevation":	35.443599700927734,
+	"elevation_stdev":	8.56964683532715,
+	"distance":	4.251258373260498,
+	"distance_stdev":	0,
+	"sequence":	9771
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	171.43902587890625,
+	"azimuth_stdev":	9.6408576965332031,
+	"elevation":	35.890064239501953,
+	"elevation_stdev":	7.8223137855529785,
+	"distance":	4.19865322113037,
+	"distance_stdev":	0,
+	"sequence":	9772
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	171.77294921875,
+	"azimuth_stdev":	2.6855082511901855,
+	"elevation":	36.729244232177734,
+	"elevation_stdev":	6.36094045639038,
+	"distance":	4.16511106491089,
+	"distance_stdev":	0,
+	"sequence":	9773
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	172.26934814453125,
+	"azimuth_stdev":	2.8266925811767578,
+	"elevation":	36.843280792236328,
+	"elevation_stdev":	5.107940673828125,
+	"distance":	4.1118741035461426,
+	"distance_stdev":	0,
+	"sequence":	9774
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	172.81057739257812,
+	"azimuth_stdev":	2.8653147220611572,
+	"elevation":	38.259128570556641,
+	"elevation_stdev":	4.176177978515625,
+	"distance":	4.0586366653442383,
+	"distance_stdev":	0,
+	"sequence":	9775
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	169.61032104492188,
+	"azimuth_stdev":	2.2468936443328857,
+	"elevation":	38.078098297119141,
+	"elevation_stdev":	3.0461661815643311,
+	"distance":	4.0032439231872559,
+	"distance_stdev":	0,
+	"sequence":	9776
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	167.92510986328125,
+	"azimuth_stdev":	2.3225994110107422,
+	"elevation":	38.201023101806641,
+	"elevation_stdev":	2.5722136497497559,
+	"distance":	3.9678235054016113,
+	"distance_stdev":	0,
+	"sequence":	9777
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	166.18963623046875,
+	"azimuth_stdev":	2.8009505271911621,
+	"elevation":	38.351860046386719,
+	"elevation_stdev":	2.1601743698120117,
+	"distance":	3.934281587600708,
+	"distance_stdev":	0,
+	"sequence":	9778
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	164.12429809570312,
+	"azimuth_stdev":	3.6333012580871582,
+	"elevation":	38.6217269897461,
+	"elevation_stdev":	1.6946545839309692,
+	"distance":	3.8810441493988037,
+	"distance_stdev":	0,
+	"sequence":	9779
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	161.69253540039062,
+	"azimuth_stdev":	4.87501621246338,
+	"elevation":	38.1090202331543,
+	"elevation_stdev":	1.578349232673645,
+	"distance":	3.8376002311706543,
+	"distance_stdev":	0,
+	"sequence":	9780
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	159.42971801757812,
+	"azimuth_stdev":	6.1168723106384277,
+	"elevation":	38.134548187255859,
+	"elevation_stdev":	1.2518341541290283,
+	"distance":	3.7843661308288574,
+	"distance_stdev":	0,
+	"sequence":	9781
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	158.22573852539062,
+	"azimuth_stdev":	6.9591403007507324,
+	"elevation":	38.24566650390625,
+	"elevation_stdev":	0.88598698377609253,
+	"distance":	3.7496354579925537,
+	"distance_stdev":	0,
+	"sequence":	9782
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	157.33111572265625,
+	"azimuth_stdev":	7.3841042518615723,
+	"elevation":	38.641521453857422,
+	"elevation_stdev":	0.69465160369873047,
+	"distance":	3.7037034034729,
+	"distance_stdev":	0,
+	"sequence":	9783
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	156.33807373046875,
+	"azimuth_stdev":	7.3273324966430664,
+	"elevation":	40.090621948242188,
+	"elevation_stdev":	0.83695316314697266,
+	"distance":	3.6392648220062256,
+	"distance_stdev":	0,
+	"sequence":	9784
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	157.44097900390625,
+	"azimuth_stdev":	6.2615289688110352,
+	"elevation":	39.337776184082031,
+	"elevation_stdev":	0.90903699398040771,
+	"distance":	3.5875465869903564,
+	"distance_stdev":	0,
+	"sequence":	9785
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	159.19708251953125,
+	"azimuth_stdev":	5.2144489288330078,
+	"elevation":	41.1009521484375,
+	"elevation_stdev":	1.3932629823684692,
+	"distance":	3.51390814781189,
+	"distance_stdev":	0,
+	"sequence":	9786
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	160.41302490234375,
+	"azimuth_stdev":	4.0837836265563965,
+	"elevation":	43.35760498046875,
+	"elevation_stdev":	2.3611948490142822,
+	"distance":	3.4402694702148438,
+	"distance_stdev":	0,
+	"sequence":	9787
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	162.62112426757812,
+	"azimuth_stdev":	3.2611372470855713,
+	"elevation":	44.813907623291016,
+	"elevation_stdev":	3.2784602642059326,
+	"distance":	3.371347188949585,
+	"distance_stdev":	0,
+	"sequence":	9788
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	164.96197509765625,
+	"azimuth_stdev":	3.4839837551116943,
+	"elevation":	46.3482780456543,
+	"elevation_stdev":	4.1921582221984863,
+	"distance":	3.2263584136962891,
+	"distance_stdev":	0,
+	"sequence":	9789
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	166.39303588867188,
+	"azimuth_stdev":	4.383760929107666,
+	"elevation":	48.146137237548828,
+	"elevation_stdev":	5.03792428970337,
+	"distance":	3.1771283149719238,
+	"distance_stdev":	0,
+	"sequence":	9790
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	167.92727661132812,
+	"azimuth_stdev":	5.36465311050415,
+	"elevation":	50.9997215270996,
+	"elevation_stdev":	6.0841188430786133,
+	"distance":	3.120281457901001,
+	"distance_stdev":	0,
+	"sequence":	9791
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	171.63192749023438,
+	"azimuth_stdev":	6.6813583374023438,
+	"elevation":	52.0752944946289,
+	"elevation_stdev":	6.71663999557495,
+	"distance":	3.0873496532440186,
+	"distance_stdev":	0,
+	"sequence":	9793
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	173.358642578125,
+	"azimuth_stdev":	7.5701041221618652,
+	"elevation":	53.327899932861328,
+	"elevation_stdev":	7.064734935760498,
+	"distance":	3.0374743938446045,
+	"distance_stdev":	0,
+	"sequence":	9794
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	174.59628295898438,
+	"azimuth_stdev":	7.80366611480713,
+	"elevation":	55.856948852539062,
+	"elevation_stdev":	7.63049602508545,
+	"distance":	2.9294734001159668,
+	"distance_stdev":	0,
+	"sequence":	9795
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	176.05795288085938,
+	"azimuth_stdev":	7.7881135940551758,
+	"elevation":	56.6659049987793,
+	"elevation_stdev":	7.43200922012329,
+	"distance":	2.8767690658569336,
+	"distance_stdev":	0,
+	"sequence":	9796
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	177.94415283203125,
+	"azimuth_stdev":	7.7507224082946777,
+	"elevation":	57.700286865234375,
+	"elevation_stdev":	7.0884037017822266,
+	"distance":	2.81233024597168,
+	"distance_stdev":	0,
+	"sequence":	9797
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	179.4649658203125,
+	"azimuth_stdev":	7.46848726272583,
+	"elevation":	57.64202880859375,
+	"elevation_stdev":	6.5739765167236328,
+	"distance":	2.7640988826751709,
+	"distance_stdev":	0,
+	"sequence":	9798
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-179.64427185058594,
+	"azimuth_stdev":	7.0683159828186035,
+	"elevation":	58.790962219238281,
+	"elevation_stdev":	5.9729275703430176,
+	"distance":	2.7181668281555176,
+	"distance_stdev":	0,
+	"sequence":	9799
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-179.0198974609375,
+	"azimuth_stdev":	6.5919437408447266,
+	"elevation":	59.712326049804688,
+	"elevation_stdev":	5.2597537040710449,
+	"distance":	2.6558647155761719,
+	"distance_stdev":	0,
+	"sequence":	9800
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-178.40333557128906,
+	"azimuth_stdev":	5.84839677810669,
+	"elevation":	59.490085601806641,
+	"elevation_stdev":	4.3221001625061035,
+	"distance":	2.61093807220459,
+	"distance_stdev":	0,
+	"sequence":	9801
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-177.18174743652344,
+	"azimuth_stdev":	4.9425358772277832,
+	"elevation":	60.284553527832031,
+	"elevation_stdev":	3.8069782257080078,
+	"distance":	2.5755181312561035,
+	"distance_stdev":	0,
+	"sequence":	9802
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-177.37568664550781,
+	"azimuth_stdev":	4.36848497390747,
+	"elevation":	60.736007690429688,
+	"elevation_stdev":	3.1762654781341553,
+	"distance":	2.5377986431121826,
+	"distance_stdev":	0,
+	"sequence":	9803
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-96.364349365234375,
+	"azimuth_stdev":	33.002628326416016,
+	"elevation":	48.496665954589844,
+	"elevation_stdev":	4.9357976913452148,
+	"distance":	2.4949939250946045,
+	"distance_stdev":	0,
+	"sequence":	9804
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-97.3255615234375,
+	"azimuth_stdev":	44.96832275390625,
+	"elevation":	42.023456573486328,
+	"elevation_stdev":	8.45072841644287,
+	"distance":	2.4620344638824463,
+	"distance_stdev":	0,
+	"sequence":	9805
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-98.212364196777344,
+	"azimuth_stdev":	52.337055206298828,
+	"elevation":	39.396465301513672,
+	"elevation_stdev":	11.196145057678223,
+	"distance":	2.4221930503845215,
+	"distance_stdev":	0,
+	"sequence":	9806
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-94.1882781982422,
+	"azimuth_stdev":	57.246772766113281,
+	"elevation":	38.4144287109375,
+	"elevation_stdev":	13.046354293823242,
+	"distance":	2.4091932773590088,
+	"distance_stdev":	0,
+	"sequence":	9807
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-91.296989440917969,
+	"azimuth_stdev":	59.383796691894531,
+	"elevation":	37.986507415771484,
+	"elevation_stdev":	14.195451736450195,
+	"distance":	2.3789498805999756,
+	"distance_stdev":	0,
+	"sequence":	9808
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-89.919960021972656,
+	"azimuth_stdev":	58.284835815429688,
+	"elevation":	37.026283264160156,
+	"elevation_stdev":	14.693426132202148,
+	"distance":	2.3496458530426025,
+	"distance_stdev":	0,
+	"sequence":	9809
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-88.717514038085938,
+	"azimuth_stdev":	53.834651947021484,
+	"elevation":	35.337699890136719,
+	"elevation_stdev":	14.554643630981445,
+	"distance":	2.32370400428772,
+	"distance_stdev":	0,
+	"sequence":	9810
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-87.626953125,
+	"azimuth_stdev":	45.8785743713379,
+	"elevation":	34.369049072265625,
+	"elevation_stdev":	13.687294960021973,
+	"distance":	2.299485445022583,
+	"distance_stdev":	0,
+	"sequence":	9811
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-87.44091796875,
+	"azimuth_stdev":	33.578681945800781,
+	"elevation":	33.823234558105469,
+	"elevation_stdev":	11.435099601745605,
+	"distance":	2.2721419334411621,
+	"distance_stdev":	0,
+	"sequence":	9812
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-87.2078399658203,
+	"azimuth_stdev":	5.6112117767333984,
+	"elevation":	31.206094741821289,
+	"elevation_stdev":	6.76820993423462,
+	"distance":	2.253690242767334,
+	"distance_stdev":	0,
+	"sequence":	9813
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-87.8020477294922,
+	"azimuth_stdev":	5.4133844375610352,
+	"elevation":	29.202363967895508,
+	"elevation_stdev":	5.3994836807250977,
+	"distance":	2.2734124660491943,
+	"distance_stdev":	0,
+	"sequence":	9814
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-87.233116149902344,
+	"azimuth_stdev":	4.741971492767334,
+	"elevation":	27.844034194946289,
+	"elevation_stdev":	5.53111171722412,
+	"distance":	2.26592230796814,
+	"distance_stdev":	0,
+	"sequence":	9815
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-84.933929443359375,
+	"azimuth_stdev":	3.3544039726257324,
+	"elevation":	26.39036750793457,
+	"elevation_stdev":	5.97694969177246,
+	"distance":	2.27928876876831,
+	"distance_stdev":	0,
+	"sequence":	9816
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-83.901473999023438,
+	"azimuth_stdev":	2.777984619140625,
+	"elevation":	25.677196502685547,
+	"elevation_stdev":	6.1919093132019043,
+	"distance":	2.2843737602233887,
+	"distance_stdev":	0,
+	"sequence":	9817
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-83.3911666870117,
+	"azimuth_stdev":	2.7077813148498535,
+	"elevation":	24.834934234619141,
+	"elevation_stdev":	6.10817813873291,
+	"distance":	2.2843737602233887,
+	"distance_stdev":	0,
+	"sequence":	9818
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-82.453208923339844,
+	"azimuth_stdev":	2.8368465900421143,
+	"elevation":	24.335720062255859,
+	"elevation_stdev":	5.7658805847167969,
+	"distance":	2.3040659427642822,
+	"distance_stdev":	0,
+	"sequence":	9819
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-80.585235595703125,
+	"azimuth_stdev":	3.3340620994567871,
+	"elevation":	23.421535491943359,
+	"elevation_stdev":	5.4583148956298828,
+	"distance":	2.3203639984130859,
+	"distance_stdev":	0,
+	"sequence":	9820
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-80.1711883544922,
+	"azimuth_stdev":	3.7220950126647949,
+	"elevation":	23.113506317138672,
+	"elevation_stdev":	4.9003119468688965,
+	"distance":	2.3539061546325684,
+	"distance_stdev":	0,
+	"sequence":	9821
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-78.431526184082031,
+	"azimuth_stdev":	4.1990079879760742,
+	"elevation":	18.616294860839844,
+	"elevation_stdev":	4.9035067558288574,
+	"distance":	2.4325027465820312,
+	"distance_stdev":	0,
+	"sequence":	9822
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-77.4488067626953,
+	"azimuth_stdev":	4.5302276611328125,
+	"elevation":	15.398268699645996,
+	"elevation_stdev":	5.7769455909729,
+	"distance":	2.4684929847717285,
+	"distance_stdev":	0,
+	"sequence":	9823
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-77.367179870605469,
+	"azimuth_stdev":	4.3232560157775879,
+	"elevation":	13.123942375183105,
+	"elevation_stdev":	6.828589916229248,
+	"distance":	2.9492247104644775,
+	"distance_stdev":	0,
+	"sequence":	9824
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-76.9888381958008,
+	"azimuth_stdev":	3.84122371673584,
+	"elevation":	11.414570808410645,
+	"elevation_stdev":	7.7154736518859863,
+	"distance":	2.9617090225219727,
+	"distance_stdev":	0,
+	"sequence":	9825
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-76.7869644165039,
+	"azimuth_stdev":	3.5535485744476318,
+	"elevation":	8.95281410217285,
+	"elevation_stdev":	8.6719217300415039,
+	"distance":	3.0567104816436768,
+	"distance_stdev":	0,
+	"sequence":	9826
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-76.978973388671875,
+	"azimuth_stdev":	3.15601897239685,
+	"elevation":	6.5347599983215332,
+	"elevation_stdev":	9.499424934387207,
+	"distance":	3.08807897567749,
+	"distance_stdev":	0,
+	"sequence":	9827
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-76.0201950073242,
+	"azimuth_stdev":	2.67872166633606,
+	"elevation":	7.3996491432189941,
+	"elevation_stdev":	9.49372959136963,
+	"distance":	3.1685209274291992,
+	"distance_stdev":	0,
+	"sequence":	9828
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-75.608680725097656,
+	"azimuth_stdev":	2.12099838256836,
+	"elevation":	7.38091230392456,
+	"elevation_stdev":	8.90907669067383,
+	"distance":	3.2864065170288086,
+	"distance_stdev":	0,
+	"sequence":	9829
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-75.332992553710938,
+	"azimuth_stdev":	1.8324559926986694,
+	"elevation":	7.32219934463501,
+	"elevation_stdev":	7.8151798248291016,
+	"distance":	3.3483572006225586,
+	"distance_stdev":	0,
+	"sequence":	9830
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-74.7371597290039,
+	"azimuth_stdev":	1.4555321931838989,
+	"elevation":	8.01130962371826,
+	"elevation_stdev":	5.7044472694396973,
+	"distance":	3.4947769641876221,
+	"distance_stdev":	0,
+	"sequence":	9831
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-74.423187255859375,
+	"azimuth_stdev":	1.4259454011917114,
+	"elevation":	10.22589111328125,
+	"elevation_stdev":	4.070183277130127,
+	"distance":	3.5283191204071045,
+	"distance_stdev":	0,
+	"sequence":	9832
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-74.608070373535156,
+	"azimuth_stdev":	1.4254344701766968,
+	"elevation":	12.241150856018066,
+	"elevation_stdev":	3.253955602645874,
+	"distance":	3.6152865886688232,
+	"distance_stdev":	0,
+	"sequence":	9833
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-74.9604034423828,
+	"azimuth_stdev":	1.2941428422927856,
+	"elevation":	11.337064743041992,
+	"elevation_stdev":	2.8699133396148682,
+	"distance":	3.6759254932403564,
+	"distance_stdev":	0,
+	"sequence":	9834
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-75.319473266601562,
+	"azimuth_stdev":	1.1421951055526733,
+	"elevation":	10.636693000793457,
+	"elevation_stdev":	2.75189208984375,
+	"distance":	3.73613429069519,
+	"distance_stdev":	0,
+	"sequence":	9835
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-75.719619750976562,
+	"azimuth_stdev":	0.98789292573928833,
+	"elevation":	10.330011367797852,
+	"elevation_stdev":	2.8124098777771,
+	"distance":	3.7963433265686035,
+	"distance_stdev":	0,
+	"sequence":	9836
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-75.8143768310547,
+	"azimuth_stdev":	0.71122604608535767,
+	"elevation":	11.789122581481934,
+	"elevation_stdev":	2.7130973339080811,
+	"distance":	3.839787483215332,
+	"distance_stdev":	0,
+	"sequence":	9837
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-76.005477905273438,
+	"azimuth_stdev":	0.70814508199691772,
+	"elevation":	11.727532386779785,
+	"elevation_stdev":	2.6008973121643066,
+	"distance":	3.918602466583252,
+	"distance_stdev":	0,
+	"sequence":	9838
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-76.399185180664062,
+	"azimuth_stdev":	0.84299808740615845,
+	"elevation":	12.890166282653809,
+	"elevation_stdev":	2.4890813827514648,
+	"distance":	3.9792411327362061,
+	"distance_stdev":	0,
+	"sequence":	9839
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-75.992691040039062,
+	"azimuth_stdev":	0.885171115398407,
+	"elevation":	13.268237113952637,
+	"elevation_stdev":	2.12708592414856,
+	"distance":	4.03247833251953,
+	"distance_stdev":	0,
+	"sequence":	9840
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-76.0526885986328,
+	"azimuth_stdev":	0.86560583114624023,
+	"elevation":	15.076418876647949,
+	"elevation_stdev":	2.0873377323150635,
+	"distance":	4.09442949295044,
+	"distance_stdev":	0,
+	"sequence":	9841
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-75.633186340332031,
+	"azimuth_stdev":	0.705050528049469,
+	"elevation":	14.26393985748291,
+	"elevation_stdev":	2.1247828006744385,
+	"distance":	4.1406922340393066,
+	"distance_stdev":	0,
+	"sequence":	9842
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-74.377960205078125,
+	"azimuth_stdev":	0.7721523642539978,
+	"elevation":	13.555377960205078,
+	"elevation_stdev":	2.1872680187225342,
+	"distance":	4.20830535888672,
+	"distance_stdev":	0,
+	"sequence":	9843
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-73.989143371582031,
+	"azimuth_stdev":	0.99780255556106567,
+	"elevation":	12.534399032592773,
+	"elevation_stdev":	2.1140210628509521,
+	"distance":	4.2661857604980469,
+	"distance_stdev":	0,
+	"sequence":	9844
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-73.6355209350586,
+	"azimuth_stdev":	1.2656753063201904,
+	"elevation":	13.045026779174805,
+	"elevation_stdev":	1.8842155933380127,
+	"distance":	4.301605224609375,
+	"distance_stdev":	0,
+	"sequence":	9845
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-72.6828842163086,
+	"azimuth_stdev":	1.6559809446334839,
+	"elevation":	14.326333045959473,
+	"elevation_stdev":	1.5208169221878052,
+	"distance":	4.3533234596252441,
+	"distance_stdev":	0,
+	"sequence":	9846
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-71.599273681640625,
+	"azimuth_stdev":	2.1295661926269531,
+	"elevation":	15.553793907165527,
+	"elevation_stdev":	1.6414749622344971,
+	"distance":	4.39986515045166,
+	"distance_stdev":	0,
+	"sequence":	9847
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-71.0147705078125,
+	"azimuth_stdev":	2.4830737113952637,
+	"elevation":	16.794679641723633,
+	"elevation_stdev":	1.879037618637085,
+	"distance":	4.5281982421875,
+	"distance_stdev":	0,
+	"sequence":	9848
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-71.1375045776367,
+	"azimuth_stdev":	2.5245158672332764,
+	"elevation":	15.525771141052246,
+	"elevation_stdev":	1.8624751567840576,
+	"distance":	4.5716423988342285,
+	"distance_stdev":	0,
+	"sequence":	9849
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-71.3370590209961,
+	"azimuth_stdev":	2.4241619110107422,
+	"elevation":	15.093212127685547,
+	"elevation_stdev":	1.7970519065856934,
+	"distance":	4.6318511962890625,
+	"distance_stdev":	0,
+	"sequence":	9850
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-71.564682006835938,
+	"azimuth_stdev":	2.0961267948150635,
+	"elevation":	13.798705101013184,
+	"elevation_stdev":	1.8085548877716064,
+	"distance":	4.66002368927002,
+	"distance_stdev":	0,
+	"sequence":	9851
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-71.4279098510742,
+	"azimuth_stdev":	1.660813570022583,
+	"elevation":	13.731227874755859,
+	"elevation_stdev":	1.8352811336517334,
+	"distance":	4.7586374282836914,
+	"distance_stdev":	0,
+	"sequence":	9852
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-71.4114303588867,
+	"azimuth_stdev":	1.382617712020874,
+	"elevation":	14.08985710144043,
+	"elevation_stdev":	1.7973016500473022,
+	"distance":	4.791569709777832,
+	"distance_stdev":	0,
+	"sequence":	9853
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-71.4400177001953,
+	"azimuth_stdev":	1.0455940961837769,
+	"elevation":	13.44428539276123,
+	"elevation_stdev":	1.6251004934310913,
+	"distance":	4.94547986984253,
+	"distance_stdev":	0,
+	"sequence":	9854
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-71.357872009277344,
+	"azimuth_stdev":	0.585301697254181,
+	"elevation":	13.429037094116211,
+	"elevation_stdev":	1.5564249753952026,
+	"distance":	5.00474214553833,
+	"distance_stdev":	0,
+	"sequence":	9855
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-70.9814224243164,
+	"azimuth_stdev":	0.27664971351623535,
+	"elevation":	14.515230178833008,
+	"elevation_stdev":	1.5520495176315308,
+	"distance":	5.1680383682250977,
+	"distance_stdev":	0,
+	"sequence":	9856
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-70.625694274902344,
+	"azimuth_stdev":	0.36919456720352173,
+	"elevation":	17.215255737304688,
+	"elevation_stdev":	1.9044255018234253,
+	"distance":	5.2197566032409668,
+	"distance_stdev":	0,
+	"sequence":	9857
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-69.818328857421875,
+	"azimuth_stdev":	0.68725204467773438,
+	"elevation":	17.112936019897461,
+	"elevation_stdev":	1.9810452461242676,
+	"distance":	5.31706142425537,
+	"distance_stdev":	0,
+	"sequence":	9858
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-70.346832275390625,
+	"azimuth_stdev":	0.75497078895568848,
+	"elevation":	16.043472290039062,
+	"elevation_stdev":	2.0344719886779785,
+	"distance":	5.3814997673034668,
+	"distance_stdev":	0,
+	"sequence":	9859
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-70.382797241210938,
+	"azimuth_stdev":	0.78339725732803345,
+	"elevation":	16.033525466918945,
+	"elevation_stdev":	2.09993839263916,
+	"distance":	5.4647359848022461,
+	"distance_stdev":	0,
+	"sequence":	9861
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-70.404296875,
+	"azimuth_stdev":	0.7540048360824585,
+	"elevation":	13.633139610290527,
+	"elevation_stdev":	2.1204817295074463,
+	"distance":	5.50457763671875,
+	"distance_stdev":	0,
+	"sequence":	9862
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-70.893791198730469,
+	"azimuth_stdev":	0.7034982442855835,
+	"elevation":	11.658661842346191,
+	"elevation_stdev":	2.5283207893371582,
+	"distance":	5.5912504196167,
+	"distance_stdev":	0,
+	"sequence":	9863
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-70.857093811035156,
+	"azimuth_stdev":	0.64286696910858154,
+	"elevation":	9.94014358520508,
+	"elevation_stdev":	3.2934823036193848,
+	"distance":	5.6885547637939453,
+	"distance_stdev":	0,
+	"sequence":	9864
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-70.7607955932617,
+	"azimuth_stdev":	0.55329418182373047,
+	"elevation":	11.237992286682129,
+	"elevation_stdev":	3.5502362251281738,
+	"distance":	5.7622647285461426,
+	"distance_stdev":	0,
+	"sequence":	9865
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-70.6385726928711,
+	"azimuth_stdev":	0.447713017463684,
+	"elevation":	11.598457336425781,
+	"elevation_stdev":	3.7104158401489258,
+	"distance":	5.87774133682251,
+	"distance_stdev":	0,
+	"sequence":	9866
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-70.9605255126953,
+	"azimuth_stdev":	0.44362425804138184,
+	"elevation":	13.303552627563477,
+	"elevation_stdev":	3.7054181098937988,
+	"distance":	5.9226679801940918,
+	"distance_stdev":	0,
+	"sequence":	9867
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-71.0834732055664,
+	"azimuth_stdev":	0.49192816019058228,
+	"elevation":	18.78797721862793,
+	"elevation_stdev":	4.0663275718688965,
+	"distance":	6.021324634552002,
+	"distance_stdev":	0,
+	"sequence":	9868
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-70.2844772338867,
+	"azimuth_stdev":	0.37409770488739014,
+	"elevation":	22.794063568115234,
+	"elevation_stdev":	5.5273427963256836,
+	"distance":	6.0740289688110352,
+	"distance_stdev":	0,
+	"sequence":	9869
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-69.907379150390625,
+	"azimuth_stdev":	0.47304466366767883,
+	"elevation":	25.123453140258789,
+	"elevation_stdev":	7.2478547096252441,
+	"distance":	6.207371711730957,
+	"distance_stdev":	0,
+	"sequence":	9870
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-69.500839233398438,
+	"azimuth_stdev":	0.65688616037368774,
+	"elevation":	27.905797958374023,
+	"elevation_stdev":	9.11043643951416,
+	"distance":	6.3489985466003418,
+	"distance_stdev":	0,
+	"sequence":	9871
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-69.578475952148438,
+	"azimuth_stdev":	0.764563798904419,
+	"elevation":	30.18803596496582,
+	"elevation_stdev":	10.72107982635498,
+	"distance":	6.4092073440551758,
+	"distance_stdev":	0,
+	"sequence":	9872
+}
+silabs/aoa/angle/ble-pd-0C4314F0325A/ble-pd-60A423C966AA {
+	"azimuth":	-69.1435317993164,
+	"azimuth_stdev":	0.898248314857483,
+	"elevation":	32.047920227050781,
+	"elevation_stdev":	11.729203224182129,
+	"distance":	6.4528489112854,
+	"distance_stdev":	0,
+	"sequence":	9873
+}
