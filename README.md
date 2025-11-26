@@ -221,12 +221,21 @@ In this run, the tag was in my pocket. I stayed mostly still at first, then **tu
 
 ## Side-by-Side Norm Comparison
 
+### Polar (My Favorite)
+
+<table>
+<tr>
+<td align="center"><b></b><br><img src="experiment1/plots_trimmed/inhand_all_polar.png" width="400"></td>
+<td align="center"><b></b><br><img src="experiment1/plots_trimmed/inpocket_all_polar.png" width="400"></td>
+</tr>
+</table>
+
 ### Azimuth (Normalized)
 
 <table>
 <tr>
-<td align="center"><b>In-Hand</b><br><img src="experiment1/plots_trimmed/inhand_all_azimuth_norm.png" width="400"></td>
-<td align="center"><b>In-Pocket</b><br><img src="experiment1/plots_trimmed/inpocket_all_azimuth_norm.png" width="400"></td>
+<td align="center"><b></b><br><img src="experiment1/plots_trimmed/inhand_all_azimuth_norm.png" width="400"></td>
+<td align="center"><b></b><br><img src="experiment1/plots_trimmed/inpocket_all_azimuth_norm.png" width="400"></td>
 </tr>
 </table>
 
@@ -236,8 +245,8 @@ In this run, the tag was in my pocket. I stayed mostly still at first, then **tu
 
 <table>
 <tr>
-<td align="center"><b>In-Hand</b><br><img src="experiment1/plots_trimmed/inhand_all_elevation_norm.png" width="400"></td>
-<td align="center"><b>In-Pocket</b><br><img src="experiment1/plots_trimmed/inpocket_all_elevation_norm.png" width="400"></td>
+<td align="center"><b></b><br><img src="experiment1/plots_trimmed/inhand_all_elevation_norm.png" width="400"></td>
+<td align="center"><b></b><br><img src="experiment1/plots_trimmed/inpocket_all_elevation_norm.png" width="400"></td>
 </tr>
 </table>
 
@@ -247,8 +256,8 @@ In this run, the tag was in my pocket. I stayed mostly still at first, then **tu
 
 <table>
 <tr>
-<td align="center"><b>In-Hand</b><br><img src="experiment1/plots_trimmed/inhand_all_distance_norm.png" width="400"></td>
-<td align="center"><b>In-Pocket</b><br><img src="experiment1/plots_trimmed/inpocket_all_distance_norm.png" width="400"></td>
+<td align="center"><b></b><br><img src="experiment1/plots_trimmed/inhand_all_distance_norm.png" width="400"></td>
+<td align="center"><b></b><br><img src="experiment1/plots_trimmed/inpocket_all_distance_norm.png" width="400"></td>
 </tr>
 </table>
 
