@@ -1,4 +1,167 @@
-# ble-aoa-direction-finding
+# Technical Report: Bluetooth 5.1 Direction Finding with AoA
+
+## 1. Introduction
+
+Indoor localization remains a difficult problem due to multipath, signal attenuation, and the absence of GPS indoors. Bluetooth 5.1 introduced **Direction Finding**, enabling receivers equipped with antenna arrays to estimate the **Angle of Arrival (AoA)** of BLE constant-tone-extension (CTE) packets. With this capability, it becomes possible to infer **azimuth**, **elevation**, and approximate **(x, y, z)** positions of BLE tags.
+
+This project implements a complete **end-to-end indoor direction-finding pipeline** using Silicon Labs hardware (BRD4191A antenna array + BG22 BLE tag) and the RTL library. After building the system, I evaluated its real-world performance under two tag placements:
+
+- **In-hand**, where the tag is freely held
+- **In-pocket**, where the tag is partially obstructed by the user’s torso
+
+The goal was to observe how placement and human-body obstruction affect AoA accuracy, especially in **azimuth**, **elevation**, **distance**, and **polar** coordinate representations.
+
+---
+
+## 2. System Design
+
+### 2.1 Hardware Setup
+
+- **BLE Tag:** EFR32BG22 Thunderboard transmitting CTE packets
+- **Locator:** Silicon Labs BRD4191A 4×4 dual-polarized antenna array
+- **Host Machine:** Windows PC running:
+  - AoA Host Locator app (RTL library)
+  - Mosquitto MQTT broker
+  - Custom Python visualizer (`app.py`)
+
+### 2.2 Data Pipeline
+
+1. BLE tag transmits CTE packets.
+2. AoA locator samples IQ data across its antenna array.
+3. Host application processes IQ using the RTL library.
+4. Angle estimates (azimuth, elevation) are published to **MQTT**.
+5. Python visualizer reads MQTT data and renders real-time plots.
+
+### 2.3 Commands Used
+
+#### Mosquitto + Reminder
+
+> Mosquitto is required to run things outside of SimplicityStudio. Make sure this runs before starting the Python file.
+
+To run the visualizer:
+
+```bash
+python3 app.py -c pos_config.json
+```
+
+To run the AoA host locator:
+
+```bash
+bt_aoa_host_locator.exe -u COM6 -b 115200 \
+  -m localhost:1883 \
+  -c config/locator_config.json \
+  -l debug
+```
+
+To collect raw data:
+
+```bash
+mosquitto_sub -h localhost -t "silabs/aoa/position/#" -v
+```
+
+### 2.4 Experiment Setup
+
+- Sampling rate: ~50 sequences/second
+- Antenna: fixed position
+- Tag placements:
+  - In-pocket
+  - In-hand
+    User remained mostly still but performed small motions and one turn at the end (in-pocket case).
+
+## 3. Evaluation
+
+### 3.1 Azimuth
+
+**In-hand:**
+
+- Very smooth and tightly grouped
+- Clear response to small horizontal rotations
+- Minimal noise
+
+**In-pocket:**
+
+- Highly unstable; large swings even when still
+- Severe drift due to torso blockage
+- Turning the body produced abrupt, extreme angle jumps
+
+**Conclusion:**
+Azimuth is very sensitive to human-body obstruction.
+Holding the tag yields drastically better results.
+
+---
+
+### 3.2 Elevation
+
+**In-hand:**
+
+- More reactive and “spiky”
+- Sensitive to natural wrist tilt and hand motion
+
+**In-pocket:**
+
+- Flatter and smoother, but not more accurate
+- Absorption from the torso reduces variation, creating a “compressed” elevation profile
+
+**Conclusion:**
+In-pocket elevation looks smoother by being flattened by absorption.
+
+---
+
+### 3.3 Distance
+
+**In-hand:**
+
+- Clear peaks and recognizable structure
+- Good stability across runs
+
+**In-pocket:**
+
+- Peaks smear and shift
+- Much noisier due to attenuation through the torso
+- Global maximum still identifies the moment standing directly over the array
+
+**Conclusion:**
+Distance estimates degrade significantly in-pocket.
+
+---
+
+### 3.4 Polar Plots
+
+**In-hand:**
+
+- Clean, consistent polar lobes
+- Good geometric correlation to movement
+
+**In-pocket:**
+
+- Chaotic and jittery
+- Jumps at the start and end of sequences
+- Poor correlation to actual movement
+
+**Conclusion:**
+Polar representaion shows how destructive pocket placement is to calculated distance.
+
+---
+
+## 4. Overall Performance Summary
+
+| Metric        | In-Hand Performance | In-Pocket Performance      |
+| ------------- | ------------------- | -------------------------- |
+| **Azimuth**   | ★★★★★ stable        | ★★☆☆☆ unstable and erratic |
+| **Elevation** | ★★★☆☆ reactive      | ★★★★☆ smoother but biased  |
+| **Distance**  | ★★★★☆ reliable      | ★★★☆☆ smeared + attenuated |
+| **Polar**     | ★★★★★ clean         | ★★★☆☆ missing spots        |
+
+### Final Conclusion
+
+The system works reliably when the BLE tag is **held in the hand**, but experiences significant degradation in the **pocket** due to:
+
+- Human-body attenuation
+- Multipath interference (human body)
+- Reduced signal strength (in pocket)
+- Loss of line-of-sight to the antenna array
+
+Overall, tag placement is a dominant factor in achieving accurate AoA-based indoor localization.
 
 ![Picture of AOA simulated via Silicon Lab's software](imgs/image-2.png)
 Exploring Bluetooth 5.1 direction finding using Silicon Labs hardware and the RTL (Real-Time Locating) library.
@@ -12,20 +175,8 @@ Exploring Bluetooth 5.1 direction finding using Silicon Labs hardware and the RT
 - [x] Temporary config files were created manually to test the visualizer.
 - [x] Angle/position data appears
 - [x] Video Made
-- [ ] Video Edited
-- [ ] Project + Video Submitted
-
-## Mosquitto + Reminder
-
-Mosquitto is required to run things outside of SimplicityStudio. Make sure this runs before starting the Python file.
-
-## **Motivation**
-
-Indoor positioning remains an open challenge for navigation, asset tracking, and smart environments. While GPS has transformed outdoor localization, it does not work indoors due to multipath and signal attenuation. Bluetooth 5.1 introduced **Direction Finding**, enabling receivers with antenna arrays to estimate **Angle of Arrival (AoA)** and thus localize BLE tags. In this project, we move beyond simulations to **build a real Bluetooth indoor localization platform** using commercial development boards, antenna arrays, and Silicon Labs’ RTL library. This hands-on system will let us stream real-time angle and position estimates, evaluate localization accuracy, and gain experience with both wireless signal processing and end-to-end IoT system design.
-
-## **Background (what we’ll build on)**
-
-Silicon Labs’ SDK ships a complete reference stack to accelerate DF development: **AoA asset-tag** (CTE transmitter), **AoA locator** (CTE receiver in NCP mode), a **host locator app** that runs the **RTL library** to compute angles, and a **positioning host app** that fuses angles from multiple locators via MQTT into (x,y,z) positions. The app note also documents the software architecture, sample projects, and tools (AoA Analyzer, Positioning Tool).
+- [x] Video Edited
+- [x] Project + [Video Here](https://www.youtube.com/watch?v=wrYFgcZ45No&feature=youtu.be)
 
 ## Related Documentation:
 
@@ -62,7 +213,7 @@ Pipeline (end-to-end):
 ## Bill Materials
 
 - 1× **Tag**: EFR32xG22/G24 dev board (e.g., Thunderboard BG22), **BRD4184A with CR2032 battery**
-- **Locators**: ~~at least **2** antenna array boards (recommended **4** for robust 2D/3D), each on a WSTK + EFR32xG22 running NCP locator FW.~~ We sticking with 1 :D
+- **Locators**: ~~at least **2** antenna array boards (recommended **4** for robust 2D/3D), each on a WSTK + EFR32xG22 running NCP locator FW.~~ We're sticking with 1 :D
 - **Antenna array**: Silicon Labs **BRD4191A 4×4 dual-polarized** URA (per locator).
 - **PC/Host**: Windows (MSYS2/MinGW-64) or Linux (Ubuntu) box to run host apps, MQTT broker, and optional Python viz.
 - Stands/ceiling mounts, tape measure, power, USB cables.
@@ -83,14 +234,12 @@ Pipeline (end-to-end):
 - **RTL Library + Direction Finding Tool Suite (UG514)** - included as part of the Gecko/BT SDK packages in Simplicity Studio (used by the AoA Locator Host and Positioning Host apps).
 
 - **MQTT stack**
-
   - **Mosquitto** MQTT broker - used as the message bus between the host apps and visualizer  
     👉 https://mosquitto.org/download
   - (Optional) **MQTT Explorer** - nice GUI to inspect MQTT topics  
     👉 https://mqtt-explorer.com
 
 - **Build toolchain for the AoA Host apps**
-
   - **Windows:** `MSYS2`/`MinGW-w64` (for `make`, `gcc`, etc.)
   - **Linux:** standard `build-essential` + `libmosquitto-dev` (or distro equivalent)
 
@@ -101,7 +250,7 @@ Pipeline (end-to-end):
     pip install pyqtgraph pyqt5==5.14.0 pyopengl numpy Pillow paho-mqtt
     ```
 
-## What I ended up doing:
+## What I ended up doing (Shown in the video):
 
 To preface, I used Windows since MacOS was being weird.
 So I built the python program using this command:
