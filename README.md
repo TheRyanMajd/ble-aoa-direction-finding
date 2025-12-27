@@ -1,5 +1,5 @@
 # Technical Report: Bluetooth 5.1 Direction Finding with AoA
-
+[![Youtube Thumbnail](https://img.youtube.com/vi/wrYFgcZ45No/0.jpg)](https://www.youtube.com/watch?v=wrYFgcZ45No)
 ## 1. Introduction
 
 Indoor localization remains a difficult problem due to multipath, signal attenuation, and the absence of GPS indoors. Bluetooth 5.1 introduced **Direction Finding**, enabling receivers equipped with antenna arrays to estimate the **Angle of Arrival (AoA)** of BLE constant-tone-extension (CTE) packets. With this capability, it becomes possible to infer **azimuth**, **elevation**, and approximate **(x, y, z)** positions of BLE tags.
